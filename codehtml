@@ -199,6 +199,245 @@ const CONFIG = {
       fonte:    aparece pequena, logo abaixo da resposta
    ══════════════════════════════════════════════════════════════ */
 const ARTIGOS = [
+ {
+    "assunto": "Geografia humana",
+    "titulo": "Geografia humana — Resumo e contexto",
+    "texto": "Geografia humana é uma ciência humana que se consagra ao estudo e à descrição da interação entre a sociedade e o espaço. Ela ajuda o homem a entender o espaço em que vive, o espaço geográfico. Pode-se compreender o objeto da geografia humana como sendo a leitura crítica das ações, usos e transformações humanas sobre o espaço, assim como a incidência e o condicionamento exercidos pelo espaço sobre a sociedade e suas ações.",
+    "keywords": [
+      "Geografia humana",
+      "geografia humana"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia regional",
+    "titulo": "Geografia regional — Resumo e contexto",
+    "texto": "Geografia Regional é o estudo das regiões ao redor do mundo na busca de compreender e definir as características únicas de uma região em particular, que consistem em elementos naturais e humanos. É dada atenção também à regionalização que cobre as técnicas de delineação do espaço em regiões. Uma das questões mais debatidas ao longo da história da geografia são as relações entre a geografia regional e a geografia geral, sendo que cada uma das grandes correntes de pensamento geográfico (tradicional, quantitativa, humanista e crítica) apresentaram propostas diferentes acerca das contribuições que cada um desses ramos deveria dar à produção de conhecimento geográfico. \nA geografia regional também é considerada uma abordagem do estudo das ciências geográficas (semelhantemente à geografia quantitativa ou às geografias críticas). Essa abordagem era prevalescente durante a segunda metade do século XIX e a primeira metade do século XX também conhecida como o período do paradigma geográfico regional, quando a geografia regional tomou a posição central nas ciências geográficas. Foi posteriormente criticada por sua descritividade e a falta de teoria (geografia regional como abordagem empírica das ciências geográficas). Um criticismo massivo foi levantado contra essa abordagem nos anos 50 e durante a revolução quantitativa. Os principais críticos foram Kimble e Schaefer.\nO paradigma da geografia regional teve impacto em muitas das ciências geográficas (como a geografia econômica regional ou a geomorfologia regional). A geografia regional ainda é ensinada em algumas universidades como o estudo das principais regiões do mundo, como a América do Norte e Latina, a Europa, a Ásia e seus países. Além disso, a noção de uma abordagem de cidade-regional ao estudo da geografia ganhou crédito no meio dos anos 90 depois dos trabalhos de pessoas como Saskia Sassen, apesar de ser também criticada, por exemplo, por Peter Storper.\nGeógrafos regionais notáveis foram Alfred Hettner, da Alemanha, com seu conceito de corologia, Vidal de la Blache, da França, com a abordagem possibilista (o possibilismo sendo uma noção mais leve do determinismo ambiental) e o geógrafo norte-americano Richard Hartshorne com seu conceito de diferenciação de áreas.\nAlguns geógrafos tentaram também reintroduzir uma certa quantidade de regionalismo desde os anos 80. Isso envolveu uma complexa definição de regiões e suas interações com outras escalas.",
+    "keywords": [
+      "Geografia regional",
+      "geografia regional"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia da religião",
+    "titulo": "Geografia da religião — Resumo e contexto",
+    "texto": "Geografia da religião é o estudo do impacto da geografia (ou seja, do lugar e do espaço) na crença religiosa.\nOutro aspecto da relação entre religião e geografia é a ou uma geografia simultâneo \"geografia religiosa\", na qual as ideias geográficas são influenciadas pela religião, como na fabricação de mapas e a \"geografia bíblica\", que se desenvolveu no século XVI para identificar locais citados na Bíblia.",
+    "keywords": [
+      "Geografia da religião",
+      "geografia da religião",
+      "Geografia da religiao",
+      "geografia da religiao"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia turística",
+    "titulo": "Geografia turística — Resumo e contexto",
+    "texto": "A geografia turística é o estudo da viagem e do turismo como indústria e como atividade cultural e social. A geografia turística cobre diversos assuntos, incluindo o impacto ambiental do turismo, a economia do lazer, a indústria, gerenciamento e sociologia do turismo e a preservação de patrimônios históricos e naturais.\nA Geografia é fundamental para o estudo do turismo, pois este é geográfico em sua natureza. Turismo ocorre em lugares, e envolve movimento e atividades entre os lugares e é uma atividade em que tanto as características locais quando as identificações pessoais são formadas, por intermédio de relações criadas entre lugares, paisagens e pessoas. A geografia física provê um plano de fundo essencial, sobre o qual lugares turísticos são criados e impactos ambientais e suas preocupações são as questões principais, que precisam ser consideradas no gerenciamento do desenvolvimento dos lugares turísticos.\nAs abordagens do estudo diferem conforme as várias preocupações. Muito da literatura do gerenciamento turística continua seguindo a metodologia quantitativa e considera o turismo como consistindo em lugares de origem turística (ou áreas geradoras de turismo), destinos turísticos (ou locais de suprimento turístico) e a relação (conexões) entre locais de origem e destino, o que inclui rotas de transporte, relações de negócios e motivações de viagens.\nRecentes desenvolvimentos na geografia humana resultaram em abordagens como as da geografia cultural, que utilizam abordagens mais teoricamente diversificadas em relação ao turismo, incluindo a sociologia do turismo, que se estende além do turismo como uma atividade isolada e excepcional e considera como a viagem se encaixa no dia-a-dia das pessoas e como o turismo não é apenas um consumo de locais, mas também produz um “senso de lugar” no destino turístico.\nA atividade turística em prol do estudo da geografia, uma disciplina exclusivamente escolar, consiste em captar imagens coloridas através de máquinas fotográficas digitais, ou seja, fotografias representando cidades, monumentos, pontos turísticos, cachoeiras, feiras, eventos, ruas, etc. Todas essas imagens servem para ilustrar os artigos sobre países, estatoides e cidades nesta enciclopédia. Elas podem ser feitas por qualquer indivíduo independente do nível de escolaridade, ou seja, um autodidata, mesmo tendo algum conhecimento sobre história, geografia, demografia, política, subdivisões, economia, infraestrutura, cultura e símbolos oficiais de países, estatoides e cidades do mundo inteiro.\nPara planejar viagens para as cidades nas quais cujas fotografias serão captadas é necessário instalar em seu computador o Google Earth e observar o mapa com os caminhos os pontos a serem fotografados. Antes disso, deve-se anotar os seus endereços para melhor saber onde encontrá-los. Ter conhecimento sobre o lugar onde deseja ir é primordial para qualquer viagem bem sucedida.",
+    "keywords": [
+      "Geografia turística",
+      "geografia turística",
+      "Geografia turistica",
+      "geografia turistica"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia do desenvolvimento",
+    "titulo": "Geografia do desenvolvimento — Resumo e contexto",
+    "texto": "A geografia do desenvolvimento é o estudo da geografia terrestre referente ao padrão e à qualidade de vida dos habitantes humanos. Nesse contexto, o desenvolvimento é um processo de mudança que afeta a vida das pessoas. Pode envolver uma melhora na qualidade de vida percebida pelas pessoas que sofrem a mudança.\nO desenvolvimento, no entanto, nem sempre é um processo positivo. Gunder Fra comenta sobre as forças econômicas globais que levam ao desenvolvimento do subdesenvolvimento. Este assunto é coberto pela sua teoria da dependência.\nNa geografia do desenvolvimento, geógrafos estudam padrões espaciais no desenvolvimento. Tentam achar características pelas quais possam medir o desenvolvimento observando aspectos econômicos, políticos e sociais. Procuram entender as causas e consequências geográficas da variação do desenvolvimento. Estudos comparam os países mais economicamente desenvolvidos com os menos economicamente desenvolvidos. Adicionalmente, as variações entre os países são analisadas, ou mesmo entre regiões, como no caso da diferença entre o norte e o sul da Itália.\nCom a geografia do desenvolvimento, o desenvolvimento sustentável também é estudado como tentativa de entender como suprir as necessidades do presente sem comprometer o sustento das gerações futuras.",
+    "keywords": [
+      "Geografia do desenvolvimento",
+      "geografia do desenvolvimento"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Demografia",
+    "titulo": "Demografia — Resumo e contexto",
+    "texto": "A demografia (do grego demos, povo, e graphein, escrita) é uma área das ciências sociais que estuda a dinâmica populacional humana. O seu objeto de estudo engloba as dimensões, estatísticas, estrutura e distribuição das diversas populações humanas. Estas não são estáticas, variando devido à natalidade, mortalidade, migrações e envelhecimento. A análise demográfica centra-se também nas características de toda uma sociedade ou um grupo específico, definido por critérios como a educação, a nacionalidade, religião e grupo étnico.\nNo século XIX, mais precisamente no ano de 1855, Achille Guillard, em seu livro Eléments de Statistique Humaine ou Démographie Comparée (Elementos de Estatística Humana ou Demografia Comparada), usou pela primeira vez o termo demografia.\nA demografia estendeu-se além do campo da antropologia. Principalmente na segunda metade do século XX, muitos estudos voltaram-se ao estudo da demografia de animais e de plantas.",
+    "keywords": [
+      "Demografia",
+      "demografia"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia da saúde",
+    "titulo": "Geografia da saúde — Resumo e contexto",
+    "texto": "Geografia da saúde é a aplicação das informações geográficas, perspetivas e métodos para o estudo da saúde, das doenças e da assistência médica.",
+    "keywords": [
+      "Geografia da saúde",
+      "geografia da saúde",
+      "Geografia da saude",
+      "geografia da saude"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia do transporte",
+    "titulo": "Geografia do transporte — Resumo e contexto",
+    "texto": "Geografia do transporte é o campo da geografia humana que investiga as interações entre espaços, sejam elas feitas por pessoas, carga ou informação. Pode considerar os humanos e seu uso de veículos ou outros meios de transporte, e também como os mercados são servidos pelos fluxos de bens produzidos e matérias-primas. É um ramo da Geografia econômica.[...] o transporte sempre foi uma atividade muito particular: não é, por natureza, localizado. Embora diga respeito principalmente ao espaço, isso se dá de forma secundária, tanto como condição para a exploração e o desenvolvimento de recursos locais, quanto, sobretudo, como meio de reduzir o espaço. Um meio de transporte ideal seria instantâneo, gratuito, com capacidade ilimitada, etc. Em suma, aboliria o espaço.Os estudos sobre transportes e circulação estão presentes desde os clássicos da disciplina, em obras de autores como Friedrich Ratzel, Paul Vidal de La Blache, Camille Vallaux, Jean Brunhes, entre outros. A propósito, há uma diferenciação, mais pautada por questões lexicais (terminológicas), que se refere aos termos \"Geografia da Circulação\" ou \"Geografia dos Transportes\". Podemos dizer que a tradução do termo alemão Verkehrsgeographie redundou em traduções diferentes: circulação ou transporte. Então, as produções da escola alemã fizeram uso mais intenso do primeiro termo, enquanto a escola francesa e depois as inglesa e estadunidense preferiram o segundo termo.\nA produção acadêmica contemporânea apregoa que o correto seria apontar a existência prática de uma Geografia da circulação, transportes e logística. Nesse sentido, no que diz respeito ao conteúdo essencial, as investigações geográficas abarcam três pilares fundamentais. A circulação é entendida como um conceito dinâmico e totalizador, traduzida pelo fluxo ininterrupto de pessoas, bens, dados, capitais e outros elementos, identificando-se, sob a lógica do modo de produção capitalista, com o próprio movimento circulatório do capital. O transporte, por sua vez, possui um caráter mais restrito, atrelado ao paradigma técnico sob o qual se baseia o estudo, sendo definido como o ato, efeito ou ação de deslocar pessoas ou objetos técnicos entre espaços distintos, mediante intervenções que utilizam primordialmente veículos e infraestruturas. Por fim, a logística refere-se a um complexo de estratégias voltadas ao planejamento e à gestão do armazenamento e dos transportes, seja sob a ótica estatal ou corporativa, invocando também aspectos como eficiência, fluidez, planejamento e outras dinâmicas conectadas às cadeias produtivas em variadas escalas.\nGeografia e transportes se interseccionam em termos do movimento de pessoas, bens e informações. Ao longo do tempo, a acessibilidade cresceu e isso levou a grande aumento na mobilidade da população. Essa tendência vem desde a revolução industrial, apesar de ter sido significativamente acelerada na segunda metade do século XX por várias razões. Hoje, as sociedades dependem dos sistemas de transporte para uma grande variedade de atividades. Essas atividades incluem a o transporte de pessoas para o local de suas atividades, suprimento das necessidades energéticas, distribuição de bens e aquisição de necessidades pessoais. O desenvolvimento de uma rede de transporte suficiente tem sido um desafio contínuo para obter crescimento no desenvolvimento econômico, na mobilidade dos bens e principalmente para participar da economia globalizada. e tem sido ultimamente bem oficializada pelos polícias do Brasil\nO transporte e a geografia urbana são intimamente interligadas, com o conceito de \"Ribbon development\" sendo bem alinhado com os estudos urbanos e de transporte. Conforme os homens buscam cada vez mais viajar pelo mundo, a relação entre as áreas urbanas e o transporte se tornou muitas vezes obscura.\nA geografia do transporte mede o resultado da atividade humana entre e através dos lugares. Foca-se em itens como tempo de viagem, rotas utilizadas, meios de transporte, utilização de recursos e sustentabilidade dos tipos de transporte no meio ambiente. Outros ramos consideram a topografia, segurança do uso dos veículos e uso de energia em uma jornada individual ou em grupo.\nO propósito do transporte é vencer a barreira do espaço, que é moldada pelo homem e pelas restrições físicas como a distância, fronteiras políticas, tempo e topografias. O propósito específico do transporte é suprir uma demanda por mobilidade, já que apenas pode existir se mover algo de lugar, seja este algo pessoas ou objetos. Qualquer tipo de movimento precisa considerar as configurações geográficas, e então a escolha de uma forma disponível de transporte baseada no custo, disponibilidade e espaço.",
+    "keywords": [
+      "Geografia do transporte",
+      "geografia do transporte"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia histórica",
+    "titulo": "Geografia histórica — Resumo e contexto",
+    "texto": "Geografia histórica é o estudo das geografias humana, física, ficcional, teórica e \"real\" do passado. A geografia historica estuda uma ampla variedade de tópicos e questões. Um tema comum é o estudo das geografias do passado e como um local ou região muda através do tempo. Muitos geógrafos históricos estudam os padrões geográficos através do tempo, incluindo como as pessoas interagiram com seu ambiente, e criaram sua paisagem cultural.\nA geografia histórica busca determinar como características culturais das várias sociedades ao redor do planeta emergiram e evoluíram, entendendo sua relação com seus ambientes locais e arredores.\nPara alguns nos Estados Unidos, o termo geografia histórica tem um significado mais especializado: o nome dado por Carl Ortwin Sauer da Universidade da California, Berkeley para seu programa de reorganização da geografia cultural através de linhas regionais, começando nas primeiras décadas do século XX. Para Sauer, uma paisagem e as culturas existentes nela apenas poderiam ser entendidas se todas as suas influências através da história fossem levadas em conta: físicas, culturais, econômicas, políticas, ambientais. Sauer colocou a especialização regional como único meio de ganhar experiência suficiente nas regiões do mundo. Sua filosofia foi a principal influência no pensamento geográfico norte-americano na metade do século XX. Especialistas em regiões continuam em departamentos acadêmicos de geografia hoje em dia. Mas alguns geógrafos sentem que isto prejudicou essa disciplina; que muito esforço foi gasto na coleta de dados e na classificação, e pouco na análise e na explicação. Estudos se tornaram mais e mais específicos em certas áreas conforme os geógrafos posteriores procuravam locais diferentes para tentar engrandecer suas carreiras. Estes fatores podem ter levado à crise de 1950 na geografia norte-americana, que levantou sérias questões sobre a geografia como disciplina acadêmica nos Estados Unidos.\nEste campo da geografia humana é intimamente relacionado à história e à história ambiental.",
+    "keywords": [
+      "Geografia histórica",
+      "geografia histórica",
+      "Geografia historica",
+      "geografia historica"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Ecologia humana",
+    "titulo": "Ecologia humana — Resumo e contexto",
+    "texto": "O ramo científico da ecologia humana tem como objeto de estudo a relação entre as populações humanas e o ambiente.\n\nDe constituição física bastante desvantajosa, o ser humano (Homo sapiens), por meio da cultura, adotou, e levou às últimas consequências, a estratégia de adaptar o meio ambiente ao seu corpo. Logo, assim, sobreviver, até agora e em todos os ambientes terrestres do planeta, sem adaptações corporais que levassem sequer à formação de outras sub-espécies ou mesmo de raças.\nOs elementos do meio ambiente original assim manipulados passaram então também a integrar o meio ambiente dos seres humanos e dos outros elementos sujeitos aos efeitos da manipulação. O meio ambiente humano combina, assim, tanto os elementos naturais (orgânicos e inorgânicos) quanto os culturais que dão suporte à vida humana nos diversos ambientes em que ela se desenvolve e pode ser observado em diferentes escalas espaciais: do quintal de uma casa até à biosfera como um todo.\nO meio ambiente humano pode ser mais ou menos favorável à manutenção da saúde humana, ou seja, à normalidade das funções orgânicas, físicas ou mentais necessárias para a sobrevivência e reprodução dos indivíduos. Há, contudo, um limite mínimo de salubridade que é aquele que possibilita a sobrevivência de uma quantidade mínima de indivíduos até a idade reprodutiva e a sua reprodução numa taxa suficiente para repôr os indivíduos mortos. Abaixo desse limite mínimo de salubridade, a espécie está fadada à extinção. Esse limite mínimo é bastante inferior aos padrões de conforto (entendido como bem-estar material) atualmente considerados civilizados. A questão intergeracional impõe, contudo, um limite máximo ao conforto usufruído por uma dada geração humana, pois este não pode ser obtido às custas dos meios necessários para a manutenção de um meio ambiente sadio para as gerações futuras.\nPodemos assim definir o meio ambiente humano saudável como aquele que permite a sobrevivência por tempo indeterminado da espécie humana e, ao mesmo tempo, satisfaz, no maior grau possível, as necessidades de cada indivíduo humano, proporcionando-lhe a oportunidade de viver uma vida digna. Essa definição inclui tanto a dimensão física (o limite mínimo físico de salubridade e máximo de conforto), quanto a cultural (a necessidade de respeito a cada indivíduo humano, evitando um cinismo estatístico, e a concepção de bem de cada cultura) de um meio ambiente saudável. É, portanto, uma definição relativamente aberta e que deverá ser especificada para cada grupo cultural por meio do embate político.",
+    "keywords": [
+      "Ecologia humana",
+      "ecologia humana"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Geografia física",
+    "titulo": "Geografia física — Resumo e contexto",
+    "texto": "Geografia física ou fisiografia é o estudo das características naturais existentes na superfície terrestre, ou seja, o estudo das condições da natureza ou paisagem natural da Terra.\nA superfície da Terra é irregular e varia de um lugar para outro em função da inter-relação dinâmica entre os fatores entre si e geográfica em conjunto com outros fatores. A manifestação local deste produto dinâmica é conhecida como paisagem, que é em Geografia um fenômeno de interesse particular, mesmo considera por muitos a ser o objeto de estudo da geografia (Otto Schlüter, Siegfried Passarge, Leo Waibel, Jean Brunes, Carl Sauer, entre outros). \n\nUma das teorias clássicas para explicação da evolução da paisagem como produto da dinâmica da superfície terrestre, é denominada teoria do ciclo geográfico (DAVIS, 1899). O ciclo geográfico começa com o soerguimento do relevo, de proporções continentais, através de processos geológicos (epirogênese, vulcanismo, orogênese, etc.). A partir disso, os rios e o escoamento superficial começam a criar vales com a forma de V entre as montanhas (a fase chamada \"juventude\"). Durante esta primeira etapa, o terreno é mais íngreme e mais irregular. Ao longo do tempo, as correntes podem esculpir vales mais amplos (\"maturidade\"). Por fim, tudo se tornaria uma planície (senilidade) nivelada à menor altitude possível (chamada de \"nível do base\") Esta planície final foi chamada peneplanície por William Morris Davis, que significa \"quase plana\".\nContudo, o reconhecimento da Tectónica de placas na década de 1950, e da neotectônica em áreas plataformais, subsidiou novas interpretações acerca da evolução das paisagens, como o princípio do equilíbrio dinâmico para explicação das formas de relevo. Segundo este princípio, a superfície pode ser modelada indefinidamente sem que haja um arrasamento do relevo e formação de peneplanícies. Isto se daria em função da compensação isostática, sendo as formas de relevo resultantes da interação entre os tipos de rocha e os climas atuantes.\nEsses processos permitem o trânsito alívio por diferentes fases. Os fatores de estos processos  podem ser classificados em quatro grupos:\n\nFatores Geográficos: a paisagem é afetada tanto pela fatores bióticos e abióticos, que são considerados geográficos só fatores abióticos de origem exógena, tais como relevo, solo, clima e corpos d'água. O clima, com elementos como pressão, temperatura, ventos. Água de superfície com a ação do escoamento, o rio e a ação do mar. O gelo glacial com modelagem, entre outros. Esses são fatores que ajudam a modelo favorecendo processos de erosão.\nFatores Bióticos: O efeito de fatores bióticos no alívio geral, se opõem ao processo de modelagem, especialmente considerando a vegetação, no entanto, existem poucos animais que não trabalham com o processo erosivo, como cabras.\nFatores Geológicos: como placas tectônicas, o diastrofismo, a orogenia e vulcanismo são processos construtivos e de origem endógena que se opõem e interromper o modelagem do ciclo geográfico.\nFactores Humanos: As atividades humanas sobre o relevo é muito variável, dependendo da atividade desenvolvida neste contexto e como muitas vezes acontece com os homens é muito difícil generalizar e podem influenciar a favor ou contra a erosão.\nEmbora os vários fatores que influenciam a superfície da Terra estão incluídos na dinâmica do ciclo geográfico, fatores geográficos só contribuem para o ciclo de desenvolvimento e seu objetivo final, o peneplano. Enquanto o resto dos fatores (biológicos, geológicos e sociais) interromper ou perturbar o ciclo de desenvolvimento normal.",
+    "keywords": [
+      "Geografia física",
+      "geografia física",
+      "Geografia fisica",
+      "geografia fisica"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+"assunto": "Natureza da America Latina",
+ "titulo": "Natureza da America Latina",
+ "texto": "A América Latina possui uma das maiores e mais ricas diversidades de paisagens e ecossistemas do planeta, abrigando cerca de 50% da biodiversidade global. Os domínios naturais da América Latina são definidos pela interação marcante entre a latitude, as grandes cadeias de relevo e as massas de ar, dividindo a região em zonas ecológicas e climáticas únicas.Abaixo estão os principais domínios que moldam o continente:🌧️ 1. Domínio Equatorial (Amazônico)Localização: Abrange a gigantesca Bacia do Rio Amazonas (Norte do Brasil, Peru, Colômbia, Equador, Bolívia e Venezuela) e partes da América Central.Clima: Equatorial úmido, caracterizado por altas temperaturas o ano todo (médias acima de 25°C) e chuvas abundantes e diárias provocadas pela intensa evapotranspiração.Vegetação: Floresta tropical densa, latifoliada (folhas largas) e perene (sempre verde), com estratos vegetais bem definidos e uma biodiversidade inigualável.🌾 2. Domínio Tropical (Savanas e Matas)Localização: Cobre o Brasil Central, o México, a América Central, além dos Llanos na Colômbia e Venezuela.Clima: Tropical típico, com duas estações muito bem definidas: um verão quente e chuvoso e um inverno seco.Vegetação: Predominam formações de savana. No Brasil, manifesta-se como o Cerrado (árvores de casca grossa e troncos retorcidos); na Venezuela e Colômbia, forma extensas planícies de gramíneas conhecidas como Llanos.🌵 3. Domínio Árido e SemiáridoLocalização: Litoral do Peru e norte do Chile (Deserto do Atacama), norte do México, porções da Argentina (Patagônia extra-andina) e o Nordeste do Brasil (Sertão).Clima: Seco, com altas amplitudes térmicas diárias e chuvas escassas ou irregulares. O Atacama é a região mais árida do planeta devido ao bloqueio da umidade pela Cordilheira dos Andes e pela Corrente de Humboldt.Vegetação: Plantas xerófitas (adaptadas à seca), como cactos, arbustos espinhosos e gramíneas duras. No Brasil, esse domínio é representado pela Caatinga.⛰️ 4. Domínio de Alta Montanha (Andino)Localização: Estende-se por toda a faixa oeste da América do Sul, acompanhando a Cordilheira dos Andes do topo da Venezuela até a Terra do Fogo.Clima: Frio de montanha. A altitude dita as regras: a cada 1.000 metros de subida, a temperatura cai cerca de 6°C.Vegetação: Marcada por andares de vegetação (faixas altitudinais). Começa com florestas úmidas na base, passa por estepes e pastagens de altitude (puna ou páramo) e termina em rochas nuas cobertas por neve eterna nos picos.❄️ 5. Domínio Temperado e SubtropicalLocalização: Porção meridional da América do Sul, incluindo o Sul do Brasil, Uruguai, região central do Chile e a Argentina (Pampas).Clima: Subtropical e temperado, apresentando as quatro estações do ano bem delineadas, com invernos frios (frequentes geadas e neve ocasional) e verões amenos a quentes.Vegetação: Composta por florestas temperadas e caducifólias (sul do Chile), matas de coníferas como a Mata de Araucárias (Brasil) e vastas planícies de campos limpos conhecidas como os Pampas (Argentina e Uruguai).Map data ©2026 Google, INEGITerms1000 km",
+ "keywords": ["natureza da america latina", "natureza na america latina"],
+ "fonte": "wikipedia, toda matéria",
+ },
+{
+ "assunto": "Cultura na America Latina",
+ "titulo":  "Cultura na America Latina",
+ "texto": "A cultura da América Latina é uma rica tapeçaria formada pela mistura de povos indígenas, colonizadores europeus e populações africanas. Em relação às suas matrizes culturais e diversidade, o continente possui raízes plurais que combinam heranças pré-colombianas (como maias, incas e astecas), o legado ibérico (espanhol e português) e a profunda contribuição da diáspora africana. Nas línguas, há o predomínio do espanhol e do português, além de centenas de variantes indígenas e crioulas, enquanto o sincretismo se manifesta na forte fusão de crenças religiosas e festividades que misturam o catolicismo com as tradições africanas e nativas. Entre as principais manifestações, destacam-se a música e a dança, com ritmos mundialmente famosos como o samba no Brasil, o tango na Argentina, a salsa em Cuba e a cumbia na Colômbia. A culinária apresenta sabores baseados em ingredientes locais como milho, mandioca e batata, resultando em pratos emblemáticos como a feijoada, o ceviche peruano e as empanadas. As festas populares ganham vida em celebrações vibrantes como o Carnaval brasileiro e o Dia dos Mortos no México, enquanto as artes e a literatura são representadas por nomes universais como Frida Kahlo, Diego Rivera, Fernando Botero, Gabriel García Márquez e Jorge Luis Borges.",
+ "keywords": ["america latina cultura", "cultuta na america latina", "cultura da america latina", "cultura da latina america"],
+ "fonte": "Mundo educação, wikipedia",
+},
+{
+ "assunto": "Domínio Equatorial (Amazônico)",
+ "titulo": "Domínio Equatorial (Amazônico)",
+ "texto": "O Domínio Equatorial, também conhecido como Domínio Amazônico, abrange a gigantesca Bacia do Rio Amazonas, incluindo áreas do Norte do Brasil, Peru, Colômbia, Equador, Bolívia e Venezuela, além de partes da América Central. Seu clima é equatorial úmido, caracterizado por altas temperaturas durante todo o ano, com médias geralmente superiores a 25°C, e chuvas abundantes e frequentes, favorecidas pela intensa evapotranspiração. A vegetação predominante é a floresta tropical densa, latifoliada, com folhas largas, e perene, permanecendo verde durante o ano inteiro. Apresenta diferentes estratos vegetais e uma biodiversidade extremamente rica.",
+ "keywords": ["Domínio Equatorial (Amazônico)", "Dominio Equatorial (Amazonico)", "Domínio Equatorial", "Dominio Equatorial", "Domínio Amazônico", "Dominio Amazonico"],
+ "fonte": "Wikipedia, Toda Matéria"
+},
+
+{
+ "assunto": "Domínio Tropical (Savanas e Matas)",
+ "titulo": "Domínio Tropical (Savanas e Matas)",
+ "texto": "O Domínio Tropical abrange o Brasil Central, o México, a América Central e áreas conhecidas como Llanos, localizadas na Colômbia e na Venezuela. Seu clima é tropical típico, marcado pela presença de duas estações bem definidas: um verão quente e chuvoso e um inverno seco. A vegetação apresenta formações de savana, adaptadas à alternância entre períodos úmidos e secos. No Brasil, destaca-se o Cerrado, caracterizado por árvores de cascas grossas, troncos retorcidos e gramíneas. Já na Venezuela e na Colômbia, predominam extensas planícies de gramíneas conhecidas como Llanos.",
+ "keywords": ["Domínio Tropical (Savanas e Matas)", "Dominio Tropical (Savanas e Matas)", "Domínio Tropical", "Dominio Tropical", "Savanas e Matas"],
+ "fonte": "Wikipedia, Toda Matéria"
+},
+
+{
+ "assunto": "Domínio Árido e Semiárido",
+ "titulo": "Domínio Árido e Semiárido",
+ "texto": "O Domínio Árido e Semiárido está presente em diversas áreas da América Latina, incluindo o litoral do Peru, o norte do Chile, onde se encontra o Deserto do Atacama, o norte do México, partes da Argentina, como a Patagônia extra-andina, e o Sertão do Nordeste brasileiro. Seu clima é marcado pela escassez ou irregularidade das chuvas e por grandes amplitudes térmicas diárias em determinadas regiões. O Deserto do Atacama é considerado uma das regiões mais áridas do planeta, devido a fatores como a influência da Corrente de Humboldt e a barreira orográfica da Cordilheira dos Andes. A vegetação é composta principalmente por plantas xerófitas, adaptadas à falta de água, como cactos, arbustos espinhosos e gramíneas resistentes. No Brasil, a Caatinga é uma formação vegetal característica das condições semiáridas.",
+ "keywords": ["Domínio Árido e Semiárido", "Dominio Arido e Semiarido"],
+ "fonte": "Wikipedia, Toda Matéria"
+},
+
+{
+ "assunto": "Domínio de Alta Montanha (Andino)",
+ "titulo": "Domínio de Alta Montanha (Andino)",
+ "texto": "O Domínio de Alta Montanha, também chamado de Domínio Andino, estende-se ao longo da porção oeste da América do Sul, acompanhando a Cordilheira dos Andes desde a região da Venezuela até a Terra do Fogo. Seu clima é caracterizado pelas baixas temperaturas associadas às grandes altitudes. De maneira geral, a temperatura diminui aproximadamente 6°C a cada 1.000 metros de elevação, embora essa variação dependa das condições atmosféricas locais. A vegetação apresenta diferentes andares altitudinais: nas áreas mais baixas podem ocorrer florestas úmidas; em altitudes maiores aparecem estepes e pastagens de montanha, como a puna e o páramo; e nas regiões mais elevadas predominam terrenos rochosos, neve e gelo.",
+ "keywords": ["Domínio de Alta Montanha (Andino)", "Dominio de Alta Montanha (Andino)", "Domínio de Alta Montanha", "Dominio de Alta Montanha", "Domínio Andino", "Dominio Andino"],
+ "fonte": "Wikipedia, Toda Matéria"
+},
+
+{
+ "assunto": "Domínio Temperado e Subtropical",
+ "titulo": "Domínio Temperado e Subtropical",
+ "texto": "O Domínio Temperado e Subtropical ocorre principalmente na porção meridional da América do Sul, abrangendo o Sul do Brasil, o Uruguai, a região central do Chile e áreas da Argentina, incluindo os Pampas. O clima apresenta características subtropicais e temperadas, com variações sazonais de temperatura e estações do ano relativamente bem definidas. Os invernos podem ser frios, com ocorrência de geadas e neve em determinadas áreas, enquanto os verões variam de amenos a quentes. A vegetação é diversificada e inclui florestas temperadas e caducifólias no sul do Chile, a Mata de Araucárias no Sul do Brasil e extensas planícies de campos naturais conhecidas como Pampas, especialmente presentes na Argentina e no Uruguai.",
+ "keywords": ["Domínio Temperado e Subtropical", "Dominio Temperado e Subtropical"],
+ "fonte": "Wikipedia, Toda Matéria"
+},
+{
+    "assunto": "Geografia",
+    "titulo": "Geografia — Resumo e contexto",
+    "texto": "Geografia (do grego antigo γεωγραφία geōgraphía; combinação de gê 'Terra' e gráphō 'escrever') é o estudo das terras, características, habitantes e fenômenos da Terra. É uma disciplina abrangente que busca compreender a Terra e suas complexidades humanas e naturais — não apenas onde os objetos estão, mas também como eles mudaram e surgiram. Embora a geografia seja específica da Terra, muitos conceitos podem ser aplicados de forma mais ampla a outros corpos celestes no campo da ciência planetária. Tem sido chamada de \"uma ponte entre as ciências naturais e as disciplinas das ciências sociais\".\nAs origens de muitos dos conceitos da geografia podem ser rastreadas até o grego Eratóstenes de Cirene, que pode ter cunhado o termo \"geographia\" em (ca.  276–195/4 a.C.). O primeiro uso registrado da palavra γεωγραφία foi como título de um livro do estudioso grego Ptolemeu (100–170 d.C.). Este trabalho criou a chamada \"tradição ptolomaica\" da geografia, que incluía a \"teoria cartográfica ptolomaica\".\nNo entanto, os conceitos geográficos (como a cartografia) remontam às primeiras tentativas de compreender o mundo espacialmente, com o primeiro exemplo de uma tentativa de mapa-múndi datando do século IX a.C. na antiga Babilônia. A história da geografia como disciplina abrange culturas e milênios, sendo desenvolvida independentemente por vários grupos e influenciada pelo comércio entre esses grupos. Os conceitos centrais da geografia consistentes entre todas as abordagens são o foco no espaço, lugar, tempo e escala.\nAtualmente, a geografia é uma disciplina extremamente ampla, com múltiplas abordagens e modalidades. Houve várias tentativas de organizar a disciplina, incluindo as quatro tradições e em ramos. As técnicas empregadas podem geralmente ser divididas em abordagens quantitativas e qualitativas, com muitos estudos adotando abordagens de métodos mistos. Técnicas comuns incluem cartografia, sensoriamento remoto e levantamentos.",
+    "keywords": [
+      "Geografia",
+      "geografia"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+ "assunto": "América Latina",
+ "titulo": "América Latina",
+ "texto": "A América Latina corresponde à porção do continente americano formada principalmente por países onde predominam línguas derivadas do latim, especialmente o espanhol, o português e, em menor escala, o francês. Em uma divisão histórico-cultural ampla da América, costuma-se distingui-la da América Anglo-Saxônica, formada principalmente por Estados Unidos e Canadá. A América Latina estende-se do México até a Terra do Fogo, abrangendo áreas da América do Norte, América Central, Caribe e América do Sul. Internamente, pode ser dividida em diferentes sub-regiões segundo critérios geográficos, históricos, culturais e socioeconômicos, como México, América Central e Caribe, América Andina, América Platina, Brasil e as Guianas. Essas divisões ajudam a compreender a diversidade territorial, cultural, econômica e histórica existente entre os países latino-americanos.",
+ "keywords": ["América Latina", "America Latina"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "As Divisões Internas da América Latina (Sub-regiões)",
+ "titulo": "As Divisões Internas da América Latina (Sub-regiões)",
+ "texto": "A América Latina pode ser subdividida em diferentes regiões para facilitar sua análise geográfica, histórica, cultural e socioeconômica. Entre essas divisões estão o México, a América Central e o Caribe, a América Andina, a América Platina, o Brasil e as Guianas. A América Andina reúne países associados à Cordilheira dos Andes, enquanto a América Platina engloba Argentina, Uruguai e Paraguai, relacionados à Bacia do Prata. As Guianas compreendem Guiana, Suriname e Guiana Francesa, que possuem uma trajetória histórica marcada por colonizações não ibéricas. O Brasil costuma ser considerado uma sub-região específica devido à sua grande extensão territorial, população e predominância da língua portuguesa. Já a América Central e o Caribe podem ser divididos em áreas continentais e insulares.",
+ "keywords": ["As Divisões Internas da América Latina (Sub-regiões)", "As Divisoes Internas da America Latina (Sub-regioes)", "As Divisões Internas da América Latina", "As Divisoes Internas da America Latina"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "América Andina",
+ "titulo": "América Andina",
+ "texto": "A América Andina é uma sub-região da América Latina formada por países que possuem forte relação territorial e geográfica com a Cordilheira dos Andes. Geralmente, inclui Colômbia, Venezuela, Equador, Peru, Bolívia e Chile. A região apresenta grande diversidade de relevo, com extensas áreas de alta montanha, planaltos e vales andinos. Sua história também está profundamente ligada aos povos indígenas pré-colombianos, incluindo a civilização Inca, especialmente nos territórios do Peru, Bolívia e Equador. A mineração possui grande importância econômica em diversos países da região, que também apresentam atividades agropecuárias, industriais e comerciais variadas.",
+ "keywords": ["América Andina", "America Andina"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "América Platina",
+ "titulo": "América Platina",
+ "texto": "A América Platina é uma sub-região da América Latina formada por Argentina, Uruguai e Paraguai. Seu nome está relacionado à Bacia do Prata, um importante sistema hidrográfico da América do Sul formado principalmente pelos rios Paraná, Paraguai e Uruguai. A região apresenta extensas áreas de planícies e planaltos de baixa altitude, além de forte atividade agropecuária. Argentina e Uruguai possuem importantes áreas de campos naturais, especialmente os Pampas, enquanto o Paraguai apresenta áreas de planícies, planaltos e florestas. O clima varia entre condições temperadas e subtropicais, de acordo com a localização.",
+ "keywords": ["América Platina", "America Platina"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "As Guianas",
+ "titulo": "As Guianas",
+ "texto": "As Guianas estão localizadas no norte da América do Sul e compreendem a Guiana, o Suriname e a Guiana Francesa. A região possui uma trajetória histórica diferente da maior parte da América Latina, pois não foi colonizada principalmente por Espanha ou Portugal. A Guiana foi colonizada pelos britânicos, o Suriname pelos neerlandeses e a Guiana Francesa permaneceu sob domínio francês. Essa herança colonial contribuiu para uma diversidade linguística e cultural particular, com o inglês, o neerlandês e o francês como línguas oficiais, além de diversas línguas locais. A região também apresenta forte relação com o ambiente amazônico e com o litoral do Caribe.",
+ "keywords": ["As Guianas", "As Guianas", "guianas"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "A Macro-Regionalização: América Latina vs. Anglo-Saxônica",
+ "titulo": "A Macro-Regionalização: América Latina vs. Anglo-Saxônica",
+ "texto": "A macro-regionalização do continente americano pode ser realizada a partir de critérios históricos, culturais e linguísticos, dividindo-o principalmente em América Latina e América Anglo-Saxônica. A América Anglo-Saxônica é formada principalmente por Estados Unidos e Canadá, países nos quais predominam o inglês e uma trajetória histórica marcada pela colonização britânica, embora existam importantes comunidades e influências culturais de outras origens. A América Latina compreende principalmente os territórios americanos onde predominam línguas derivadas do latim, especialmente espanhol e português, abrangendo áreas do México, América Central, Caribe e América do Sul. Essa divisão é uma classificação histórico-cultural e não corresponde exclusivamente a limites físicos do continente.",
+ "keywords": ["A Macro-Regionalização: América Latina vs. Anglo-Saxônica", "A Macro-Regionalizacao: America Latina vs. Anglo-Saxonica", "A Macro-Regionalização", "A Macro-Regionalizacao"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "América Latina",
+ "titulo": "América Latina",
+ "texto": "A América Latina é uma grande região histórico-cultural do continente americano que se estende, em sentido amplo, do México até a Terra do Fogo. Sua formação está relacionada principalmente à colonização espanhola e portuguesa, embora também existam territórios e populações com outras heranças históricas e linguísticas. O espanhol e o português são as línguas predominantes, acompanhados por línguas indígenas, crioulas e outras línguas europeias. A região apresenta grande diversidade cultural, econômica, ambiental e social, incluindo países da América do Norte, América Central, Caribe e América do Sul. Entre suas principais características históricas estão a influência dos povos indígenas, da colonização europeia e das populações africanas trazidas durante o período colonial.",
+ "keywords": ["América Latina", "America Latina"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
+{
+ "assunto": "América Anglo-Saxônica",
+ "titulo": "América Anglo-Saxônica",
+ "texto": "A América Anglo-Saxônica é uma classificação histórico-cultural utilizada principalmente para designar Estados Unidos e Canadá. A denominação está relacionada à forte influência histórica e linguística britânica na formação desses países, onde o inglês possui grande predominância. A região ocupa a parte norte do continente americano e apresenta grande extensão territorial, diversidade climática e elevada urbanização. Estados Unidos e Canadá possuem economias diversificadas, com importantes setores industriais, tecnológicos, comerciais, financeiros e de serviços. Apesar da predominância da herança anglófona, ambos os países apresentam significativa diversidade cultural e linguística decorrente de diferentes processos migratórios e históricos.",
+ "keywords": ["América Anglo-Saxônica", "America Anglo-Saxonica"],
+ "fonte": "Wikipedia, Mundo Educação, Brasil Escola"
+},
 {
   "assunto": "Arte",
   "titulo": "A Arte e sua importância",
@@ -1308,21 +1547,21 @@ const ARTIGOS = [
   },
   {
     assunto: "Equador",
-    titulo: "Equador — Geografia, população, economia e cultura",
+    titulo: "Equador ",
     texto: "O Equador é um país situado no noroeste da América do Sul, entre a Colômbia e o Peru, com litoral no oceano Pacífico. Sua capital é Quito. O espanhol é o idioma oficial predominante, e línguas indígenas como o quéchua também são utilizadas. A moeda oficial é o dólar dos Estados Unidos (USD). O país recebeu seu nome por estar localizado na região da linha do Equador.\n\nGeografia: divide-se em regiões naturais que incluem a Costa, a Serra Andina, a Amazônia e as ilhas Galápagos. Os Andes atravessam o território, que possui vulcões e grande diversidade de ambientes.\n\nPopulação: a sociedade equatoriana inclui comunidades mestiças, indígenas, afro-equatorianas e de outras origens. A distribuição populacional varia entre as regiões costeiras, andinas e amazônicas.\n\nEconomia: petróleo, agricultura, pesca, comércio e serviços têm importância. Banana, cacau, flores e camarão estão entre os produtos de exportação.\n\nHistória: integrou o Império Espanhol e participou dos movimentos de independência sul-americanos. Tornou-se um Estado independente em 1830, após a dissolução da Gran Colômbia.\n\nCultura: tradições indígenas e espanholas aparecem na música, nos mercados, nas festas e na culinária. As ilhas Galápagos são reconhecidas por sua biodiversidade e importância científica.",
     keywords: ["Equador", "ecuador", "Quito", "dólar dos Estados Unidos", "USD", "Galápagos", "linha do Equador", "Andes", "quéchua", "cacau"],
     fonte: "Britannica; Brasil Escola; Banco Mundial"
   },
   {
     assunto: "Guiana",
-    titulo: "Guiana — Geografia, população, economia e cultura",
+    titulo: "Guiana",
     texto: "A Guiana, oficialmente República Cooperativa da Guiana, está localizada na costa norte da América do Sul. Faz fronteira com Venezuela, Brasil e Suriname e possui litoral no oceano Atlântico. Sua capital é Georgetown. O inglês é o idioma oficial e a moeda é o dólar guianense (GYD).\n\nGeografia: o território inclui uma estreita planície costeira, florestas tropicais, rios e planaltos no interior. As cataratas Kaieteur estão entre seus marcos naturais conhecidos.\n\nPopulação: a população concentra-se sobretudo na faixa costeira. A sociedade inclui descendentes de africanos, indianos, povos indígenas, mestiços e outros grupos, com uma diversidade cultural significativa.\n\nEconomia: a agricultura, mineração, serviços e, mais recentemente, a produção de petróleo têm papel importante. Ouro, bauxita, arroz e açúcar também são produtos relevantes.\n\nHistória: a região foi colonizada por potências europeias e tornou-se colônia britânica antes de conquistar a independência em 1966. É o único país sul-americano cujo idioma oficial é o inglês.\n\nCultura: a música, a culinária e as festas refletem influências caribenhas, africanas, indianas e indígenas. O país também participa de organizações regionais do Caribe.",
     keywords: ["Guiana", "Guyana", "guiana", "Georgetown", "dólar guianense", "GYD", "Kaieteur", "petróleo", "América do Sul", "inglês"],
     fonte: "Britannica; Brasil Escola; Banco Mundial"
   },
   {
     assunto: "Paraguai",
-    titulo: "Paraguai — Geografia, população, economia e cultura",
+    titulo: "Paraguai ",
     texto: "O Paraguai é um país sem litoral marítimo localizado no centro da América do Sul. Faz fronteira com Brasil, Argentina e Bolívia. Sua capital é Assunção. O espanhol e o guarani são idiomas oficiais, e a moeda nacional é o guarani paraguaio (PYG).\n\nGeografia: o rio Paraguai divide o país em duas grandes regiões: a Região Oriental, mais populosa e com áreas de planalto e floresta, e o Chaco, uma extensa região de planícies e vegetação adaptada a condições mais secas.\n\nPopulação: a população concentra-se principalmente na Região Oriental e na área metropolitana de Assunção. O uso cotidiano do guarani é uma característica marcante da sociedade paraguaia.\n\nEconomia: agricultura, pecuária, comércio e produção de energia hidrelétrica são setores importantes. Soja, carne bovina e eletricidade estão entre os produtos relevantes.\n\nHistória: declarou independência da Espanha em 1811. A Guerra da Tríplice Aliança, no século XIX, teve consequências profundas para o país. No século XX, viveu uma ditadura que terminou em 1989.\n\nCultura: a polca paraguaia, a harpa, o tereré e a culinária tradicional são referências culturais. O guarani permanece presente na música, na comunicação cotidiana e na identidade nacional.",
     keywords: ["Paraguai", "Paraguay", "paraguai", "Assunção", "guarani paraguaio", "PYG", "idioma guarani", "Chaco", "tereré", "Itaipu"],
     fonte: "Britannica; Brasil Escola; Banco Mundial"
@@ -3609,6 +3848,330 @@ const ARTIGOS = [
     fonte: "Wikipedia"
   },
   {
+    assunto: "Mali",
+    texto: "O Mali possui população absoluta estimada em cerca de 23.500.000 habitantes e densidade demográfica de aproximadamente 19 hab/km², com forte concentração no sul fértil (vale do Níger) e escassez demográfica no deserto do Saara (norte). A pirâmide etária é extremamente jovem, com base larga e alta proporção de menores de 15 anos. O crescimento populacional é elevado, em torno de 3,0% a 3,2% ao ano, impulsionado por uma taxa de fecundidade superior a 5,8 filhos por mulher. A expectativa de vida ao nascer gira em torno de 59 a 60 anos, limitada por desafios de saúde pública e conflitos. O saldo migratório é negativo ou neutro, com emigração regional e desafios de deslocamento interno. A taxa de alfabetização de adultos (15 anos ou mais) é de cerca de 35% a 38%. A média de anos de escolaridade adulta é baixa (cerca de 2 a 3 anos). O investimento público em educação orbita 3,5% a 4,5% do PIB. A evasão escolar e a distorção idade-série são graves, agravadas por crises de segurança e infraestrutura deficitária. O país não participa do PISA, avaliando o sistema por diretrizes nacionais e regionais.",
+    keywords: ["Mali", "mali"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mauritânia",
+    texto: "A Mauritânia possui população absoluta estimada em cerca de 5.000.000 de habitantes e baixa densidade demográfica de aproximadamente 5 hab/km², fortemente concentrada no sul (Vale do Senegal) e litoral atlântico (Nouakchott). A pirâmide etária é jovem, com base larga. O crescimento populacional é de cerca de 2,4% ao ano, com taxa de fecundidade de aproximadamente 4,3 filhos por mulher. A expectativa de vida ao nascer é de cerca de 65 a 66 anos. O saldo migratório é neutro a levemente negativo ou de trânsito migratório no Saara. A taxa de alfabetização adulta supera 53% a 55%. A média de anos de escolaridade adulta é de cerca de 4 a 5 anos. O investimento público em educação orbita 2,5% a 3,5% do PIB. A evasão escolar e a distorção idade-série afetam áreas rurais e nômades. O país não participa de avaliações globais como o PISA.",
+    keywords: ["Mauritania", "Mauritânia", "mauritania", "mauritânia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Maurício",
+    texto: "Maurício (Mauritius) possui população absoluta de cerca de 1.300.000 habitantes e alta densidade demográfica de aproximadamente 625 hab/km². A pirâmide etária transita para o envelhecimento avançado com base estreita e proporção crescente de idosos. O crescimento populacional é muito baixo ou estagnado (próximo de zero a 0,1% ao ano). A taxa de fecundidade é de cerca de 1,4 filhos por mulher. A expectativa de vida ao nascer supera 74 a 75 anos. O saldo migratório é neutro ou levemente positivo com atração pontual de qualificação. A taxa de alfabetização adulta supera 91% a 92%. A média de anos de escolaridade adulta é de cerca de 9 a 10 anos. O investimento público em educação orbita 4,5% a 5,5% do PIB. A evasão escolar é baixa no ciclo obrigatório. O país avalia o sistema por exames britânicos/regionais, sem participação direta no PISA.",
+    keywords: ["Mauricio", "Maurício", "mauricio", "maurício", "Mauritius", "mauritius"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Marrocos",
+    texto: "O Marrocos possui população absoluta de cerca de 37,8 milhões de habitantes e densidade demográfica de aproximadamente 85 hab/km², concentrada no litoral atlântico e vales interiores. A pirâmide etária transita para perfil adulto com estreitamento progressivo da base. O crescimento populacional é de cerca de 1,0% ao ano, com taxa de fecundidade de cerca de 2,2 filhos por mulher. A expectativa de vida ao nascer gira em torno de 74 anos. O saldo migratório é negativo devido à forte diáspora europeia e norte-americana. A taxa de alfabetização adulta supera 74% a 76%. A média de anos de escolaridade adulta é de cerca de 5,5 a 6 anos. O investimento público em educação orbita 5,5% a 6,5% do PIB. A evasão escolar no ensino médio e disparidades rurais/urbanas persistem. O país participa pontualmente de avaliações internacionais (como TIMSS/PISA em edições específicas), registrando desafios de proficiência.",
+    keywords: ["Marrocos", "marrocos"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Moçambique",
+    texto: "Moçambique possui população absoluta de cerca de 34,8 milhões de habitantes e densidade demográfica de aproximadamente 44 hab/km², concentrada no corredor litorâneo e províncias centrais/norte. A pirâmide etária é extremamente jovem, com base larga. O crescimento populacional é de cerca de 2,8% ao ano, com taxa de fecundidade de cerca de 4,5 filhos por mulher. A expectativa de vida ao nascer orbita 61 a 62 anos. O saldo migratório é neutro a levemente negativo ou regional. A taxa de alfabetização adulta gira em torno de 61% a 63%. A média de anos de escolaridade adulta é de cerca de 3,5 a 4 anos. O investimento público em educação orbita 6% a 7% do PIB. A evasão escolar primária/secundária e distorção idade-série são altas devido a vulnerabilidades climáticas e econômicas. O país não participa do PISA.",
+    keywords: ["Mocambique", "Moçambique", "mocambique", "moçambique"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Namíbia",
+    texto: "A Namíbia possui população absoluta de cerca de 3,0 milhões de habitantes e baixa densidade demográfica de aproximadamente 3,5 hab/km², altamente dispersa. A pirâmide etária é jovem-adulta em transição moderada. O crescimento populacional é de cerca de 1,4% ao ano, com taxa de fecundidade de cerca de 3,2 filhos por mulher. A expectativa de vida ao nascer gira em torno de 60 a 62 anos. O saldo migratório é neutro a levemente positivo. A taxa de alfabetização adulta supera 91% a 92%. A média de anos de escolaridade adulta é de cerca de 7 a 8 anos. O investimento público em educação é expressivo, orbitando 8% a 9% do PIB. A evasão escolar e desigualdades rurais desafiam o sistema. O país não participa do PISA.",
+    keywords: ["Namibia", "Namíbia", "namibia", "namíbia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Níger",
+    texto: "O Níger possui população absoluta de cerca de 27,5 milhões de habitantes e densidade demográfica de aproximadamente 22 hab/km², concentrada no sul (faixa de solo arável). A pirâmide etária é a mais jovem do mundo, com base extremamente larga. O crescimento populacional é de cerca de 3,8% ao ano, sustentado pela maior taxa de fecundidade global, superior a 6,8 filhos por mulher. A expectativa de vida ao nascer gira em torno de 62 anos. O saldo migratório é neutro a regional. A taxa de alfabetização adulta orbita 37% a 39%. A média de anos de escolaridade adulta é inferior a 2 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar massiva e desafios de infraestrutura rural marcam o sistema. O país não participa do PISA.",
+    keywords: ["Niger", "Níger", "niger", "níger"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Nigéria",
+    texto: "A Nigéria possui população absoluta de cerca de 232 milhões de habitantes e alta densidade demográfica de aproximadamente 245 hab/km², com focos densos no sudoeste (Lagos) e norte. A pirâmide etária é jovem, com base larga. O crescimento populacional é de cerca de 2,4% ao ano, com taxa de fecundidade de cerca de 5,1 filhos por mulher. A expectativa de vida ao nascer gira em torno de 53 a 54 anos. O saldo migratório é negativo devido à diáspora qualificada. A taxa de alfabetização adulta orbita 62% a 65%. A média de anos de escolaridade adulta é de cerca de 7 anos. O investimento público em educação orbita 5% a 7% do orçamento nacional (cerca de 2% a 3% do PIB). A evasão escolar e milhões de crianças fora da escola por desafios de segurança/pobreza são críticos. O país não participa do PISA.",
+    keywords: ["Nigeria", "Nigéria", "nigeria", "nigéria"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Ruanda",
+    texto: "Ruanda possui população absoluta de cerca de 14,3 milhões de habitantes e alta densidade demográfica de aproximadamente 550 hab/km². A pirâmide etária é jovem em transição acelerada. O crescimento populacional é de cerca de 2,3% ao ano, com taxa de fecundidade de cerca de 3,8 filhos por mulher em queda. A expectativa de vida ao nascer orbita 66 a 68 anos. O saldo migratório é neutro ou com acolhimento pontual de refugiados. A taxa de alfabetização adulta supera 74% a 76%. A média de anos de escolaridade adulta é de cerca de 4,5 a 5 anos. O investimento público em educação orbita 4,5% a 5,5% do PIB. A evasão escolar no ensino primário/secundário reduziu com reformas estatais focadas em STEM, mas distorção persiste. O país não participa do PISA.",
+    keywords: ["Ruanda", "ruanda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "São Tomé e Príncipe",
+    texto: "São Tomé e Príncipe possui população absoluta de cerca de 235.000 habitantes e densidade demográfica de aproximadamente 245 hab/km². A pirâmide etária é jovem-adulta. O crescimento populacional é de cerca de 2,0% ao ano, com taxa de fecundidade de cerca de 3,8 filhos por mulher. A expectativa de vida ao nascer gira em torno de 68 anos. O saldo migratório é neutro a levemente negativo. A taxa de alfabetização adulta supera 93% a 94%. A média de anos de escolaridade adulta é de cerca de 6 a 7 anos. O investimento público em educação orbita 5% a 6% do PIB. A evasão escolar secundária e recursos limitados afetam o ensino superior. O país não participa do PISA.",
+    keywords: ["Sao Tome e Principe", "São Tomé e Príncipe", "sao tome e principe", "são tomé e príncipe"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Senegal",
+    texto: "O Senegal possui população absoluta de cerca de 18,3 milhões de habitantes e densidade demográfica de aproximadamente 93 hab/km², concentrada no oeste (Dakar). A pirâmide etária é jovem, com base larga. O crescimento populacional é de cerca: 2,7% ao ano, com taxa de fecundidade de cerca de 4,1 filhos por mulher. A expectativa de vida ao nascer gira em torno de 68 anos. O saldo migratório é neutro a regional. A taxa de alfabetização adulta orbita 52% a 55%. A média de anos de escolaridade adulta é de cerca de 3 a 4 anos. O investimento público em educação orbita 5% a 6% do PIB. A evasão escolar e desigualdades rurais/urbanas afetam o ensino médio. O país não participa do PISA.",
+    keywords: ["Senegal", "senegal"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Seicheles",
+    texto: "Seicheles possui população absoluta de cerca de 107.000 habitantes e densidade demográfica de aproximadamente 230 hab/km². A pirâmide etária transita para o envelhecimento populacional com base estreita. O crescimento populacional é de cerca de 0,8% ao ano, com taxa de fecundidade de cerca de 2,1 filhos por mulher. A expectativa de vida ao nascer supera 73 a 74 anos. O saldo migratório é positivo (trabalhadores estrangeiros no turismo). A taxa de alfabetização adulta supera 95% a 96%. A média de anos de escolaridade adulta é de cerca de 9 a 10 anos. O investimento público em educação orbita 4,5% a 5,5% do PIB. A evasão escolar é baixa. O país utiliza padrões britânicos/regionais, sem participação no PISA.",
+    keywords: ["Seicheles", "seicheles"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Serra Leoa",
+    texto: "A Serra Leoa possui população absoluta de cerca de 8,8 milhões de habitantes e densidade demográfica de aproximadamente 120 hab/km². A pirâmide etária é jovem. O crescimento populacional é de cerca: 2,1% ao ano, com taxa de fecundidade de cerca de 4,2 filhos por mulher. A expectativa de vida ao nascer gira em torno de 60 anos. O saldo migratório é neutro a levemente negativo. A taxa de alfabetização adulta orbita 48% a 53%. A média de anos de escolaridade adulta é de cerca: 3,5 a 4 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar e infraestrutura pós-conflito/crises sanitárias desafiam o sistema. O país não participa do PISA.",
+    keywords: ["Serra Leoa", "serra leoa"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Somália",
+    texto: "A Somália possui população absoluta estimada em cerca de 18,1 milhões de habitantes e densidade demográfica de aproximadamente 28 hab/km². A pirâmide etária é extremamente jovem. O crescimento populacional é de cerca de 2,9% ao ano, com taxa de fecundidade superior a 5,4 filhos por mulher. A expectativa de vida ao nascer gira em torno de 57 a 58 anos. O saldo migratório é negativo devido a conflitos crônicos e deslocamento. A taxa de alfabetização adulta orbita 40% a 45% (dados parciais/estimados). A média de anos de escolaridade adulta é inferior a 3 anos. O investimento público em educação é fragmentado/baixo (menos de 2% a 3% do PIB equivalente). A evasão escolar é crítica. O país não participa do PISA.",
+    keywords: ["Somalia", "Somália", "somalia", "somália"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "África do Sul",
+    texto: "A África do Sul possui população absoluta de cerca de 63,2 milhões de habitantes e densidade demográfica de aproximadamente 52 hab/km², concentrada em províncias urbanas como Gauteng e KwaZulu-Natal. A pirâmide etária transita para perfil adulto intermediário com envelhecimento gradual. O crescimento populacional é de cerca: 0,9% ao ano, com taxa de fecundidade de cerca de 2,3 filhos por mulher. A expectativa de vida ao nascer orbita 65 a 66 anos (recuperada pós-HIV). O saldo migratório é positivo (atração regional na África Austral). A taxa de alfabetização adulta supera 88% a 90%. A média de anos de escolaridade adulta é de cerca de 10 a 11 anos. O investimento público em educação é expressivo, orbitando 6% a 7% do PIB. A evasão escolar no ensino médio e disparidades estruturais históricas desafiam o sistema. O país participa pontualmente de avaliações internacionais (como TIMSS/SACMEQ), com proficiências abaixo de médias globais avançadas.",
+    keywords: ["Africa do Sul", "África do Sul", "africa do sul", "áfrica do sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão do Sul",
+    texto: "O Sudão do Sul possui população absoluta estimada em cerca de 11,5 milhões de habitantes e densidade demográfica de aproximadamente 18 hab/km². A pirâmide etária é jovem, com base larga. O crescimento populacional é volátil, orbitando 1,5% a 2,5% ao ano, com taxa de fecundidade superior a 4,5 filhos por mulher. A expectativa de vida ao nascer gira em torno de 58 anos. O saldo migratório é negativo/deslocado por conflitos. A taxa de alfabetização adulta orbita 34% a 38%. A média de anos de escolaridade adulta é inferior a 2,5 anos. O investimento público em educação é muito baixo (menos de 2% do PIB). A evasão escolar e destruição de infraestrutura escolar por conflitos são extremas. O país não participa do PISA.",
+    keywords: ["Sudao do Sul", "Sudão do Sul", "sudao do sul", "sudão do sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão",
+    texto: "O Sudão possui população absoluta estimada em cerca de 49 milhões de habitantes e densidade demográfica de aproximadamente 21 hab/km², concentrada ao longo do Nilo. A pirâmide etária é jovem. O crescimento populacional é de cerca de 2,4% ao ano, com taxa de fecundidade de cerca: 4,3 filhos por mulher. A expectativa de vida ao nascer orbita 65 anos. O saldo migratório é volátil por conflitos armados e deslocamentos. A taxa de alfabetização adulta orbita 60% a 62%. A média de anos de escolaridade adulta é de cerca de 4 a 5 anos. O investimento público em educação orbita 2,5% a 3,5% do PIB. A evasão escolar e crise sistêmica recente afetam gravemente a rede escolar. O país não participa do PISA.",
+    keywords: ["Sudao", "Sudão", "sudao", "sudão"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tanzânia",
+    texto: "A Tanzânia possui população absoluta de cerca de 68,6 milhões de habitantes e densidade demográfica de aproximadamente 77 hab/km², concentrada no litoral (Dar es Salaam) e planaltos. A pirâmide etária é extremamente jovem, com base larga. O crescimento populacional é elevado, em torno de 3,0% ao ano, com taxa de fecundidade superior a 4,7 filhos por mulher. A expectativa de vida ao nascer orbita 67 anos. O saldo migratório é neutro a regional. A taxa de alfabetização adulta supera 78% a 80%. A média de anos de escolaridade adulta é de cerca de 6 anos. O investimento público em educação orbita 3,5% a 4,5% do PIB. A evasão escolar no ensino secundário e distorção idade-série persistem. O país não participa do PISA.",
+    keywords: ["Tanzania", "Tanzânia", "tanzania", "tanzânia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Togo",
+    texto: "O Togo possui população absoluta de cerca de 9,1 milhões de habitantes e densidade demográfica de aproximadamente 160 hab/km², concentrada no sul (Lomé). A pirâmide etária é jovem, com base larga. O crescimento populacional é de cerca: 2,3% ao ano, com taxa de fecundidade de cerca de 4,1 filhos por mulher. A expectativa de vida ao nascer gira em torno de 62 anos. O saldo migratório é neutro a regional. A taxa de alfabetização adulta orbita 64% a 66%. A média de anos de escolaridade adulta é de cerca de 5 anos. O investimento público em educação orbita 5% a 6% do PIB. A evasão escolar no ensino médio e disparidades rurais desafiam o sistema. O país não participa do PISA.",
+    keywords: ["Togo", "togo"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tunísia",
+    texto: "A Tunísia possui população absoluta de cerca: 12,5 milhões de habitantes e densidade demográfica de aproximadamente 76 hab/km², concentrada no nordeste litorâneo. A pirâmide etária transita para o envelhecimento populacional com base estreitada. O crescimento populacional é de cerca de 0,6% a 0,8% ao ano, com taxa de fecundidade de cerca de 1,6 filhos por mulher. A expectativa de vida ao nascer supera 76 a 77 anos. O saldo migratório é levemente negativo (diáspora europeia/do Golfo). A taxa de alfabetização adulta supera 79% a 82% (geral adulta acima de 90% em faixas mais jovens). A média de anos de escolaridade adulta é de cerca de 7,5 a 8 anos. O investimento público em educação orbita 6% a 7% do PIB, tradição histórica de capital humano. A evasão escolar no ensino superior/médio é moderada. O país participa pontualmente de avaliações internacionais (TIMSS/PISA em edições selecionadas), com proficiência abaixo da média OCDE.",
+    keywords: ["Tunisia", "Tunísia", "tunisia", "tunísia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Uganda",
+    texto: "Uganda possui população absoluta de cerca de 48,6 milhões de habitantes e densidade demográfica de aproximadamente 200 hab/km², concentrada na região do Lago Vitória. A pirâmide etária é a segunda mais jovem do mundo, com base extremamente larga. O crescimento populacional é de cerca de 3,3% ao ano, com taxa de fecundidade superior a 5,0 filhos por mulher. A expectativa de vida ao nascer orbita 63 anos. O saldo migratório é positivo (amplo acolhimento de refugiados regionais). A taxa de alfabetização adulta orbita 76% a 79%. A média de anos de escolaridade adulta é de cerca: 6 anos. O investimento público em educação orbita 2,5% a 3,5% do PIB. A evasão escolar massiva após o ensino primário e superlotação de salas desafiam o sistema. O país não participa do PISA.",
+    keywords: ["Uganda", "uganda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zâmbia",
+    texto: "A Zâmbia possui população absoluta de cerca de 21,3 milhões de habitantes e densidade demográfica de aproximadamente 28 hab/km², concentrada no Cobre (Copperbelt) e Lusaka. A pirâmide etária é extremamente jovem, com base larga. O crescimento populacional é de cerca de 2,9% ao ano, com taxa de fecundidade superior a 4,3 filhos por mulher. A expectativa de vida ao nascer orbita 64 anos. O saldo migratório é neutro a regional. A taxa de alfabetização adulta supera 88% a 90%. A média de anos de escolaridade adulta é de cerca de 7 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar secundária e distorção idade-série persistem em áreas rurais. O país não participa do PISA.",
+    keywords: ["Zambia", "Zâmbia", "zambia", "zâmbia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zimbábue",
+    texto: "O Zimbábue possui população absoluta de cerca de 16,7 milhões de habitantes e densidade demográfica de aproximadamente 43 hab/km², concentrada no planalto central e Harare. A pirâmide etária é jovem-adulta. O crescimento populacional é de cerca de 1,5% ao ano, com taxa de fecundidade de cerca de 3,4 filhos por mulher. A expectativa de vida ao nascer orbita 60 a 61 anos. O saldo migratório é negativo devido à forte diáspora sul-africana/global. A taxa de alfabetização adulta está entre as mais altas da África subsaariana, superando 88% a 92%. A média de anos de escolaridade adulta é de cerca de 8 a 9 anos. O investimento público em educação orbita 5% a 6% do PIB (com restrições de orçamento real). A evasão escolar e fuga de cérebros/professores desafiam a rede. O país não participa do PISA.",
+    keywords: ["Zimbabue", "Zimbábue", "zimbabue", "zimbábue"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Argélia",
+    texto: "A Argélia possui população absoluta de cerca de 46 milhões de habitantes e densidade demográfica de aproximadamente 19 hab/km², altamente concentrada na faixa norte (Tell). O crescimento populacional orbita 1,4% ao ano, com taxa de fecundidade de 2,3 filhos por mulher. A pirâmide etária transita para um perfil adulto com envelhecimento moderado. A expectativa de vida ao nascer é de 77 anos, e o saldo migratório é historicamente negativo ou neutro com forte diáspora rumo à Europa. A taxa de alfabetização da população com 15 anos ou mais supera 81% a 85%, com média de anos de escolaridade adulta em torno de 8 anos e expectativa de estudo superior a 14 anos. O investimento público em educação orbita 6% a 7% do PIB. A evasão escolar concentra-se no ensino secundário superior e regionalização rural, e o país avalia o desempenho educacional por diretrizes nacionais e regionais (sem participação no PISA da OCDE).",
+    keywords: ["Argélia", "Algeria"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Angola",
+    texto: "Angola possui população absoluta estimada em cerca de 36 milhões de habitantes e densidade demográfica de aproximadamente 29 hab/km², com forte crescimento demográfico de cerca de 3% ao ano e taxa de fecundidade elevada de 5,2 filhos por mulher. A pirâmide etária é extremamente jovem, com base larga. A expectativa de vida ao nascer gira em torno de 62 anos. O saldo migratório é neutro a levemente positivo com fluxos regionais de vizinhança. A taxa de alfabetização de adultos supera 68% a 71%, com média de anos de escolaridade adulta em torno de 5 a 6 anos e expectativa de estudo de 11 anos. O investimento público em educação orbita 2,5% a 3,5% do PIB. A evasão escolar e a distorção idade-série são críticas no ensino primário e secundário rural/periurbano. O país não participa do PISA, avaliando o sistema por exames nacionais.",
+    keywords: ["Angola"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Benin",
+    texto: "O Benin possui população absoluta de cerca de 13,7 milhões de habitantes e densidade demográfica de aproximadamente 120 hab/km². O crescimento populacional é de cerca de 2,7% ao ano, com taxa de fecundidade de 4,8 filhos por mulher. A pirâmide etária é jovem, com ampla base demográfica. A expectativa de vida ao nascer é de aproximadamente 60 anos. O saldo migratório é levemente negativo ou neutro. A taxa de alfabetização de adultos gira em torno de 42% a 45%, com média de anos de escolaridade de 3,5 a 4 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar no ensino primário e secundário inferior é expressiva, especialmente entre meninas em áreas rurais. O país não participa do PISA da OCDE.",
+    keywords: ["Benin"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Botsuana",
+    texto: "Botsuana possui população absoluta de cerca de 2,6 milhões de habitantes e baixa densidade demográfica de aproximadamente 5 hab/km². O crescimento populacional é de cerca de 1,8% ao ano, com taxa de fecundidade de 2,8 filhos por mulher. A pirâmide etária é jovem em transição moderada. A expectativa de vida ao nascer recuperou-se para cerca de 65 anos. O saldo migratório é neutro a positivo com vizinhos da África Austral. A taxa de alfabetização de adultos supera 88%, com média de anos de escolaridade de 9 anos. O investimento público em educação é expressivo, orbitando 7% a 8% do PIB. A evasão escolar é moderada no ensino secundário, com distorção gerida por metas de universalização básica. O país não participa regular de testes PISA, integrando avaliações regionais (SACMEQ).",
+    keywords: ["Botsuana"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Burkina Faso",
+    texto: "Burkina Faso possui população absoluta de cerca de 23.5 milhões de habitantes e densidade demográfica de aproximadamente 85 hab/km². O crescimento populacional é de cerca de 2,6% ao ano, com alta taxa de fecundidade de 4,7 filhos por mulher. A pirâmide etária é fortemente jovem. A expectativa de vida ao nascer gira em torno de 61 anos. O saldo migratório é negativo devido a conflitos internos e instabilidade de segurança forçando deslocamentos. A taxa de alfabetização adulta gira em torno de 38% a 41%, com média de anos de escolaridade inferior a 2 a 3 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar é crítica devido a crises humanitárias e fechamento de escolas. O país não participa de avaliações globais como o PISA.",
+    keywords: ["Burkina Faso"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Burundi",
+    texto: "O Burundi possui população absoluta de cerca de 13,8 milhões de habitantes e alta densidade demográfica de aproximadamente 530 hab/km². O crescimento populacional é de cerca de 3% ao ano, com taxa de fecundidade superior a 5,0 filhos por mulher. A pirâmide etária é extremamente jovem. A expectativa de vida ao nascer é de cerca de 62 anos. O saldo migratório é negativo/volátil com refluxos de refugiados. A taxa de alfabetização de adultos supera 68%, com média de anos de escolaridade de 3 a 4 anos. O investimento público em educação orbita 5% a 6% do PIB. A evasão escolar e a superlotação de salas no ensino básico são acentuadas. O país não participa do PISA.",
+    keywords: ["Burundi"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Cabo Verde",
+    texto: "Cabo Verde possui população absoluta de cerca de 590.000 habitantes e densidade demográfica de aproximadamente 148 hab/km². O crescimento populacional é baixo (cerca de 0,8% ao ano), com taxa de fecundidade de 2,1 filhos por mulher. A pirâmide etária transita para perfil adulto com envelhecimento gradual. A expectativa de vida ao nascer supera 74 anos. O saldo migratório é historicamente negativo devido à forte diáspora europeia e americana, compensada por remessas. A taxa de alfabetização de adultos supera 88% a 90%, com média de anos de escolaridade adulta de 6 a 7 anos. O investimento público em educação orbita 4,5% a 5,5% do PIB. A evasão escolar no ensino secundário é baixa a moderada. O país não participa do PISA da OCDE.",
+    keywords: ["Cabo Verde"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Camarões",
+    texto: "Camarões possui população absoluta de cerca de 28,6 milhões de habitantes e densidade demográfica de aproximadamente 60 hab/km². O crescimento populacional é de cerca de 2,6% ao ano, com taxa de fecundidade de 4,3 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer gira em torno de 60 anos. O saldo migratório é neutro a levemente negativo/deslocado. A taxa de alfabetização de adultos supera 77%, com média de anos de escolaridade de 6 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar ocorre no ensino secundário em zonas bilíngues/conflituosas. O país não participa do PISA.",
+    keywords: ["Camarões", "Camaroes"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "República Centro-Africana",
+    texto: "A República Centro-Africana possui população absoluta de cerca de 5,3 milhões de habitantes e baixa densidade demográfica de aproximadamente 8 hab/km². O crescimento populacional é de cerca de 1,5% ao ano, com taxa de fecundidade de 4,5 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é baixa, de cerca de 54 anos. O saldo migratório é fortemente negativo devido a instabilidade armada recorrente. A taxa de alfabetização de adultos gira em torno de 37% a 38%, com média de anos de escolaridade inferior a 3 anos. O investimento público em educação é frágil e dependente de apoio internacional. A evasão e interrupção escolar são críticas. O país não participa do PISA.",
+    keywords: ["República Centro-Africana", "Republica Centro-Africana"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Chade",
+    texto: "O Chade possui população absoluta de cerca de 18,3 milhões de habitantes e densidade demográfica de aproximadamente 14 hab/km². O crescimento populacional é de cerca de 3% ao ano, com taxa de fecundidade muito alta de 5,5 filhos por mulher. A pirâmide etária é extremamente jovem. A expectativa de vida ao nascer é de cerca de 54 anos. O saldo migratório é neutro a negativo com fluxos humanitários e regionais. A taxa de alfabetização de adultos gira em torno de 27% a 30%, com média de anos de escolaridade inferior a 2 anos. O investimento público em educação orbita 2,5% a 3% do PIB. A evasão escolar e o analfabetismo funcional infantil são severos. O país não participa do PISA.",
+    keywords: ["Chade"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Comores",
+    texto: "Comores possui população absoluta de cerca de 850.000 habitantes e alta densidade demográfica de aproximadamente 460 hab/km². O crescimento populacional é de cerca de 2,2% ao ano, com taxa de fecundidade de 3,9 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é de cerca de 65 anos. O saldo migratório é negativo com emigração para a França (Mayotte/continente). A taxa de alfabetização de adultos supera 60% a 65%, com média de anos de escolaridade de 5 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar ocorre no ciclo secundário. O país não participa do PISA.",
+    keywords: ["Comores"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "República Democrática do Congo",
+    texto: "A República Democrática do Congo possui população absoluta de cerca de 102 milhões de habitantes e densidade demográfica de aproximadamente 44 hab/km². O crescimento populacional é rápido, de cerca de 3,2% ao ano, com taxa de fecundidade de 6,2 filhos por mulher. A pirâmide etária é extremamente jovem. A expectativa de vida ao nascer gira em torno de 61 anos. O saldo migratório é volátil com deslocados internos e conflitos no leste. A taxa de alfabetização de adultos supera 80% (definição ampla) ou menor em rigor formal, com média de anos de escolaridade de 6 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar é acentuada por taxas escolares informais e conflitos. O país não participa do PISA.",
+    keywords: ["República Democrática do Congo", "Republica Democratica do Congo"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "República do Congo",
+    texto: "A República do Congo possui população absoluta de cerca de 6,1 milhões de habitantes e densidade demográfica de aproximadamente 18 hab/km², com forte urbanização (Brazzaville/Pointe-Noire). O crescimento populacional é de cerca de 2,3% ao ano, com taxa de fecundidade de 4,3 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é de cerca de 65 anos. O saldo migratório é neutro. A taxa de alfabetização de adultos supera 80% a 83%, com média de anos de escolaridade de 7 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar ocorre no ensino secundário. O país não participa do PISA.",
+    keywords: ["República do Congo", "Republica do Congo"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Costa do Marfim",
+    texto: "A Costa do Marfim possui população absoluta de cerca de 31 milhões de habitantes e densidade demográfica de aproximadamente 96 hab/km². O crescimento populacional é de cerca de 2,5% ao ano, com taxa de fecundidade de 4,4 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer gira em torno de 59 anos. O saldo migratório é positivo com imigração laboral regional da África Ocidental. A taxa de alfabetização de adultos supera 47% a 53%, com média de anos de escolaridade de 5 anos. O investimento público em educação orbita 4,5% a 5,5% do PIB. A evasão escolar e a distorção idade-série afetam o ensino primário/secundário. O país não participa do PISA.",
+    keywords: ["Costa do Marfim"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Djibuti",
+    texto: "O Djibuti possui população absoluta de cerca de 1,1 milhão de habitantes e densidade demográfica de aproximadamente 48 hab/km², altamente urbano. O crescimento populacional é de cerca de 1,5% ao ano, com taxa de fecundidade de 2,6 filhos por mulher. A pirâmide etária transita para perfil adulto jovem. A expectativa de vida ao nascer é de cerca de 68 anos. O saldo migratório é neutro a positivo com trânsito regional do Chifre da África. A taxa de alfabetização de adultos supera 68% a 70%, com média de anos de escolaridade de 4 a 5 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar ocorre no secundário rural/periurbano. O país não participa do PISA.",
+    keywords: ["Djibuti"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Egito",
+    texto: "O Egito possui população absoluta de cerca de 111 milhões de habitantes e densidade demográfica de aproximadamente 108 hab/km² (altamente concentrada no Vale do Nilo/Delta). O crescimento populacional é de cerca de 1,6% ao ano, com taxa de fecundidade de 2,8 filhos por mulher. A pirâmide etária é jovem a intermediária em transição. A expectativa de vida ao nascer é de cerca de 72 anos. O saldo migratório é neutro a levemente negativo ou de trânsito regional. A taxa de alfabetização de adultos supera 73% a 75%, com média de anos de escolaridade de 7 a 8 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar é baixa no básico, mas há superlotação e distorção na qualidade de proficiência. O país não participa regularmente do PISA da OCDE.",
+    keywords: ["Egito"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Guiné Equatorial",
+    texto: "A Guiné Equatorial possui população absoluta de cerca de 1,7 milhão de habitantes e densidade demográfica de aproximadamente 60 hab/km². O crescimento populacional é de cerca de 3% ao ano, impulsionado por setor de hidrocarbonetos e fecundidade de 4,3 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer gira em torno de 60 anos. O saldo migratório é positivo com atrações regionais e de expatriados petroleiros. A taxa de alfabetização de adultos supera 93%, com média de anos de escolaridade de 6 a 7 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar ocorre no secundário. O país não participa do PISA.",
+    keywords: ["Guiné Equatorial", "Guine Equatorial"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Eritreia",
+    texto: "A Eritreia possui população absoluta de cerca de 3,7 milhões de habitantes e densidade demográfica de aproximadamente 37 hab/km². O crescimento populacional é de cerca de 1,3% ao ano, com taxa de fecundidade de 3,8 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer gira em torno de 67 anos. O saldo migratório é fortemente negativo devido ao serviço nacional prolongado e emigração expressiva. A taxa de alfabetização de adultos supera 76%, com média de anos de escolaridade de 5 anos. O investimento público em educação é controlado pelo Estado e restrito em dados abertos. A evasão escolar e o impacto migratório jovem são severos. O país não participa do PISA.",
+    keywords: ["Eritreia"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Essuatíni",
+    texto: "Essuatíni possui população absoluta de cerca de 1,2 milhão de habitantes e densidade demográfica de aproximadamente 69 hab/km². O crescimento populacional é de cerca de 0,9% ao ano, com taxa de fecundidade de 2,4 filhos por mulher. A pirâmide etária é jovem em transição. A expectativa de vida ao nascer recuperou-se para cerca de 59 a 60 anos após impacto histórico de HIV. O saldo migratório é neutro a levemente negativo. A taxa de alfabetização de adultos supera 88%, com média de anos de escolaridade de 6 a 7 anos. O investimento público em educação orbita 6% a 7% do PIB. A evasão escolar no secundário é moderada. O país não participa do PISA.",
+    keywords: ["Essuatíni", "Essuatini"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Etiópia",
+    texto: "A Etiópia possui população absoluta de cerca de 126 milhões de habitantes e densidade demográfica de aproximadamente 115 hab/km². O crescimento populacional é de cerca de 2,5% ao ano, com taxa de fecundidade de 3,9 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer gira em torno de 66 anos. O saldo migratório é volátil com deslocados internos e conflitos regionais. A taxa de alfabetização de adultos supera 52% a 59%, com média de anos de escolaridade de 3 a 4 anos. O investimento público em educação orbita 4,5% a 5,5% do PIB. A evasão escolar e a expansão de infraestrutura básica enfrentam desafios rurais. O país não participa do PISA.",
+    keywords: ["Etiópia", "Etiopia"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Gabão",
+    texto: "O Gabão possui população absoluta de cerca de 2,4 milhões de habitantes e baixa densidade demográfica de aproximadamente 9 hab/km², altamente urbanizado (Libreville/Port-Gentil). O crescimento populacional é de cerca de 2,1% ao ano, com taxa de fecundidade de 3,5 filhos por mulher. A pirâmide etária transita para perfil adulto jovem. A expectativa de vida ao nascer é de cerca de 66 anos. O saldo migratório é positivo com imigração laboral regional. A taxa de alfabetização de adultos supera 85% a 89%, com média de anos de escolaridade de 8 anos. O investimento público em educação orbita 3,5% a 4,5% do PIB. A evasão escolar no secundário é controlada. O país não participa do PISA.",
+    keywords: ["Gabão", "Gabao"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Gâmbia",
+    texto: "A Gâmbia possui população absoluta de cerca de 2,7 milhões de habitantes e alta densidade demográfica de aproximadamente 240 hab/km². O crescimento populacional é de cerca de 2,5% ao ano, com taxa de fecundidade de 4,3 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é de cerca de 64 anos. O saldo migratório é neutro a levemente negativo. A taxa de alfabetização de adultos supera 55% a 58%, com média de anos de escolaridade de 4 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar no ensino secundário afeta zonas rurais. O país não participa do PISA.",
+    keywords: ["Gâmbia", "Gambia"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Gana",
+    texto: "Gana possui população absoluta de cerca de 34 milhões de habitantes e densidade demográfica de aproximadamente 142 hab/km². O crescimento populacional é de cerca de 2% ao ano, com taxa de fecundidade de 3,6 filhos por mulher. A pirâmide etária é jovem em transição. A expectativa de vida ao nascer gira em torno de 65 anos. O saldo migratório é levemente positivo com atração regional da África Ocidental. A taxa de alfabetização de adultos supera 79% a 83%, com média de anos de escolaridade de 7 anos. O investimento público em educação orbita 4% a 5% do PIB. A evasão escolar no ensino básico é baixa, mas acentua-se no secundário técnico. O país não participa regular de testes PISA, integrando avaliações regionais.",
+    keywords: ["Gana"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Guiné",
+    texto: "A Guiné possui população absoluta de cerca de 14,2 milhões de habitantes e densidade demográfica de aproximadamente 58 hab/km². O crescimento populacional é de cerca de 2,6% ao ano, com taxa de fecundidade de 4,4 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer gira em torno de 59 anos. O saldo migratório é neutro com flutuações regionais. A taxa de alfabetização de adultos supera 45% a 48%, com média de anos de escolaridade de 3 anos. O investimento público em educação orbita 2,5% a 3,5% do PIB. A evasão escolar e a disparidade de gênero no ensino secundário são expressivas. O país não participa do PISA.",
+    keywords: ["Guiné", "Guine"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Guiné-Bissau",
+    texto: "A Guiné-Bissau possui população absoluta de cerca de 2,1 milhões de habitantes e densidade demográfica de aproximadamente 73 hab/km². O crescimento populacional é de cerca de 2,4% ao ano, com taxa de fecundidade de 4,2 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é de cerca de 60 anos. O saldo migratório é neutro. A taxa de alfabetização de adultos supera 50% a 53%, com média de anos de escolaridade de 3 a 4 anos. O investimento público em educação orbita 2,5% a 3,5% do PIB. A evasão escolar e a interrupção por greves e instabilidade estrutural são críticas. O país não participa do PISA.",
+    keywords: ["Guiné-Bissau", "Guine-Bissau"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Quênia",
+    texto: "O Quênia possui população absoluta de cerca de 55 milhões de habitantes e densidade demográfica de aproximadamente 95 hab/km². O crescimento populacional é de cerca de 2% ao ano, com taxa de fecundidade de 3,3 filhos por mulher. A pirâmide etária é jovem em transição. A expectativa de vida ao nascer orbita 67 anos. O saldo migratório é neutro a levemente positivo com refúgio regional. A taxa de alfabetização de adultos supera 82% a 85%, com média de anos de escolaridade de 6 a 7 anos. O investimento público em educação orbita 5% a 5,5% do PIB. A evasão escolar no secundário superior e custos de acesso afetam bolsões rurais. O país não participa do PISA.",
+    keywords: ["Quênia", "Quenia"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Lesoto",
+    texto: "O Lesoto possui população absoluta de cerca de 2,3 milhões de habitantes e densidade demográfica de aproximadamente 75 hab/km². O crescimento populacional é de cerca de 0,8% ao ano, com taxa de fecundidade de 3,0 filhos por mulher. A pirâmide etária transita para perfil jovem-adulto. A expectativa de vida ao nascer é de cerca de 56 anos. O saldo migratório é negativo devido à forte migração de trabalho para minas da África do Sul. A taxa de alfabetização de adultos supera 79% (com taxa feminina superior à masculina), com média de anos de escolaridade de 6 anos. O investimento público em educação orbita 7% a 8% do PIB. A evasão escolar masculina no pastoreio rural é um traço histórico recorrente. O país não participa do PISA.",
+    keywords: ["Lesoto"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Libéria",
+    texto: "A Libéria possui população absoluta de cerca de 5,4 milhões de habitantes e densidade demográfica de aproximadamente 59 hab/km². O crescimento populacional é de cerca de 2,1% ao ano, com taxa de fecundidade de 4,0 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é de cerca de 61 anos. O saldo migratório é neutro. A taxa de alfabetização de adultos supera 48% a 52%, com média de anos de escolaridade de 4 a 5 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar e o déficit de infraestrutura pós-crise afetam o sistema. O país não participa do PISA.",
+    keywords: ["Libéria", "Liberia"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Líbia",
+    texto: "A Líbia possui população absoluta de cerca de 6,8 milhões de habitantes e baixa densidade demográfica de aproximadamente 4 hab/km², altamente concentrada na costa mediterrânea. O crescimento populacional é de cerca de 1,1% ao ano, com taxa de fecundidade de 2,2 filhos por mulher. A pirâmide etária é intermediária. A expectativa de vida ao nascer é de cerca de 73 anos. O saldo migratório é volátil com fluxos de trânsito migratório irregular e instabilidade institucional. A taxa de alfabetização de adultos supera 91% a 95%, com média de anos de escolaridade de 7 a 8 anos. O investimento público em educação é afetado por fragmentação de Governança pós-2011. A evasão e interrupção escolar ocorrem em zonas de conflito pontual. O país não participa do PISA.",
+    keywords: ["Líbia", "Libia"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Madagascar",
+    texto: "Madagascar possui população absoluta de cerca de 30,3 milhões de habitantes e densidade demográfica de aproximadamente 52 hab/km². O crescimento populacional é de cerca de 2,4% ao ano, com taxa de fecundidade de 3,9 filhos por mulher. A pirâmide etária é jovem. A expectativa de vida ao nascer é de cerca de 65 anos. O saldo migratório é neutro. A taxa de alfabetização de adultos supera 75% a 78%, com média de anos de escolaridade de 6 anos. O investimento público em educação orbita 3% a 4% do PIB. A evasão escolar no primário/secundário rural e vulnerabilidade climática (ciclones) afetam a continuidade. O país não participa do PISA.",
+    keywords: ["Madagascar"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Malawi",
+    texto: "O Malawi possui população absoluta de cerca de 20,9 milhões de habitantes e alta densidade demográfica de aproximadamente 220 hab/km². O crescimento populacional é de cerca de 2,6% ao ano, com taxa de fecundidade de 3,9 filhos por mulher. A pirâmide etária é extremamente jovem. A expectativa de vida ao nascer é de cerca de 65 anos. O saldo migratório é neutro a levemente volátil. A taxa de alfabetização de adultos supera 65% a 72%, com média de anos de escolaridade de 4 a 5 anos. O investimento público em educação orbita 3,5% a 4,5% do PIB. A evasão escolar e superlotação de turmas no ensino primário são grandes desafios estruturais. O país não participa do PISA.",
+    keywords: ["Malawi"],
+    fonte: "Wikipedia / Britannica"
+  },
+  {
     assunto: "Albânia - Panorama geral",
     texto: "A Albânia é uma república parlamentar situada no sudeste da Europa (Península Balcânica), banhada pelo mar Adriático e Jônio. Capital: Tirana. Idioma oficial: albanês. Economia em transição com base em serviços, agricultura e remessas.",
     keywords: ["Albânia", "Albania"],
@@ -4159,6 +4722,1712 @@ const ARTIGOS = [
     texto: "O Iêmen possui ~34 milhões de habitantes, pirâmide jovem, alta fecundidade (~3,8 filhos/mulher), expectativa de vida reduzida por conflitos severos (~64 anos), saldo migratório negativo, alfabetização de ~70% (com forte disparidade de gênero), e sistema escolar colapsado/fragmentado por crise humanitária.",
     keywords: ["Iêmen", "Iemen"],
     fonte: "Wikipedia / Britannica"
+  },
+  {
+    assunto: "Mali - População absoluta e densidade demográfica",
+    texto: "O Mali possui população absoluta de cerca de 23,5 milhões de habitantes e densidade demográfica de aproximadamente 19 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Mali", "qual é a população absoluta e a densidade demográfica do Mali", "populacao do Mali", "população do Mali", "densidade demografica do Mali", "densidade demográfica do Mali", "densidade do Mali"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mali - Pirâmide etária",
+    texto: "A pirâmide etária do Mali é jovem, com base larga e estreitamento rápido nas faixas adultas.",
+    keywords: ["piramide etaria do Mali", "piramíde etária do Mali"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Mali - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é alto, de cerca de 3,0% ao ano. A taxa de fecundidade é de cerca de 5,7 a 6,0 filhos por mulher.",
+    keywords: ["crescimento populacional no Mali", "taxa de crescimento populacional no Mali", "taxa de fecundidade no Mali"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Mali - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Mali é de cerca de 59 a 60 anos.",
+    keywords: ["expectativa de vida no Mali"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mali - Saldo migratório",
+    texto: "O saldo migratório é negativo ou neutro, marcado por emigração intrarregional e trânsito migratório no Sahel.",
+    keywords: ["saldo migratorio no Mali", "saldo migratório no Mali"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Mali - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Mali gira em torno de 31% a 35%.",
+    keywords: ["taxa de alfabetizacao no Mali", "taxa de alfabetização no Mali", "alfabetizacao no Mali", "alfabetização no Mali"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Mali - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é baixa, inferior a 3 anos.",
+    keywords: ["media de escolaridade no Mali", "média de escolaridade no Mali"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mali - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação no Mali orbita 3,5% a 4,5% do PIB.",
+    keywords: ["pib investido na educacao no Mali", "pib investido na educação no Mali", "quanto do pib e investido em educacao publica no Mali", "quanto do pib é investido em educação pública no Mali"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Mali - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar e a distorção idade-série são elevadas, acentuadas por conflitos de segurança e restrições de infraestrutura rural.",
+    keywords: ["taxa de evasao no Mali", "taxa de evasão no Mali", "taxa de evasao escolar no Mali", "taxa de evasão escolar no Mali", "evasao escolar no Mali", "evasão escolar no Mali"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Mali - Posicionamento em avaliações globais (PISA)",
+    texto: "O Mali não participa do PISA da OCDE, enfrentando desafios estruturais de universalização da educação básica.",
+    keywords: ["avaliacoes globais do Mali", "avaliações globais do Mali"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Mauritânia - População absoluta e densidade demográfica",
+    texto: "A Mauritânia possui população absoluta de cerca de 5,0 milhões de habitantes e densidade demográfica de aproximadamente 5 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Mauritania", "qual é a população absoluta e a densidade demográfica da Mauritânia", "populacao da Mauritania", "população da Mauritânia", "densidade demografica da Mauritania", "densidade demográfica da Mauritânia", "densidade da Mauritania"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mauritânia - Pirâmide etária",
+    texto: "A pirâmide etária da Mauritânia é jovem, com base larga característica de país em transição demográfica inicial.",
+    keywords: ["piramide etaria da Mauritania", "piramíde etária da Mauritânia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Mauritânia - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,5% ao ano. A taxa de fecundidade é de cerca de 4,3 filhos por mulher.",
+    keywords: ["crescimento populacional na Mauritania", "taxa de crescimento populacional na Mauritania", "taxa de fecundidade na Mauritania"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Mauritânia - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Mauritânia gira em torno de 65 anos.",
+    keywords: ["expectativa de vida na Mauritania"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mauritânia - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo/trânsito, recebendo fluxos sahelianos e refugiados.",
+    keywords: ["saldo migratorio na Mauritania", "saldo migratório na Mauritânia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Mauritânia - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Mauritânia supera 53% a 58%.",
+    keywords: ["taxa de alfabetizacao na Mauritania", "taxa de alfabetização na Mauritânia", "alfabetizacao na Mauritania", "alfabetização na Mauritânia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Mauritânia - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta gira em torno de 4 a 5 anos.",
+    keywords: ["media de escolaridade na Mauritania", "média de escolaridade na Mauritânia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Mauritânia - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 3% a 4% do PIB.",
+    keywords: ["pib investido na educacao na Mauritania", "pib investido na educação na Mauritânia", "quanto do pib e investido em educacao publica na Mauritania", "quanto do pib é investido em educação pública na Mauritânia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Mauritânia - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar acentua-se no ensino secundário, com disparidades de gênero e rurais.",
+    keywords: ["taxa de evasao na Mauritania", "taxa de evasão na Mauritânia", "taxa de evasao escolar na Mauritania", "taxa de evasão escolar na Mauritânia", "evasao escolar na Mauritania", "evasão escolar na Mauritânia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Mauritânia - Posicionamento em avaliações globais (PISA)",
+    texto: "A Mauritânia não participa de avaliações do PISA da OCDE.",
+    keywords: ["avaliacoes globais da Mauritania", "avaliações globais da Mauritânia"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Maurício - População absoluta e densidade demográfica",
+    texto: "Maurício possui população absoluta de cerca de 1,3 milhão de habitantes e densidade demográfica de aproximadamente 635 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Mauricio", "qual é a população absoluta e a densidade demográfica de Maurício", "populacao de Mauricio", "população de Maurício", "densidade demografica de Mauricio", "densidade demográfica de Maurício", "densidade de Mauricio"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Maurício - Pirâmide etária",
+    texto: "A pirâmide etária de Maurício exibe perfil envelhecido avançado, com base estreitada.",
+    keywords: ["piramide etaria de Mauricio", "piramíde etária de Maurício"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Maurício - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é baixo/estagnado (próximo de zero). A taxa de fecundidade é de cerca de 1,4 filhos por mulher.",
+    keywords: ["crescimento populacional em Mauricio", "taxa de crescimento populacional em Mauricio", "taxa de fecundidade em Mauricio"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Maurício - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Maurício gira em torno de 75 a 76 anos.",
+    keywords: ["expectativa de vida em Mauricio"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Maurício - Saldo migratório",
+    texto: "O saldo migratório é neutro ou levemente positivo com atração de expatriados e investimentos.",
+    keywords: ["saldo migratorio em Mauricio", "saldo migratório em Maurício"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Maurício - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos em Maurício supera 92% a 93%.",
+    keywords: ["taxa de alfabetizacao em Mauricio", "taxa de alfabetização em Maurício", "alfabetizacao em Mauricio", "alfabetização em Maurício"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Maurício - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta supera 9 a 10 anos.",
+    keywords: ["media de escolaridade em Mauricio", "média de escolaridade em Maurício"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Maurício - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação em Maurício orbita 4% a 5% do PIB.",
+    keywords: ["pib investido na educacao em Mauricio", "pib investido na educação em Maurício", "quanto do pib e investido em educacao publica em Mauricio", "quanto do pib é investido em educação pública em Maurício"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Maurício - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é baixa no ensino obrigatório, com forte gratuidade e reforma curricular.",
+    keywords: ["taxa de evasao em Mauricio", "taxa de evasão em Maurício", "taxa de evasao escolar em Mauricio", "taxa de evasão escolar em Maurício", "evasao escolar em Mauricio", "evasão escolar em Maurício"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Maurício - Posicionamento em avaliações globais (PISA)",
+    texto: "Maurício não participa regularmente do PISA da OCDE, avaliando o sistema por exames britânicos/regionais.",
+    keywords: ["avaliacoes globais de Mauricio", "avaliações globais de Maurício"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Marrocos - População absoluta e densidade demográfica",
+    texto: "O Marrocos possui população absoluta de cerca de 38,5 milhões de habitantes e densidade demográfica de aproximadamente 86 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Marrocos", "qual é a população absoluta e a densidade demográfica do Marrocos", "populacao do Marrocos", "população do Marrocos", "densidade demografica do Marrocos", "densidade demográfica do Marrocos", "densidade do Marrocos"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Marrocos - Pirâmide etária",
+    texto: "A pirâmide etária do Marrocos transita para perfil adulto com envelhecimento gradual e base estreitada.",
+    keywords: ["piramide etaria do Marrocos", "piramíde etária do Marrocos"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Marrocos - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,0% ao ano. A taxa de fecundidade caiu para cerca de 2,2 filhos por mulher.",
+    keywords: ["crescimento populacional no Marrocos", "taxa de crescimento populacional no Marrocos", "taxa de fecundidade no Marrocos"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Marrocos - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Marrocos gira em torno de 74 a 75 anos.",
+    keywords: ["expectativa de vida no Marrocos"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Marrocos - Saldo migratório",
+    texto: "O saldo migratório é histórico/negativo em relação à Europa, mas com trânsito de migrantes subsaarianos.",
+    keywords: ["saldo migratorio no Marrocos", "saldo migratório no Marrocos"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Marrocos - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Marrocos supera 74% a 78% em expansão.",
+    keywords: ["taxa de alfabetizacao no Marrocos", "taxa de alfabetização no Marrocos", "alfabetizacao no Marrocos", "alfabetização no Marrocos"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Marrocos - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 6 a 7 anos.",
+    keywords: ["media de escolaridade no Marrocos", "média de escolaridade no Marrocos"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Marrocos - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação no Marrocos orbita 5% a 6% do PIB.",
+    keywords: ["pib investido na educacao no Marrocos", "pib investido na educação no Marrocos", "quanto do pib e investido em educacao publica no Marrocos", "quanto do pib é investido em educação pública no Marrocos"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Marrocos - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário rural, com distorção gerida por reformas estratégicas.",
+    keywords: ["taxa de evasao no Marrocos", "taxa de evasão no Marrocos", "taxa de evasao escolar no Marrocos", "taxa de evasão escolar no Marrocos", "evasao escolar no Marrocos", "evasão escolar no Marrocos"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Marrocos - Posicionamento em avaliações globais (PISA)",
+    texto: "O Marrocos participa pontualmente/regularmente de avaliações internacionais (TIMSS/PISA em algumas edições), com desafios em proficiência.",
+    keywords: ["avaliacoes globais do Marrocos", "avaliações globais do Marrocos"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Moçambique - População absoluta e densidade demográfica",
+    texto: "Moçambique possui população absoluta de cerca de 33,9 milhões de habitantes e densidade demográfica de aproximadamente 43 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Mocambique", "qual é a população absoluta e a densidade demográfica de Moçambique", "populacao de Mocambique", "população de Moçambique", "densidade demografica de Mocambique", "densidade demográfica de Moçambique", "densidade de Mocambique"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Moçambique - Pirâmide etária",
+    texto: "A pirâmide etária de Moçambique é jovem, com base larga e proporção elevada de menores de 15 anos.",
+    keywords: ["piramide etaria de Mocambique", "piramíde etária de Moçambique"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Moçambique - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,8% ao ano. A taxa de fecundidade é de cerca de 4,5 a 4,8 filhos por mulher.",
+    keywords: ["crescimento populacional em Mocambique", "taxa de crescimento populacional em Mocambique", "taxa de fecundidade em Mocambique"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Moçambique - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Moçambique gira em torno de 61 a 62 anos.",
+    keywords: ["expectativa de vida em Mocambique"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Moçambique - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente negativo/deslocamentos internos por conflitos no norte.",
+    keywords: ["saldo migratorio em Mocambique", "saldo migratório em Moçambique"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Moçambique - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos em Moçambique supera 60% a 63%.",
+    keywords: ["taxa de alfabetizacao em Mocambique", "taxa de alfabetização em Moçambique", "alfabetizacao em Mocambique", "alfabetização em Moçambique"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Moçambique - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 3 a 4 anos.",
+    keywords: ["media de escolaridade em Mocambique", "média de escolaridade em Moçambique"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Moçambique - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 5% a 6% do PIB.",
+    keywords: ["pib investido na educacao em Mocambique", "pib investido na educação em Moçambique", "quanto do pib e investido em educacao publica em Mocambique", "quanto do pib é investido em educação pública em Moçambique"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Moçambique - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar e a distorção idade-série são elevadas no ensino primário superior/secundário.",
+    keywords: ["taxa de evasao em Mocambique", "taxa de evasão em Moçambique", "taxa de evasao escolar em Mocambique", "taxa de evasão escolar em Moçambique", "evasao escolar em Mocambique", "evasão escolar em Moçambique"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Moçambique - Posicionamento em avaliações globais (PISA)",
+    texto: "Moçambique não participa do PISA da OCDE, integrando avaliações regionais do SACMEQ.",
+    keywords: ["avaliacoes globais de Mocambique", "avaliações globais de Moçambique"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Namíbia - População absoluta e densidade demográfica",
+    texto: "A Namíbia possui população absoluta de cerca de 3,0 milhões de habitantes e baixa densidade demográfica de aproximadamente 3 a 4 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Namibia", "qual é a população absoluta e a densidade demográfica da Namíbia", "populacao da Namibia", "população da Namíbia", "densidade demografica da Namibia", "densidade demográfica da Namíbia", "densidade da Namibia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Namíbia - Pirâmide etária",
+    texto: "A pirâmide etária da Namíbia transita de base larga para perfil adulto jovem intermediário.",
+    keywords: ["piramide etaria da Namibia", "piramíde etária da Namíbia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Namíbia - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,4% ao ano. A taxa de fecundidade é de cerca de 3,2 filhos por mulher.",
+    keywords: ["crescimento populacional na Namibia", "taxa de crescimento populacional na Namibia", "taxa de fecundidade na Namibia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Namíbia - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Namíbia gira em torno de 64 a 65 anos.",
+    keywords: ["expectativa de vida na Namibia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Namíbia - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo/regional.",
+    keywords: ["saldo migratorio na Namibia", "saldo migratório na Namíbia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Namíbia - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Namíbia supera 90% a 91%.",
+    keywords: ["taxa de alfabetizacao na Namibia", "taxa de alfabetização na Namíbia", "alfabetizacao na Namibia", "alfabetização na Namíbia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Namíbia - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 6 a 7 anos.",
+    keywords: ["media de escolaridade na Namibia", "média de escolaridade na Namíbia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Namíbia - Investimento do PIB em educação pública",
+    texto: "A Namíbia investe alto percentual, orbitando 7% a 9% do PIB em educação pública.",
+    keywords: ["pib investido na educacao na Namibia", "pib investido na educação na Namíbia", "quanto do pib e investido em educacao publica na Namibia", "quanto do pib é investido em educação pública na Namíbia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Namíbia - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário superior, com distorção moderada.",
+    keywords: ["taxa de evasao na Namibia", "taxa de evasão na Namíbia", "taxa de evasao escolar na Namibia", "taxa de evasão escolar na Namíbia", "evasao escolar na Namibia", "evasão escolar na Namíbia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Namíbia - Posicionamento em avaliações globais (PISA)",
+    texto: "A Namíbia não participa do PISA, integrando avaliações regionais da SADC/SACMEQ.",
+    keywords: ["avaliacoes globais da Namibia", "avaliações globais da Namíbia"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Níger - População absoluta e densidade demográfica",
+    texto: "O Níger possui população absoluta de cerca de 27,0 milhões de habitantes e densidade demográfica de aproximadamente 21 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Niger", "qual é a população absoluta e a densidade demográfica do Níger", "populacao do Niger", "população do Níger", "densidade demografica do Niger", "densidade demográfica do Níger", "densidade do Niger"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Níger - Pirâmide etária",
+    texto: "A pirâmide etária do Níger é extremamente jovem, com base muito larga.",
+    keywords: ["piramide etaria do Niger", "piramíde etária do Níger"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Níger - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é altíssimo, cerca de 3,8% ao ano. A taxa de fecundidade é de cerca de 6,7 a 6,9 filhos por mulher (maior do mundo).",
+    keywords: ["crescimento populacional no Niger", "taxa de crescimento populacional no Niger", "taxa de fecundidade no Niger"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Níger - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Níger gira em torno de 62 anos.",
+    keywords: ["expectativa de vida no Niger"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Níger - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente negativo/trânsito de rotas sahelianas.",
+    keywords: ["saldo migratorio no Niger", "saldo migratório no Níger"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Níger - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Níger gira em torno de 35% a 38%.",
+    keywords: ["taxa de alfabetizacao no Niger", "taxa de alfabetização no Níger", "alfabetizacao no Niger", "alfabetização no Níger"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Níger - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é baixa, inferior a 3 anos.",
+    keywords: ["media de escolaridade no Niger", "média de escolaridade no Níger"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Níger - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 4% a 5% do PIB.",
+    keywords: ["pib investido na educacao no Niger", "pib investido na educação no Níger", "quanto do pib e investido em educacao publica no Niger", "quanto do pib é investido em educação pública no Níger"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Níger - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar e a distorção idade-série são críticas devido à pressão demográfica infantil e infraestrutura.",
+    keywords: ["taxa de evasao no Niger", "taxa de evasão no Níger", "taxa de evasao escolar no Niger", "taxa de evasão escolar no Níger", "evasao escolar no Niger", "evasão escolar no Níger"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Níger - Posicionamento em avaliações globais (PISA)",
+    texto: "O Níger não participa do PISA da OCDE.",
+    keywords: ["avaliacoes globais do Niger", "avaliações globais do Níger"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Nigéria - População absoluta e densidade demográfica",
+    texto: "A Nigéria possui população absoluta de cerca de 230 milhões de habitantes e densidade demográfica de aproximadamente 245 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Nigeria", "qual é a população absoluta e a densidade demográfica da Nigéria", "populacao da Nigeria", "população da Nigéria", "densidade demografica da Nigeria", "densidade demográfica da Nigéria", "densidade da Nigeria"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Nigéria - Pirâmide etária",
+    texto: "A pirâmide etária da Nigéria é extremamente jovem, com base larga e proporção massiva de jovens.",
+    keywords: ["piramide etaria da Nigeria", "piramíde etária da Nigéria"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Nigéria - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,4% ao ano. A taxa de fecundidade é de cerca de 5,1 filhos por mulher.",
+    keywords: ["crescimento populacional na Nigeria", "taxa de crescimento populacional na Nigeria", "taxa de fecundidade na Nigeria"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Nigéria - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Nigéria gira em torno de 53 a 54 anos.",
+    keywords: ["expectativa de vida na Nigeria"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Nigéria - Saldo migratório",
+    texto: "O saldo migratório é negativo devido à forte diáspora qualificada rumo a EUA, Reino Unido e Canadá.",
+    keywords: ["saldo migratorio na Nigeria", "saldo migratório na Nigéria"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Nigéria - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Nigéria supera 62% a 65%.",
+    keywords: ["taxa de alfabetizacao na Nigeria", "taxa de alfabetização na Nigéria", "alfabetizacao na Nigeria", "alfabetização na Nigéria"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Nigéria - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 6 a 7 anos.",
+    keywords: ["media de escolaridade na Nigeria", "média de escolaridade na Nigéria"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Nigéria - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação na Nigéria orbita 3% a 4% do PIB, com forte setor privado/religioso suplementar.",
+    keywords: ["pib investido na educacao na Nigeria", "pib investido na educação na Nigéria", "quanto do pib e investido em educacao publica na Nigeria", "quanto do pib é investido em educação pública na Nigéria"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Nigéria - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é alta no norte e em zonas de conflito, com forte distorção idade-série.",
+    keywords: ["taxa de evasao na Nigeria", "taxa de evasão na Nigéria", "taxa de evasao escolar na Nigeria", "taxa de evasão escolar na Nigéria", "evasao escolar na Nigeria", "evasão escolar na Nigéria"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Nigéria - Posicionamento em avaliações globais (PISA)",
+    texto: "A Nigéria não participa do PISA da OCDE, avaliando o sistema por exames nacionais (WAEC/NECO).",
+    keywords: ["avaliacoes globais da Nigeria", "avaliações globais da Nigéria"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Ruanda - População absoluta e densidade demográfica",
+    texto: "Ruanda possui população absoluta de cerca de 14,0 milhões de habitantes e alta densidade demográfica de aproximadamente 535 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Ruanda", "qual é a população absoluta e a densidade demográfica de Ruanda", "populacao de Ruanda", "população de Ruanda", "densidade demografica de Ruanda", "densidade demográfica de Ruanda", "densidade de Ruanda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Ruanda - Pirâmide etária",
+    texto: "A pirâmide etária de Ruanda transita de base larga jovem para perfil intermediário com políticas de planejamento familiar.",
+    keywords: ["piramide etaria de Ruanda", "piramíde etária de Ruanda"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Ruanda - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,2% ao ano. A taxa de fecundidade caiu para cerca de 3,6 filhos por mulher.",
+    keywords: ["crescimento populacional em Ruanda", "taxa de crescimento populacional em Ruanda", "taxa de fecundidade em Ruanda"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Ruanda - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Ruanda gira em torno de 69 a 70 anos.",
+    keywords: ["expectativa de vida em Ruanda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Ruanda - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo/acolhimento pontual regional.",
+    keywords: ["saldo migratorio em Ruanda", "saldo migratório em Ruanda"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Ruanda - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos em Ruanda supera 73% a 76%.",
+    keywords: ["taxa de alfabetizacao em Ruanda", "taxa de alfabetização em Ruanda", "alfabetizacao em Ruanda", "alfabetização em Ruanda"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Ruanda - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 5 a 6 anos.",
+    keywords: ["media de escolaridade em Ruanda", "média de escolaridade em Ruanda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Ruanda - Investimento do PIB em educação pública",
+    texto: "Ruanda investe cerca de 4,5% a 5,5% do PIB em educação pública.",
+    keywords: ["pib investido na educacao em Ruanda", "pib investido na educação em Ruanda", "quanto do pib e investido em educacao publica em Ruanda", "quanto do pib é investido em educação pública em Ruanda"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Ruanda - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar no ensino básico recuou com gratuidade universal, persistindo desafios no secundário.",
+    keywords: ["taxa de evasao em Ruanda", "taxa de evasão em Ruanda", "taxa de evasao escolar em Ruanda", "taxa de evasão escolar em Ruanda", "evasao escolar em Ruanda", "evasão escolar em Ruanda"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Ruanda - Posicionamento em avaliações globais (PISA)",
+    texto: "Ruanda não participa do PISA da OCDE, integrando avaliações regionais da EAC.",
+    keywords: ["avaliacoes globais de Ruanda", "avaliações globais de Ruanda"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "São Tomé e Príncipe - População absoluta e densidade demográfica",
+    texto: "São Tomé e Príncipe possui população absoluta de cerca de 235.000 habitantes e densidade demográfica de aproximadamente 245 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Sao Tome e Principe", "qual é a população absoluta e a densidade demográfica de São Tomé e Príncipe", "populacao de Sao Tome e Principe", "população de São Tomé e Príncipe", "densidade demografica de Sao Tome e Principe", "densidade demográfica de São Tomé e Príncipe", "densidade de Sao Tome e Principe"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Pirâmide etária",
+    texto: "A pirâmide etária é jovem em transição moderada.",
+    keywords: ["piramide etaria de Sao Tome e Principe", "piramíde etária de São Tomé e Príncipe"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,9% ao ano. A taxa de fecundidade é de cerca de 3,8 filhos por mulher.",
+    keywords: ["crescimento populacional em Sao Tome e Principe", "taxa de crescimento populacional em Sao Tome e Principe", "taxa de fecundidade em Sao Tome e Principe"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer gira em torno de 70 a 71 anos.",
+    keywords: ["expectativa de vida em Sao Tome e Principe"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Saldo migratório",
+    texto: "O saldo migratório é neutro ou levemente negativo/diáspora lusófona.",
+    keywords: ["saldo migratorio em Sao Tome e Principe", "saldo migratório em São Tomé e Príncipe"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Taxa de alfabetização",
+    texto: "A taxa de alfabetização acima de 15 anos supera 92% a 94%.",
+    keywords: ["taxa de alfabetizacao em Sao Tome e Principe", "taxa de alfabetização em São Tomé e Príncipe", "alfabetizacao em Sao Tome e Principe", "alfabetização em São Tomé e Príncipe"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 6 a 7 anos.",
+    keywords: ["media de escolaridade em Sao Tome e Principe", "média de escolaridade em São Tomé e Príncipe"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 4% a 5% do PIB.",
+    keywords: ["pib investido na educacao em Sao Tome e Principe", "pib investido na educação em São Tomé e Príncipe", "quanto do pib e investido em educacao publica em Sao Tome e Principe", "quanto do pib é investido em educação pública em São Tomé e Príncipe"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário inicial/médio, com distorção moderada.",
+    keywords: ["taxa de evasao em Sao Tome e Principe", "taxa de evasão em São Tomé e Príncipe", "taxa de evasao escolar em Sao Tome e Principe", "taxa de evasão escolar em São Tomé e Príncipe", "evasao escolar em Sao Tome e Principe", "evasão escolar em São Tomé e Príncipe"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "São Tomé e Príncipe - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE.",
+    keywords: ["avaliacoes globais de Sao Tome e Principe", "avaliações globais de São Tomé e Príncipe"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Senegal - População absoluta e densidade demográfica",
+    texto: "O Senegal possui população absoluta de cerca de 18,3 milhões de habitantes e densidade demográfica de aproximadamente 95 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Senegal", "qual é a população absoluta e a densidade demográfica do Senegal", "populacao do Senegal", "população do Senegal", "densidade demografica do Senegal", "densidade demográfica do Senegal", "densidade do Senegal"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Senegal - Pirâmide etária",
+    texto: "A pirâmide etária do Senegal é jovem, com base larga em transição gradual.",
+    keywords: ["piramide etaria do Senegal", "piramíde etária do Senegal"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Senegal - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,6% ao ano. A taxa de fecundidade é de cerca de 4,1 filhos por mulher.",
+    keywords: ["crescimento populacional no Senegal", "taxa de crescimento populacional no Senegal", "taxa de fecundidade no Senegal"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Senegal - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Senegal gira em torno de 68 a 69 anos.",
+    keywords: ["expectativa de vida no Senegal"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Senegal - Saldo migratório",
+    texto: "O saldo migratório é negativo ou neutro, marcado por emigração para a Europa e fluxos subsaarianos.",
+    keywords: ["saldo migratorio no Senegal", "saldo migratório no Senegal"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Senegal - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Senegal supera 55% a 58%.",
+    keywords: ["taxa de alfabetizacao no Senegal", "taxa de alfabetização no Senegal", "alfabetizacao no Senegal", "alfabetização no Senegal"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Senegal - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 5 anos.",
+    keywords: ["media de escolaridade no Senegal", "média de escolaridade no Senegal"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Senegal - Investimento do PIB em educação pública",
+    texto: "O Senegal investe cerca de 5% a 6% do PIB em educação pública.",
+    keywords: ["pib investido na educacao no Senegal", "pib investido na educação no Senegal", "quanto do pib e investido em educacao publica no Senegal", "quanto do pib é investido em educação pública no Senegal"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Senegal - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário, com distorção idade-série moderada.",
+    keywords: ["taxa de evasao no Senegal", "taxa de evasão no Senegal", "taxa de evasao escolar no Senegal", "taxa de evasão escolar no Senegal", "evasao escolar no Senegal", "evasão escolar no Senegal"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Senegal - Posicionamento em avaliações globais (PISA)",
+    texto: "O Senegal não participa do PISA da OCDE, integrando avaliações regionais do PASEC.",
+    keywords: ["avaliacoes globais do Senegal", "avaliações globais do Senegal"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Seicheles - População absoluta e densidade demográfica",
+    texto: "Seicheles possui população absoluta de cerca de 108.000 habitantes e densidade demográfica de aproximadamente 235 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Seicheles", "qual é a população absoluta e a densidade demográfica de Seicheles", "populacao de Seicheles", "população de Seicheles", "densidade demografica de Seicheles", "densidade demográfica de Seicheles", "densidade de Seicheles"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Seicheles - Pirâmide etária",
+    texto: "A pirâmide etária transita para perfil adulto envelhecido.",
+    keywords: ["piramide etaria de Seicheles", "piramíde etária de Seicheles"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Seicheles - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é baixo (cerca de 0,6% ao ano). A taxa de fecundidade é de cerca de 2,1 filhos por mulher.",
+    keywords: ["crescimento populacional em Seicheles", "taxa de crescimento populacional em Seicheles", "taxa de fecundidade em Seicheles"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Seicheles - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Seicheles gira em torno de 73 a 75 anos.",
+    keywords: ["expectativa de vida em Seicheles"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Seicheles - Saldo migratório",
+    texto: "O saldo migratório é positivo, atraindo trabalhadores do setor turístico e portuário.",
+    keywords: ["saldo migratorio em Seicheles", "saldo migratório em Seicheles"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Seicheles - Taxa de alfabetização",
+    texto: "A taxa de alfabetização acima de 15 anos supera 95%.",
+    keywords: ["taxa de alfabetizacao em Seicheles", "taxa de alfabetização em Seicheles", "alfabetizacao em Seicheles", "alfabetização em Seicheles"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Seicheles - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta supera 9 a 10 anos.",
+    keywords: ["media de escolaridade em Seicheles", "média de escolaridade em Seicheles"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Seicheles - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 4% a 5% do PIB.",
+    keywords: ["pib investido na educacao em Seicheles", "pib investido na educação em Seicheles", "quanto do pib e investido em educacao publica em Seicheles", "quanto do pib é investido em educação pública em Seicheles"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Seicheles - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é baixa no ensino obrigatório universal.",
+    keywords: ["taxa de evasao em Seicheles", "taxa de evasão em Seicheles", "taxa de evasao escolar em Seicheles", "taxa de evasão escolar em Seicheles", "evasao escolar em Seicheles", "evasão escolar em Seicheles"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Seicheles - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE.",
+    keywords: ["avaliacoes globais de Seicheles", "avaliações globais de Seicheles"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Serra Leoa - População absoluta e densidade demográfica",
+    texto: "Serra Leoa possui população absoluta de cerca de 8,8 milhões de habitantes e densidade demográfica de aproximadamente 120 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Serra Leoa", "qual é a população absoluta e a densidade demográfica de Serra Leoa", "populacao de Serra Leoa", "população de Serra Leoa", "densidade demografica de Serra Leoa", "densidade demográfica de Serra Leoa", "densidade de Serra Leoa"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Serra Leoa - Pirâmide etária",
+    texto: "A pirâmide etária de Serra Leoa é jovem, com base larga.",
+    keywords: ["piramide etaria de Serra Leoa", "piramíde etária de Serra Leoa"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Serra Leoa - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,2% ao ano. A taxa de fecundidade é de cerca de 4,1 filhos por mulher.",
+    keywords: ["crescimento populacional em Serra Leoa", "taxa de crescimento populacional em Serra Leoa", "taxa de fecundidade em Serra Leoa"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Serra Leoa - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Serra Leoa gira em torno de 60 anos.",
+    keywords: ["expectativa de vida em Serra Leoa"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Serra Leoa - Saldo migratório",
+    texto: "O saldo migratório é neutro ou levemente negativo.",
+    keywords: ["saldo migratorio em Serra Leoa", "saldo migratório em Serra Leoa"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Serra Leoa - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos em Serra Leoa gira em torno de 48% a 53%.",
+    keywords: ["taxa de alfabetizacao em Serra Leoa", "taxa de alfabetização em Serra Leoa", "alfabetizacao em Serra Leoa", "alfabetização em Serra Leoa"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Serra Leoa - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 4 a 5 anos.",
+    keywords: ["media de escolaridade em Serra Leoa", "média de escolaridade em Serra Leoa"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Serra Leoa - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 6% a 7% do PIB.",
+    keywords: ["pib investido na educacao em Serra Leoa", "pib investido na educação em Serra Leoa", "quanto do pib e investido em educacao publica em Serra Leoa", "quanto do pib é investido em educação pública em Serra Leoa"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Serra Leoa - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar e a distorção idade-série são elevadas no secundário.",
+    keywords: ["taxa de evasao em Serra Leoa", "taxa de evasão em Serra Leoa", "taxa de evasao escolar em Serra Leoa", "taxa de evasão escolar em Serra Leoa", "evasao escolar em Serra Leoa", "evasão escolar em Serra Leoa"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Serra Leoa - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE.",
+    keywords: ["avaliacoes globais de Serra Leoa", "avaliações globais de Serra Leoa"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Somália - População absoluta e densidade demográfica",
+    texto: "A Somália possui população absoluta de cerca de 18,1 milhões de habitantes e densidade demográfica de aproximadamente 28 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Somalia", "qual é a população absoluta e a densidade demográfica da Somália", "populacao da Somalia", "população da Somália", "densidade demografica da Somalia", "densidade demográfica da Somália", "densidade da Somalia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Somália - Pirâmide etária",
+    texto: "A pirâmide etária da Somália é jovem, com base larga e alta proporção de jovens e conflito demográfico interno.",
+    keywords: ["piramide etaria da Somalia", "piramíde etária da Somália"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Somália - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é alto, cerca de 3,0% ao ano. A taxa de fecundidade é de cerca de 5,4 filhos por mulher.",
+    keywords: ["crescimento populacional na Somalia", "taxa de crescimento populacional na Somalia", "taxa de fecundidade na Somalia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Somália - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Somália gira em torno de 57 a 58 anos.",
+    keywords: ["expectativa de vida na Somalia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Somália - Saldo migratório",
+    texto: "O saldo migratório é negativo devido a instabilidade e diáspora de refugiados.",
+    keywords: ["saldo migratorio na Somalia", "saldo migratório na Somália"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Somália - Taxa de alfabetização",
+    texto: "A taxa de alfabetização estimada na Somália gira em torno de 38% a 45%.",
+    keywords: ["taxa de alfabetizacao na Somalia", "taxa de alfabetização na Somália", "alfabetizacao na Somalia", "alfabetização na Somália"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Somália - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é muito baixa (inferior a 3 anos).",
+    keywords: ["media de escolaridade na Somalia", "média de escolaridade na Somália"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Somália - Investimento do PIB em educação pública",
+    texto: "O investimento público formal em educação é restrito/fragilizado por conflitos.",
+    keywords: ["pib investido na educacao na Somalia", "pib investido na educação na Somália", "quanto do pib e investido em educacao publica na Somalia", "quanto do pib é investido em educação pública na Somália"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Somália - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é crítica devido a fatores humanitários e de segurança.",
+    keywords: ["taxa de evasao na Somalia", "taxa de evasão na Somália", "taxa de evasao escolar na Somalia", "taxa de evasão escolar na Somália", "evasao escolar na Somalia", "evasão escolar na Somália"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Somália - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa de avaliações globais como o PISA.",
+    keywords: ["avaliacoes globais da Somalia", "avaliações globais da Somália"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "África do Sul - População absoluta e densidade demográfica",
+    texto: "A África do Sul possui população absoluta de cerca de 64,0 milhões de habitantes e densidade demográfica de aproximadamente 52 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Africa do Sul", "qual é a população absoluta e a densidade demográfica da África do Sul", "populacao da Africa do Sul", "população da África do Sul", "densidade demografica da Africa do Sul", "densidade demográfica da África do Sul", "densidade da Africa do Sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "África do Sul - Pirâmide etária",
+    texto: "A pirâmide etária da África do Sul transita para perfil adulto com envelhecimento gradual.",
+    keywords: ["piramide etaria da Africa do Sul", "piramíde etária da África do Sul"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "África do Sul - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,0% ao ano. A taxa de fecundidade é de cerca de 2,3 filhos por mulher.",
+    keywords: ["crescimento populacional na Africa do Sul", "taxa de crescimento populacional na Africa do Sul", "taxa de fecundidade na Africa do Sul"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "África do Sul - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na África do Sul gira em torno de 65 a 66 anos.",
+    keywords: ["expectativa de vida na Africa do Sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "África do Sul - Saldo migratório",
+    texto: "O saldo migratório é positivo regionalmente, atraindo fluxos da SADC, com saída pontual de profissionais qualificados.",
+    keywords: ["saldo migratorio na Africa do Sul", "saldo migratório na África do Sul"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "África do Sul - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na África do Sul supera 88% a 95% dependendo da faixa etária.",
+    keywords: ["taxa de alfabetizacao na Africa do Sul", "taxa de alfabetização na África do Sul", "alfabetizacao na Africa do Sul", "alfabetização na África do Sul"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "África do Sul - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta supera 10 a 11 anos.",
+    keywords: ["media de escolaridade na Africa do Sul", "média de escolaridade na África do Sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "África do Sul - Investimento do PIB em educação pública",
+    texto: "A África do Sul investe cerca de 6% a 7% do PIB em educação pública, um dos maiores aportes continentais.",
+    keywords: ["pib investido na educacao na Africa do Sul", "pib investido na educação na África do Sul", "quanto do pib e investido em educacao publica na Africa do Sul", "quanto do pib é investido em educação pública na África do Sul"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "África do Sul - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar no ensino médio (FET phase) e a distorção idade-série persistem como desafios sistêmicos.",
+    keywords: ["taxa de evasao na Africa do Sul", "taxa de evasão na África do Sul", "taxa de evasao escolar na Africa do Sul", "taxa de evasão escolar na África do Sul", "evasao escolar na Africa do Sul", "evasão escolar na África do Sul"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "África do Sul - Posicionamento em avaliações globais (PISA)",
+    texto: "A África do Sul participa de avaliações internacionais (TIMSS), registrando desafios de proficiência em ciências e matemática.",
+    keywords: ["avaliacoes globais da Africa do Sul", "avaliações globais da África do Sul"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Sudão do Sul - População absoluta e densidade demográfica",
+    texto: "O Sudão do Sul possui população absoluta de cerca de 11,5 milhões de habitantes e densidade demográfica de aproximadamente 18 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Sudao do Sul", "qual é a população absoluta e a densidade demográfica do Sudão do Sul", "populacao do Sudao do Sul", "população do Sudão do Sul", "densidade demografica do Sudao do Sul", "densidade demográfica do Sudão do Sul", "densidade do Sudao do Sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão do Sul - Pirâmide etária",
+    texto: "A pirâmide etária do Sudão do Sul é jovem, com base larga e impacto de conflitos.",
+    keywords: ["piramide etaria do Sudao do Sul", "piramíde etária do Sudão do Sul"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Sudão do Sul - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,5% ao ano. A taxa de fecundidade é de cerca de 4,7 filhos por mulher.",
+    keywords: ["crescimento populacional no Sudao do Sul", "taxa de crescimento populacional no Sudao do Sul", "taxa de fecundidade no Sudao do Sul"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Sudão do Sul - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Sudão do Sul gira em torno de 56 a 58 anos.",
+    keywords: ["expectativa de vida no Sudao do Sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão do Sul - Saldo migratório",
+    texto: "O saldo migratório é negativo/deslocamento forçado interno e regional.",
+    keywords: ["saldo migratorio no Sudao do Sul", "saldo migratório no Sudão do Sul"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Sudão do Sul - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Sudão do Sul gira em torno de 30% a 35%.",
+    keywords: ["taxa de alfabetizacao no Sudao do Sul", "taxa de alfabetização no Sudão do Sul", "alfabetizacao no Sudao do Sul", "alfabetização no Sudão do Sul"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Sudão do Sul - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é muito baixa (inferior a 4 anos).",
+    keywords: ["media de escolaridade no Sudao do Sul", "média de escolaridade no Sudão do Sul"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão do Sul - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 2% a 3% do PIB, com forte dependência humanitária.",
+    keywords: ["pib investido na educacao no Sudao do Sul", "pib investido na educação no Sudão do Sul", "quanto do pib e investido em educacao publica no Sudao do Sul", "quanto do pib é investido em educação pública no Sudão do Sul"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Sudão do Sul - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é crítica devido a crises humanitárias e instabilidade.",
+    keywords: ["taxa de evasao no Sudao do Sul", "taxa de evasão no Sudão do Sul", "taxa de evasao escolar no Sudao do Sul", "taxa de evasão escolar no Sudão do Sul", "evasao escolar no Sudao do Sul", "evasão escolar no Sudão do Sul"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Sudão do Sul - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa de avaliações do PISA da OCDE.",
+    keywords: ["avaliacoes globais do Sudao do Sul", "avaliações globais do Sudão do Sul"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Sudão - População absoluta e densidade demográfica",
+    texto: "O Sudão possui população absoluta de cerca de 49,0 milhões de habitantes e densidade demográfica de aproximadamente 20 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Sudao", "qual é a população absoluta e a densidade demográfica do Sudão", "populacao do Sudao", "população do Sudão", "densidade demografica do Sudao", "densidade demográfica do Sudão", "densidade do Sudao"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão - Pirâmide etária",
+    texto: "A pirâmide etária do Sudão é jovem, com base larga.",
+    keywords: ["piramide etaria do Sudao", "piramíde etária do Sudão"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Sudão - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,4% ao ano. A taxa de fecundidade é de cerca de 4,3 filhos por mulher.",
+    keywords: ["crescimento populacional no Sudao", "taxa de crescimento populacional no Sudao", "taxa de fecundidade no Sudao"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Sudão - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Sudão gira em torno de 65 anos.",
+    keywords: ["expectativa de vida no Sudao"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão - Saldo migratório",
+    texto: "O saldo migratório é afetado por deslocamentos de conflito e migração regional no Chifre da África.",
+    keywords: ["saldo migratorio no Sudao", "saldo migratório no Sudão"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Sudão - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Sudão supera 60% a 65%.",
+    keywords: ["taxa de alfabetizacao no Sudao", "taxa de alfabetização no Sudão", "alfabetizacao no Sudao", "alfabetização no Sudão"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Sudão - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 4 a 5 anos.",
+    keywords: ["media de escolaridade no Sudao", "média de escolaridade no Sudão"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Sudão - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 2% a 3% do PIB.",
+    keywords: ["pib investido na educacao no Sudao", "pib investido na educação no Sudão", "quanto do pib e investido em educacao publica no Sudao", "quanto do pib é investido em educação pública no Sudão"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Sudão - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar e a distorção idade-série agravaram-se com crises recentes de conflito armado interno.",
+    keywords: ["taxa de evasao no Sudao", "taxa de evasão no Sudão", "taxa de evasao escolar no Sudao", "taxa de evasão escolar no Sudão", "evasao escolar no Sudao", "evasão escolar no Sudão"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Sudão - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE.",
+    keywords: ["avaliacoes globais do Sudao", "avaliações globais do Sudão"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Tanzânia - População absoluta e densidade demográfica",
+    texto: "A Tanzânia possui população absoluta de cerca de 68,0 milhões de habitantes e densidade demográfica de aproximadamente 77 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Tanzania", "qual é a população absoluta e a densidade demográfica da Tanzânia", "populacao da Tanzania", "população da Tanzânia", "densidade demografica da Tanzania", "densidade demográfica da Tanzânia", "densidade da Tanzania"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tanzânia - Pirâmide etária",
+    texto: "A pirâmide etária da Tanzânia é jovem, com base larga e proporção expressiva de crianças e jovens.",
+    keywords: ["piramide etaria da Tanzania", "piramíde etária da Tanzânia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Tanzânia - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 3,0% ao ano. A taxa de fecundidade é de cerca de 4,3 filhos por mulher.",
+    keywords: ["crescimento populacional na Tanzania", "taxa de crescimento populacional na Tanzania", "taxa de fecundidade na Tanzania"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Tanzânia - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Tanzânia gira em torno de 66 a 67 anos.",
+    keywords: ["expectativa de vida na Tanzania"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tanzânia - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo/acolhimento de refugiados regionais.",
+    keywords: ["saldo migratorio na Tanzania", "saldo migratório na Tanzânia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Tanzânia - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Tanzânia supera 78% a 82%.",
+    keywords: ["taxa de alfabetizacao na Tanzania", "taxa de alfabetização na Tanzânia", "alfabetizacao na Tanzania", "alfabetização na Tanzânia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Tanzânia - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 6 anos.",
+    keywords: ["media de escolaridade na Tanzania", "média de escolaridade na Tanzânia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tanzânia - Investimento do PIB em educação pública",
+    texto: "A Tanzânia investe cerca de 4% a 5% do PIB em educação pública.",
+    keywords: ["pib investido na educacao na Tanzania", "pib investido na educação na Tanzânia", "quanto do pib e investido em educacao publica na Tanzania", "quanto do pib é investido em educação pública na Tanzânia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Tanzânia - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre na transição para o ensino secundário superior, com expansão recente de gratuidade básica.",
+    keywords: ["taxa de evasao na Tanzania", "taxa de evasão na Tanzânia", "taxa de evasao escolar na Tanzania", "taxa de evasão escolar na Tanzânia", "evasao escolar na Tanzania", "evasão escolar na Tanzânia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Tanzânia - Posicionamento em avaliações globais (PISA)",
+    texto: "A Tanzânia não participa do PISA, integrando avaliações regionais da EAC/SACMEQ.",
+    keywords: ["avaliacoes globais da Tanzania", "avaliações globais da Tanzânia"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Togo - População absoluta e densidade demográfica",
+    texto: "O Togo possui população absoluta de cerca de 9,1 milhões de habitantes e densidade demográfica de aproximadamente 160 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Togo", "qual é a população absoluta e a densidade demográfica do Togo", "populacao do Togo", "população do Togo", "densidade demografica do Togo", "densidade demográfica do Togo", "densidade do Togo"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Togo - Pirâmide etária",
+    texto: "A pirâmide etária do Togo é jovem, com base larga.",
+    keywords: ["piramide etaria do Togo", "piramíde etária do Togo"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Togo - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,3% ao ano. A taxa de fecundidade é de cerca de 4,1 filhos por mulher.",
+    keywords: ["crescimento populacional no Togo", "taxa de crescimento populacional no Togo", "taxa de fecundidade no Togo"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Togo - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Togo gira em torno de 62 a 63 anos.",
+    keywords: ["expectativa de vida no Togo"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Togo - Saldo migratório",
+    texto: "O saldo migratório é neutro ou levemente negativo/regional.",
+    keywords: ["saldo migratorio no Togo", "saldo migratório no Togo"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Togo - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Togo supera 64% a 67%.",
+    keywords: ["taxa de alfabetizacao no Togo", "taxa de alfabetização no Togo", "alfabetizacao no Togo", "alfabetização no Togo"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Togo - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 5 a 6 anos.",
+    keywords: ["media de escolaridade no Togo", "média de escolaridade no Togo"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Togo - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 4% a 5% do PIB.",
+    keywords: ["pib investido na educacao no Togo", "pib investido na educação no Togo", "quanto do pib e investido em educacao publica no Togo", "quanto do pib é investido em educação pública no Togo"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Togo - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário, com distorção moderada.",
+    keywords: ["taxa de evasao no Togo", "taxa de evasão no Togo", "taxa de evasao escolar no Togo", "taxa de evasão escolar no Togo", "evasao escolar no Togo", "evasão escolar no Togo"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Togo - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE, integrando avaliações do PASEC.",
+    keywords: ["avaliacoes globais do Togo", "avaliações globais do Togo"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Tunísia - População absoluta e densidade demográfica",
+    texto: "A Tunísia possui população absoluta de cerca de 12,5 milhões de habitantes e densidade demográfica de aproximadamente 78 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Tunisia", "qual é a população absoluta e a densidade demográfica da Tunísia", "populacao da Tunisia", "população da Tunísia", "densidade demografica da Tunisia", "densidade demográfica da Tunísia", "densidade da Tunisia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tunísia - Pirâmide etária",
+    texto: "A pirâmide etária da Tunísia exibe perfil adulto avançado em transição para envelhecimento populacional.",
+    keywords: ["piramide etaria da Tunisia", "piramíde etária da Tunísia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Tunísia - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é baixo (cerca de 0,6% a 0,8% ao ano). A taxa de fecundidade caiu para cerca de 1,6 a 1,8 filhos por mulher.",
+    keywords: ["crescimento populacional na Tunisia", "taxa de crescimento populacional na Tunisia", "taxa de fecundidade na Tunisia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Tunísia - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Tunísia gira em torno de 74 a 75 anos.",
+    keywords: ["expectativa de vida na Tunisia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tunísia - Saldo migratório",
+    texto: "O saldo migratório é histórico/negativo em direção à Europa, combinado com trânsito de migrantes norte-africanos/subsaarianos.",
+    keywords: ["saldo migratorio na Tunisia", "saldo migratório na Tunísia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Tunísia - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Tunísia supera 79% a 82%.",
+    keywords: ["taxa de alfabetizacao na Tunisia", "taxa de alfabetização na Tunísia", "alfabetizacao na Tunisia", "alfabetização na Tunísia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Tunísia - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta supera 7 a 8 anos.",
+    keywords: ["media de escolaridade na Tunisia", "média de escolaridade na Tunísia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Tunísia - Investimento do PIB em educação pública",
+    texto: "A Tunísia investe cerca de 6% a 7% do PIB em educação pública, mantendo forte prioridade histórica.",
+    keywords: ["pib investido na educacao na Tunisia", "pib investido na educação na Tunísia", "quanto do pib e investido em educacao publica na Tunisia", "quanto do pib é investido em educação pública na Tunísia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Tunísia - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário/técnico, com distorção moderada gerida por reformas.",
+    keywords: ["taxa de evasao na Tunisia", "taxa de evasão na Tunísia", "taxa de evasao escolar na Tunisia", "taxa de evasão escolar na Tunísia", "evasao escolar na Tunisia", "evasão escolar na Tunísia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Tunísia - Posicionamento em avaliações globais (PISA)",
+    texto: "A Tunísia participa pontualmente/regularmente do PISA da OCDE, situando-se abaixo da média dos membros em proficiência.",
+    keywords: ["avaliacoes globais da Tunisia", "avaliações globais da Tunísia"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Uganda - População absoluta e densidade demográfica",
+    texto: "O Uganda possui população absoluta de cerca de 48,6 milhões de habitantes e densidade demográfica de aproximadamente 200 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Uganda", "qual é a população absoluta e a densidade demográfica do Uganda", "populacao do Uganda", "população do Uganda", "densidade demografica do Uganda", "densidade demográfica do Uganda", "densidade do Uganda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Uganda - Pirâmide etária",
+    texto: "A pirâmide etária do Uganda é extremamente jovem, com base larga e proporção massiva de menores de 18 anos.",
+    keywords: ["piramide etaria do Uganda", "piramíde etária do Uganda"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Uganda - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é alto, cerca de 3,0% ao ano. A taxa de fecundidade é de cerca de 4,5 a 4,7 filhos por mulher.",
+    keywords: ["crescimento populacional no Uganda", "taxa de crescimento populacional no Uganda", "taxa de fecundidade no Uganda"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Uganda - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Uganda gira em torno de 63 a 64 anos.",
+    keywords: ["expectativa de vida no Uganda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Uganda - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo com acolhimento expressivo de refugiados de países vizinhos.",
+    keywords: ["saldo migratorio no Uganda", "saldo migratório no Uganda"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Uganda - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Uganda supera 76% a 79%.",
+    keywords: ["taxa de alfabetizacao no Uganda", "taxa de alfabetização no Uganda", "alfabetizacao no Uganda", "alfabetização no Uganda"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Uganda - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 6 anos.",
+    keywords: ["media de escolaridade no Uganda", "média de escolaridade no Uganda"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Uganda - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 2,5% a 3,5% do PIB.",
+    keywords: ["pib investido na educacao no Uganda", "pib investido na educação no Uganda", "quanto do pib e investido em educacao publica no Uganda", "quanto do pib é investido em educação pública no Uganda"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Uganda - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar acentua-se na transição para o ensino secundário (UPE para USE), com distorção idade-série moderada a alta.",
+    keywords: ["taxa de evasao no Uganda", "taxa de evasão no Uganda", "taxa de evasao escolar no Uganda", "taxa de evasão escolar no Uganda", "evasao escolar no Uganda", "evasão escolar no Uganda"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Uganda - Posicionamento em avaliações globais (PISA)",
+    texto: "O Uganda não participa do PISA, integrando avaliações regionais da EAC/SACMEQ.",
+    keywords: ["avaliacoes globais do Uganda", "avaliações globais do Uganda"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Zâmbia - População absoluta e densidade demográfica",
+    texto: "A Zâmbia possui população absoluta de cerca de 21,3 milhões de habitantes e densidade demográfica de aproximadamente 28 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Zambia", "qual é a população absoluta e a densidade demográfica da Zâmbia", "populacao da Zambia", "população da Zâmbia", "densidade demografica da Zambia", "densidade demográfica da Zâmbia", "densidade da Zambia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zâmbia - Pirâmide etária",
+    texto: "A pirâmide etária da Zâmbia é jovem, com base larga.",
+    keywords: ["piramide etaria da Zambia", "piramíde etária da Zâmbia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Zâmbia - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é alto, cerca de 2,8% ao ano. A taxa de fecundidade é de cerca de 4,3 filhos por mulher.",
+    keywords: ["crescimento populacional na Zambia", "taxa de crescimento populacional na Zambia", "taxa de fecundidade na Zambia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Zâmbia - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Zâmbia gira em torno de 63 a 64 anos.",
+    keywords: ["expectativa de vida na Zambia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zâmbia - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo/regional.",
+    keywords: ["saldo migratorio na Zambia", "saldo migratório na Zâmbia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Zâmbia - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Zâmbia supera 86% a 89%.",
+    keywords: ["taxa de alfabetizacao na Zambia", "taxa de alfabetização na Zâmbia", "alfabetizacao na Zambia", "alfabetização na Zâmbia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Zâmbia - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 7 anos.",
+    keywords: ["media de escolaridade na Zambia", "média de escolaridade na Zâmbia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zâmbia - Investimento do PIB em educação pública",
+    texto: "A Zâmbia investe cerca de 4% a 5% do PIB em educação pública.",
+    keywords: ["pib investido na educacao na Zambia", "pib investido na educação na Zâmbia", "quanto do pib e investido em educacao publica na Zambia", "quanto do pib é investido em educação pública na Zâmbia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Zâmbia - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre no ensino secundário superior, com expansão de gratuidade básica.",
+    keywords: ["taxa de evasao na Zambia", "taxa de evasão na Zâmbia", "taxa de evasao escolar na Zambia", "taxa de evasão escolar na Zâmbia", "evasao escolar na Zambia", "evasão escolar na Zâmbia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Zâmbia - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE, integrando avaliações da SADC.",
+    keywords: ["avaliacoes globais da Zambia", "avaliações globais da Zâmbia"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Zimbábue - População absoluta e densidade demográfica",
+    texto: "O Zimbábue possui população absoluta de cerca de 16,7 milhões de habitantes e densidade demográfica de aproximadamente 43 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Zimbabue", "qual é a população absoluta e a densidade demográfica do Zimbábue", "populacao do Zimbabue", "população do Zimbábue", "densidade demografica do Zimbabue", "densidade demográfica do Zimbábue", "densidade do Zimbabue"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zimbábue - Pirâmide etária",
+    texto: "A pirâmide etária do Zimbábue transita de base larga para perfil jovem-intermediário.",
+    keywords: ["piramide etaria do Zimbabue", "piramíde etária do Zimbábue"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Zimbábue - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,6% a 1,8% ao ano. A taxa de fecundidade é de cerca de 3,5 filhos por mulher.",
+    keywords: ["crescimento populacional no Zimbabue", "taxa de crescimento populacional no Zimbabue", "taxa de fecundidade no Zimbabue"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Zimbábue - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Zimbábue gira em torno de 61 a 62 anos.",
+    keywords: ["expectativa de vida no Zimbabue"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zimbábue - Saldo migratório",
+    texto: "O saldo migratório é historicamente negativo devido à diáspora econômica regional (África do Sul) e internacional.",
+    keywords: ["saldo migratorio no Zimbabue", "saldo migratório no Zimbábue"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Zimbábue - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Zimbábue é uma das mais altas do continente, superando 88% a 92%.",
+    keywords: ["taxa de alfabetizacao no Zimbabue", "taxa de alfabetização no Zimbábue", "alfabetizacao no Zimbabue", "alfabetização no Zimbábue"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Zimbábue - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta supera 8 a 9 anos.",
+    keywords: ["media de escolaridade no Zimbabue", "média de escolaridade no Zimbábue"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Zimbábue - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 4% a 5% do PIB, com forte valorização cultural histórica da escolarização.",
+    keywords: ["pib investido na educacao no Zimbabue", "pib investido na educação no Zimbábue", "quanto do pib e investido em educacao publica no Zimbabue", "quanto do pib é investido em educação pública no Zimbábue"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Zimbábue - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre por restrições socioeconômicas e inflação, com distorção moderada a alta.",
+    keywords: ["taxa de evasao no Zimbabue", "taxa de evasão no Zimbábue", "taxa de evasao escolar no Zimbabue", "taxa de evasão escolar no Zimbábue", "evasao escolar no Zimbabue", "evasão escolar no Zimbábue"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Zimbábue - Posicionamento em avaliações globais (PISA)",
+    texto: "Não participa do PISA da OCDE, integrando avaliações regionais da SADC/SACMEQ.",
+    keywords: ["avaliacoes globais do Zimbabue", "avaliações globais do Zimbábue"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Argélia - População absoluta e densidade demográfica",
+    texto: "A Argélia possui população absoluta de cerca de 45,5 milhões de habitantes e densidade demográfica de aproximadamente 19 hab/km², com forte concentração no norte (Tell).",
+    keywords: ["qual e a populacao absoluta e a densidade demografica da Argelia", "qual é a população absoluta e a densidade demográfica da Argélia", "populacao da Argelia", "população da Argélia", "densidade demografica da Argelia", "densidade demográfica da Argélia", "densidade da Argelia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Argélia - Pirâmide etária",
+    texto: "A pirâmide etária da Argélia transita de base larga para perfil adulto intermediário com envelhecimento gradual.",
+    keywords: ["piramide etaria da Argelia", "piramíde etária da Argélia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Argélia - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,5% ao ano. A taxa de fecundidade é de cerca de 2,3 a 2,5 filhos por mulher.",
+    keywords: ["crescimento populacional na Argelia", "taxa de crescimento populacional na Argelia", "taxa de fecundidade na Argelia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Argélia - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer na Argélia gira em torno de 77 anos.",
+    keywords: ["expectativa de vida na Argelia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Argélia - Saldo migratório",
+    texto: "O saldo migratório é historicamente negativo ou neutro, marcado por emigração rumo à Europa (especialmente França) e trânsito regional.",
+    keywords: ["saldo migratorio na Argelia", "saldo migratório na Argélia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Argélia - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos na Argélia supera 81% a 85%.",
+    keywords: ["taxa de alfabetizacao na Argelia", "taxa de alfabetização na Argélia", "alfabetizacao na Argelia", "alfabetização na Argélia"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Argélia - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 8 anos.",
+    keywords: ["media de escolaridade na Argelia", "média de escolaridade na Argélia"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Argélia - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 5% a 6% do PIB.",
+    keywords: ["pib investido na educacao na Argelia", "pib investido na educação na Argélia", "quanto do pib e investido em educacao publica na Argelia", "quanto do pib é investido em educação pública na Argélia"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Argélia - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar ocorre na transição para o ensino secundário/médio, com distorção moderada gerida por políticas de gratuidade.",
+    keywords: ["taxa de evasao na Argelia", "taxa de evasão na Argélia", "taxa de evasao escolar na Argelia", "taxa de evasão escolar na Argélia", "evasao escolar na Argelia", "evasão escolar na Argélia"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Argélia - Posicionamento em avaliações globais (PISA)",
+    texto: "A Argélia não participa de forma regular do PISA da OCDE, avaliando o sistema por diretrizes nacionais e exames oficiais.",
+    keywords: ["avaliacoes globais da Argelia", "avaliações globais na Argélia"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Angola - População absoluta e densidade demográfica",
+    texto: "Angola possui população absoluta de cerca de 36,6 milhões de habitantes e densidade demográfica de aproximadamente 29 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Angola", "qual é a população absoluta e a densidade demográfica de Angola", "populacao de Angola", "população de Angola", "densidade demografica de Angola", "densidade demográfica de Angola", "densidade de Angola"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Angola - Pirâmide etária",
+    texto: "A pirâmide etária de Angola é altamente jovem, com base larga e estreitamento rápido nas faixas adultas.",
+    keywords: ["piramide etaria de Angola", "piramíde etária de Angola"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Angola - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é alto, de cerca de 3,0% ao ano. A taxa de fecundidade é de cerca de 5,0 filhos por mulher.",
+    keywords: ["crescimento populacional em Angola", "taxa de crescimento populacional em Angola", "taxa de fecundidade em Angola"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Angola - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Angola gira em torno de 62 anos.",
+    keywords: ["expectativa de vida em Angola"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Angola - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente positivo/flutuante, com atração regional de trabalhadores e migração de fronteira.",
+    keywords: ["saldo migratorio em Angola", "saldo migratório em Angola"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Angola - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos em Angola supera 71% a 72%.",
+    keywords: ["taxa de alfabetizacao em Angola", "taxa de alfabetização em Angola", "alfabetizacao em Angola", "alfabetização em Angola"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Angola - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 5 a 6 anos.",
+    keywords: ["media de escolaridade em Angola", "média de escolaridade em Angola"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Angola - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 2,5% a 3,5% do PIB.",
+    keywords: ["pib investido na educacao em Angola", "pib investido na educação em Angola", "quanto do pib e investido em educacao publica em Angola", "quanto do pib é investido em educação pública em Angola"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Angola - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar e a distorção idade-série são elevadas no ensino primário e primeiro ciclo secundário devido a déficits de infraestrutura.",
+    keywords: ["taxa de evasao em Angola", "taxa de evasão em Angola", "taxa de evasao escolar em Angola", "taxa de evasão escolar em Angola", "evasao escolar em Angola", "evasão escolar em Angola"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Angola - Posicionamento em avaliações globais (PISA)",
+    texto: "Angola não participa do PISA da OCDE, enfrentando desafios estruturais de universalização e proficiência básica.",
+    keywords: ["avaliacoes globais de Angola", "avaliações globais de Angola"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Benin - População absoluta e densidade demográfica",
+    texto: "O Benin possui população absoluta de cerca de 13,7 milhões de habitantes e densidade demográfica de aproximadamente 120 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica do Benin", "qual é a população absoluta e a densidade demográfica do Benin", "populacao do Benin", "população do Benin", "densidade demografica do Benin", "densidade demográfica do Benin", "densidade do Benin"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Benin - Pirâmide etária",
+    texto: "A pirâmide etária do Benin é jovem, com base larga típica de países da África Ocidental.",
+    keywords: ["piramide etaria do Benin", "piramíde etária do Benin"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Benin - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 2,7% ao ano. A taxa de fecundidade é de cerca de 4,8 filhos por mulher.",
+    keywords: ["crescimento populacional no Benin", "taxa de crescimento populacional no Benin", "taxa de fecundidade no Benin"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Benin - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Benin gira em torno de 61 a 62 anos.",
+    keywords: ["expectativa de vida no Benin"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Benin - Saldo migratório",
+    texto: "O saldo migratório é neutro a levemente negativo, com mobilidade laboral sub-regional na África Ocidental.",
+    keywords: ["saldo migratorio no Benin", "saldo migratório no Benin"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Benin - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Benin supera 45% a 55%.",
+    keywords: ["taxa de alfabetizacao no Benin", "taxa de alfabetização no Benin", "alfabetizacao no Benin", "alfabetização no Benin"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Benin - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 4 a 5 anos.",
+    keywords: ["media de escolaridade no Benin", "média de escolaridade no Benin"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Benin - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 3% a 4% do PIB.",
+    keywords: ["pib investido na educacao no Benin", "pib investido na educação no Benin", "quanto do pib e investido em educacao publica no Benin", "quanto do pib é investido em educação pública no Benin"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Benin - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é significativa no ensino primário superior e secundário, afetando mais meninas em zonas rurais.",
+    keywords: ["taxa de evasao no Benin", "taxa de evasão no Benin", "taxa de evasao escolar no Benin", "taxa de evasão escolar no Benin", "evasao escolar no Benin", "evasão escolar no Benin"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Benin - Posicionamento em avaliações globais (PISA)",
+    texto: "O Benin não participa do PISA, integrando avaliações regionais africanas (PASEC) de proficiência escolar.",
+    keywords: ["avaliacoes globais do Benin", "avaliações globais do Benin"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Botsuana - População absoluta e densidade demográfica",
+    texto: "O Botsuana possui população absoluta de cerca de 2,6 milhões de habitantes e baixa densidade demográfica de aproximadamente 4 a 5 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Botsuana", "qual é a população absoluta e a densidade demográfica do Botsuana", "populacao de Botsuana", "população do Botsuana", "densidade demografica de Botsuana", "densidade demográfica do Botsuana", "densidade de Botsuana"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Botsuana - Pirâmide etária",
+    texto: "A pirâmide etária de Botsuana transita de jovem para perfil adulto intermediário.",
+    keywords: ["piramide etaria de Botsuana", "piramíde etária de Botsuana"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Botsuana - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é de cerca de 1,5% ao ano. A taxa de fecundidade é de cerca de 2,7 filhos por mulher.",
+    keywords: ["crescimento populacional em Botsuana", "taxa de crescimento populacional em Botsuana", "taxa de fecundidade em Botsuana"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Botsuana - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer em Botsuana recuperou-se para cerca de 65 a 69 anos.",
+    keywords: ["expectativa de vida em Botsuana"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Botsuana - Saldo migratório",
+    texto: "O saldo migratório é levemente positivo, atraindo força de trabalho regional na mineração e serviços.",
+    keywords: ["saldo migratorio em Botsuana", "saldo migratório em Botsuana"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Botsuana - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos em Botsuana supera 88% a 90%.",
+    keywords: ["taxa de alfabetizacao em Botsuana", "taxa de alfabetização em Botsuana", "alfabetizacao em Botsuana", "alfabetização em Botsuana"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Botsuana - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é de cerca de 9 anos.",
+    keywords: ["media de escolaridade em Botsuana", "média de escolaridade em Botsuana"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Botsuana - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação em Botsuana é alto, orbitando 7% a 8% do PIB.",
+    keywords: ["pib investido na educacao em Botsuana", "pib investido na educação em Botsuana", "quanto do pib e investido em educacao publica em Botsuana", "quanto do pib é investido em educação pública em Botsuana"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Botsuana - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é moderada, com forte expansão do acesso básico e ensino secundário universalizado em fases.",
+    keywords: ["taxa de evasao em Botsuana", "taxa de evasão em Botsuana", "taxa de evasao escolar em Botsuana", "taxa de evasão escolar em Botsuana", "evasao escolar em Botsuana", "evasão escolar em Botsuana"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Botsuana - Posicionamento em avaliações globais (PISA)",
+    texto: "Botsuana não participa do PISA, medindo resultados educacionais por exames nacionais e regionais (SACMEQ).",
+    keywords: ["avaliacoes globais de Botsuana", "avaliações globais de Botsuana"],
+    fonte: "Wikipedia"
+  },
+
+  {
+    assunto: "Burkina Faso - População absoluta e densidade demográfica",
+    texto: "O Burkina Faso possui população absoluta de cerca de 23,2 milhões de habitantes e densidade demográfica de aproximadamente 84 hab/km².",
+    keywords: ["qual e a populacao absoluta e a densidade demografica de Burkina Faso", "qual é a população absoluta e a densidade demográfica de Burkina Faso", "populacao de Burkina Faso", "população de Burkina Faso", "densidade demografica de Burkina Faso", "densidade demográfica de Burkina Faso", "densidade de Burkina Faso"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Burkina Faso - Pirâmide etária",
+    texto: "A pirâmide etária do Burkina Faso é jovem, com base larga e alta proporção de menores de 15 anos.",
+    keywords: ["piramide etaria de Burkina Faso", "piramíde etária de Burkina Faso"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Burkina Faso - Crescimento populacional e fecundidade",
+    texto: "O crescimento populacional é alto, de cerca de 2,4% a 2,5% ao ano. A taxa de fecundidade é de cerca de 4,7 filhos por mulher.",
+    keywords: ["crescimento populacional em Burkina Faso", "taxa de crescimento populacional em Burkina Faso", "taxa de fecundidade em Burkina Faso"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Burkina Faso - Expectativa de vida ao nascer",
+    texto: "A expectativa de vida ao nascer no Burkina Faso gira em torno de 59 a 60 anos.",
+    keywords: ["expectativa de vida em Burkina Faso"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Burkina Faso - Saldo migratório",
+    texto: "O saldo migratório é afetado por deslocamentos internos forçados devido a crises de segurança e migração sub-regional.",
+    keywords: ["saldo migratorio em Burkina Faso", "saldo migratório em Burkina Faso"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Burkina Faso - Taxa de alfabetização",
+    texto: "A taxa de alfabetização da população acima de 15 anos no Burkina Faso gira em torno de 36% a 41%.",
+    keywords: ["taxa de alfabetizacao em Burkina Faso", "taxa de alfabetização em Burkina Faso", "alfabetizacao em Burkina Faso", "alfabetização em Burkina Faso"],
+    fonte: "Britannica"
+  },
+  {
+    assunto: "Burkina Faso - Anos de escolaridade e expectativa de estudo",
+    texto: "A média de anos de escolaridade adulta é baixa, inferior a 2 a 3 anos.",
+    keywords: ["media de escolaridade em Burkina Faso", "média de escolaridade em Burkina Faso"],
+    fonte: "Wikipedia"
+  },
+  {
+    assunto: "Burkina Faso - Investimento do PIB em educação pública",
+    texto: "O investimento público em educação orbita 4% a 5% do PIB.",
+    keywords: ["pib investido na educacao em Burkina Faso", "pib investido na educação em Burkina Faso", "quanto do pib e investido em educacao publica em Burkina Faso", "quanto do pib é investido em educação pública em Burkina Faso"],
+    fonte: "Toda Matéria"
+  },
+  {
+    assunto: "Burkina Faso - Evasão escolar e distorção idade-série",
+    texto: "A evasão escolar é alta e agravada por instabilidade social/conflitos e barreiras socioeconômicas rurais.",
+    keywords: ["taxa de evasao em Burkina Faso", "taxa de evasão em Burkina Faso", "taxa de evasao escolar em Burkina Faso", "taxa de evasão escolar em Burkina Faso", "evasao escolar em Burkina Faso", "evasão escolar em Burkina Faso"],
+    fonte: "Brasil Escola"
+  },
+  {
+    assunto: "Burkina Faso - Posicionamento em avaliações globais (PISA)",
+    texto: "O Burkina Faso não participa do PISA, integrando avaliações regionais do PASEC.",
+    keywords: ["avaliacoes globais de Burkina Faso", "avaliações globais de Burkina Faso"],
+    fonte: "Wikipedia"
   },
   {
     assunto: "Argentina - População absoluta e densidade demográfica",
