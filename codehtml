@@ -199,6 +199,519 @@ const CONFIG = {
       fonte:    aparece pequena, logo abaixo da resposta
    ══════════════════════════════════════════════════════════════ */
 const ARTIGOS = [
+{
+  "assunto": "Eleição presidencial no Brasil em 2006",
+  "titulo": "Eleição presidencial no Brasil em 2006 — Resumo e contexto",
+  "texto": "A eleição presidencial de 2006 no Brasil foi realizada em dois turnos. O primeiro aconteceu em 1 de outubro de 2006, e o segundo em 29 de outubro de 2006, ambos em domingos. Foi a quinta eleição presidencial do país após a promulgação da Constituição Federal de 1988.",
+  "keywords": [
+    "Eleição presidencial no Brasil em 2006",
+    "eleição presidencial no brasil em 2006",
+    "Eleicao presidencial no Brasil em 2006",
+    "eleicao presidencial no brasil em 2006"
+  ],
+  "fonte": "Wikipedia"
+},
+{
+    "assunto": "Eleição presidencial no Brasil em 2010",
+    "titulo": "Eleição presidencial no Brasil em 2010 — Resumo e contexto",
+    "texto": "A eleição presidencial de 2010 no Brasil foi realizada em dois turnos. O primeiro aconteceu em 3 de outubro de 2010, e o segundo em 31 de outubro de 2010, ambos em domingos. Foi a 6.ª eleição presidencial do país após a promulgação Constituição Federal de 1988. Esta foi a primeira vez desde o pleito de 1989, a primeira eleição direta para presidente desde 1960, em que Luiz Inácio Lula da Silva não foi candidato a presidente.\nEm 31 de outubro de 2010, Dilma Rousseff, do Partido dos Trabalhadores, é eleita a primeira presidente mulher da República Federativa do Brasil, a assumir em 1º de janeiro de 2011 sucedendo ao também presidente petista Luiz Inácio Lula da Silva.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 2010",
+      "eleição presidencial no brasil em 2010",
+      "Eleicao presidencial no Brasil de 2010",
+      "eleicao presidencial no brasil de 2010"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Eleição presidencial no Brasil em 2014",
+    "titulo": "Eleição presidencial no Brasil em 2014 — Resumo e contexto",
+    "texto": "A eleição presidencial de 2014 no Brasil foi realizada em dois turnos. O primeiro aconteceu em 5 de outubro de 2014, e o segundo em 26 de outubro de 2014, ambos em domingos. Foi a 7ª eleição presidencial do país após a promulgação Constituição Federal de 1988. A presidente Dilma Rousseff, do Partido dos Trabalhadores (PT), foi reeleita com mais de 54 milhões de votos. A candidata petista venceu o segundo turno com 51,64% dos votos válidos, fazendo com que esta fosse, até então, considerada a eleição mais acirrada no Brasil após a redemocratização, só superada em 2022 pela disputa em segundo turno entre Lula e Bolsonaro nas eleições presidenciais daquele ano, em que Lula venceu com 50,9% dos votos válidos.\nAlém de Dilma, outros dez candidatos disputaram o primeiro turno da eleição no dia 5 de outubro. Destes, três eram apoiados por coligações de partidos, enquanto os restantes tinham apoio apenas de seu próprio partido. Como nenhum dos candidatos atingiu maioria absoluta dos votos, um segundo turno foi convocado, entre os ambos economistas Dilma Rousseff e Aécio Neves, do Partido da Social Democracia Brasileira (PSDB).\nA eleição foi marcada pela morte do candidato Eduardo Campos, do Partido Socialista Brasileiro (PSB), em um acidente aéreo no dia 13 de agosto de 2014, enquanto fazia campanha eleitoral nos estados de São Paulo e Rio de Janeiro. Cinco dias após, o PSB anunciou que Marina Silva substituiria Eduardo na disputa pela presidência. A eleição também foi marcada por uma instabilidade no Brasil, devido às manifestações de 2013 e à crise política e econômica que afetava o país e que se intensificaria mais tarde.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 2014",
+      "eleição presidencial no brasil em 2014",
+      "Eleicao presidencial no Brasil em 2014",
+      "eleicao presidencial no brasil em 2014"
+    ],
+    "fonte": "Wikipedia"
+  },
+    {
+    "assunto": "Eleição presidencial no Brasil em 2018",
+    "titulo": "Eleição presidencial no Brasil em 2018 — Resumo e contexto",
+    "texto": "A eleição presidencial de 2018 no Brasil foi realizada em dois turnos. O primeiro aconteceu em 7 de outubro de 2018, e o segundo em 28 de outubro de 2018, ambos em domingos. Foi a 8.ª eleição presidencial do país após a promulgação da Constituição Federal de 1988. Foi disputada entre o professor e advogado Fernando Haddad (PT) e o militar Jair Bolsonaro (PSL), que saiu-se como o vencedor. O candidato e seu vice foram empossados em 1 de janeiro de 2019 para um mandato de quatro anos.\nNa eleição presidencial anterior, em 2014, Dilma Rousseff foi reeleita presidente. Empossada em 2015, acabou sendo afastada do cargo pelo Congresso Nacional em agosto de 2016 em processo de impeachment por irresponsabilidade administrativa e substituída pelo seu vice-presidente, Michel Temer, que decidiu não se candidatar à reeleição em 2018.\nFiscalizada pelo Tribunal Superior Eleitoral, a eleição presidencial de 2018 teve algumas regras diferentes em relação às eleições anteriores, como a vedação do financiamento empresarial aos candidatos e uma campanha eleitoral com período menor. A internet  ganhou mais espaço nas eleições com a liberação da arrecadação por ferramentas de financiamento coletivo (conhecidas também como vaquinhas). O TSE aprovou o calendário eleitoral das eleições de 2018, definindo 16 de agosto como início da campanha eleitoral. Com treze candidatos confirmados pelas convenções partidárias, esta eleição teve o maior número de candidatos em 29 anos.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 2018",
+      "eleição presidencial no brasil em 2018",
+      "Eleicao presidencial no Brasil em 2018",
+      "eleicao presidencial no brasil em 2018"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Eleição presidencial no Brasil em 2022",
+    "titulo": "Eleição presidencial no Brasil em 2022 — Resumo e contexto",
+    "texto": "A eleição presidencial no Brasil em 2022 foi realizada em dois turnos, nos dias 2 e 30 de outubro, o primeiro e o último domingo de outubro, respectivamente, como parte das eleições gerais deste ano. Aproximadamente 156,4 milhões de brasileiros estavam aptos a votar no país e no exterior. A votação ocorreu no período das 8 às 17 horas, uniformizado pelo horário da capital federal Brasília. Luiz Inácio Lula da Silva e Geraldo Alckmin, presidente eleito e vice-presidente eleito, respectivamente, foram empossados em 1 de janeiro de 2023 para um mandato de quatro anos e cinco dias.\nEm um dos pleitos mais acirrados do país, Luiz Inácio Lula da Silva, do Partido dos Trabalhadores (PT), foi eleito pela terceira vez como presidente da República, sendo assim o 39.º presidente do Brasil, com um pouco mais de 60 milhões de votos, superando seu próprio recorde em 2006, para um mandato de quatro anos que foi iniciado no dia 1 de janeiro de 2023 e terminará em 5 de janeiro de 2027. Isso ocorre devido à Emenda Constitucional n.º 111, que alterou a Constituição e estipulou que a partir das eleições de 2026, o mandato do presidente da República deverá iniciar-se em 5 de janeiro, já o dos governadores dos estados e do Distrito Federal deverá iniciar-se em 6 de janeiro. Jair Bolsonaro, do Partido Liberal (PL), em exercício desde 2019, tornou-se o primeiro presidente do Brasil a não conseguir se reeleger ao cargo, desde a instituição da reeleição em 1997. Foi a nona eleição presidencial no país realizada sob a vigência da Constituição promulgada em 1988.\nNo primeiro turno da eleição, onze candidatos concorreram à Presidência da República. Jair Bolsonaro recebeu 43,20% dos votos e avançou para o segundo turno com Lula, primeiro colocado, com 48,43% do eleitorado, que disputou o cargo outras seis vezes — sendo o candidato que mais concorreu à Presidência desde o fim da República Velha — e venceu três, em 2002, 2006 e 2022. Ambos centraram as atenções no cenário político durante o pleito, que foi polarizado devido a divergências ideológicas e realizado em plena recessão causada pela pandemia de COVID-19, enquanto outros candidatos procuraram apresentar-se como nomes alternativos da terceira via para eleitores indecisos.\nApós a finalização da apuração dos resultados da eleição, uma série de manifestações em todo o país tomou curso, com caminhoneiros bloqueando total ou parcialmente rodovias e com cidadãos contrários à vitória de Lula pedindo golpe de Estado e protestando na frente de quartéis militares de diversas localidades. A transição presidencial começou oficialmente no dia 3 de novembro de 2022.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 2022",
+      "eleição presidencial no brasil em 2022",
+      "Eleicao presidencial no Brasil em 2022",
+      "eleicao presidencial no brasil em 2022"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Eleição presidencial no Brasil em 2026",
+    "titulo": "Eleição presidencial no Brasil em 2026 — Resumo e contexto",
+    "texto": "A eleição presidencial no Brasil em 2026 será realizada em 4 de outubro para eleger o Presidente e o Vice-presidente da República, e faz parte das eleições gerais desse ano no país. Conforme as regras eleitorais vigentes, caso nenhum candidato obtenha maioria dos votos válidos no primeiro turno, será realizado um segundo turno no domingo dia 25 de outubro. O Presidente e o Vice-presidente eleitos serão empossados em 5 de janeiro de 2027, para um mandato de quatro anos e cinco dias.\nTreze candidaturas estão em disputa neste pleito: o atual incumbente, ex-metalúrgico e ex-sindicalista Luiz Inácio Lula da Silva, do Partido dos Trabalhadores (PT) pela Federação Brasil da Esperança (FE Brasil); o senador e filho do ex-presidente Jair Bolsonaro, empresário e advogado Flávio Bolsonaro, do Partido Liberal (PL); o ex-governador de Goiás, professor e médico Ronaldo Caiado, do Partido Social Democrático (PSD); o ex-governador de Minas Gerais, o administrador e empresário Romeu Zema, do Partido Novo (NOVO); o ativista político, empresário e músico Renan Santos, do Partido Missão; o psiquiatra e escritor Augusto Cury, do Avante; o empresário Leonardo Avalanche, do Partido Renovador Trabalhista Brasileiro (PRTB); o economista e professor Edmilson Costa, do Partido Comunista Brasileiro (PCB); o professor e músico Hertz Dias do Partido Socialista dos Trabalhadores Unificado (PSTU); a ativista política e cirurgiã-dentista Samara Martins do Unidade Popular (UP); o jornalista Rui Costa Pimenta, do Partido da Causa Operária (PCO); o veterinário e empresário Wilson Grassi do Democrata; e a advogada Clariana Barão pelo Democracia Cristã (DC).",
+    "keywords": [
+      "Eleição presidencial no Brasil em 2026",
+      "eleição presidencial no brasil em 2026",
+      "Eleicao presidencial no Brasil em 2026",
+      "eleicao presidencial no brasil em 2026"
+    ],
+    "fonte": "Wikipedia"
+  },
+    {
+    "assunto": "Eleição presidencial no Brasil em 2002",
+    "titulo": "Eleição presidencial no Brasil em 2002 — Resumo e contexto",
+    "texto": "A eleição presidencial de 2002 no Brasil foi realizada em dois turnos. O primeiro aconteceu em 6 de outubro de 2002, e o segundo em 27 de outubro de 2002, ambos em domingos. Foi a 4.ª eleição presidencial do país após a promulgação Constituição Federal de 1988. Após três tentativas frustradas, Luiz Inácio Lula da Silva, do Partido dos Trabalhadores (PT), conseguiu eleger-se presidente com quase 53 milhões de votos, tornando-se o segundo presidente mais votado do mundo à época, atrás apenas de Ronald Reagan na eleição estadunidense de 1984.\nFoi a primeira e única vitória do PT e, consequentemente, de Lula nos estados de Mato Grosso, Mato Grosso do Sul, Paraná, São Paulo e Santa Catarina em eleições presidenciais.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 2002",
+      "eleição presidencial no brasil em 2002",
+      "Eleicao presidencial no Brasil em 2002",
+      "eleicao presidencial no brasil em 2002"
+    ],
+    "fonte": "wikipedia"
+    },
+    {
+    "assunto": "Eleição presidencial no Brasil em 1994",
+    "titulo": "Eleição presidencial no Brasil em 1994 — Resumo e contexto",
+    "texto": "A eleição presidencial de 1994 no Brasil foi realizada em uma segunda-feira, 3 de outubro de 1994. Foi a segunda eleição presidencial do país após a promulgação da Constituição Federal de 1988. O sociólogo Fernando Henrique Cardoso (PSDB) venceu no 1º turno o sindicalista Luiz Inácio Lula da Silva (PT), com 34 314 961 de votos contra 17 122 127 do oponente.. O terceiro colocado foi o médico Enéas Carneiro, com 4 671 457 votos. Nesta ocasião houve a escolha de Presidente e Vice-Presidente, Governadores de Estado, Senadores (2 por Estado), Deputados Federais e Deputados Estaduais em todo o Brasil.\nA disputa pela presidência contou com nove candidatos, dentre os quais, nomes da política e sociologia nacional, como o sociólogo Fernando Henrique Cardoso, o engenheiro Leonel Brizola (PDT), o médico Enéas Carneiro (PRONA) e o sindicalista e ex-metalúrgico Lula. Este número poderia ser maior, caso Flávio Rocha (PL) não abdicasse de sua candidatura à presidência por conta do escândalo dos bônus eleitorais (posteriormente abandonaria a carreira política) e Caetano Matanó Júnior não tivesse a candidatura indeferida porque seu partido, o PTdoB (atual Avante), ainda não havia sido registrado no TSE, além de outros que também não tiveram seus partidos registrados, como Levy Fidelix, do PTRB e mais outros dois, de partidos que sequer viriam a ser registrados depois das eleições. A campanha eleitoral foi marcada por vários acontecimentos importantes, como o lançamento de uma nova moeda (Real), a queda do Ministro da Fazenda Rubens Ricupero, a crise dos vices (suspeitas não comprovadas de corrupção sobre os vices de Lula e Fernando Henrique) e a virada nas pesquisas de intenções de voto.\nO resultado desta eleição foi influenciado diretamente pelo Plano Real, um plano econômico elaborado por Fernando Henrique enquanto Ministro da Fazenda de Itamar Franco. O plano permitiu a acabar com a hiperinflação, estabilizando os preços, aumentando o poder de compra das famílias e permitindo o planejamento das ações governamentais sobre a economia e a sociedade, com a referência estável da moeda.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 1994",
+      "eleição presidencial no brasil em 1994",
+      "Eleicao presidencial no Brasil em 1994",
+      "eleicao presidencial no brasil em 1994"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Eleição presidencial no Brasil em 1989",
+    "titulo": "Eleição presidencial no Brasil em 1989 — Resumo e contexto",
+    "texto": "A eleição presidencial de 1989 no Brasil foi realizada em dois turnos. O primeiro aconteceu em uma quarta-feira, 15 de novembro de 1989, e o segundo em um domingo, 17 de dezembro de 1989. Foi a primeira eleição presidencial do país após a promulgação da Constituição Federal de 1988. No total, 22 candidatos a Presidente e 22 a Vice-presidente do Brasil concorreram na eleição. Os principais candidatos à presidência foram: o economista liberal Fernando Collor de Mello (PRN, atual Agir), o sindicalista social-democrata Luiz Inácio Lula da Silva (PT), o engenheiro trabalhista Leonel Brizola (PDT), o engenheiro social-democrata Mário Covas (PSDB), e o engenheiro conservador Paulo Maluf (PDS, atual  Progressistas). Foi a primeira eleição direta brasileira em que presidente e vice-presidente da República foram eleitos juntos, norma mantida nos pleitos seguintes e que continua até hoje.",
+    "keywords": [
+      "Eleição presidencial no Brasil em 1989",
+      "eleição presidencial no brasil em 1989",
+      "Eleicao presidencial no Brasil em 1989",
+      "eleicao presidencial no brasil em 1989"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+    "assunto": "Inteligência artificial",
+    "titulo": "Inteligência artificial — Resumo e contexto",
+    "texto": "Inteligência artificial (frequentemente abreviada por IA ou AI, do inglês artificial intelligence) é, de forma genérica, a capacidade de máquinas demonstrarem inteligência, raciocínio e aprendizado de forma semelhante ao pensamento humano. O campo busca desenvolver máquinas autónomas ou sistemas especialistas capazes de simular o comportamento humano e realizar tarefas complexas de forma independente. Trata-se de um sistema que permite aos computadores executar funções avançadas, como a análise de dados em grande escala e a formulação de previsões ou recomendações. Como campo de pesquisa na ciência da computação, dedica-se ao estudo e desenvolvimento de métodos e softwares que capacitam as máquinas a perceberem o seu ambiente e a utilizarem o aprendizado para tomar ações que maximizem as hipóteses de atingir objetivos definidos.\nA história da IA remonta à década de 1950, fundamentada em conceitos que remontam ao filósofo grego Aristóteles. Em 1950, o matemático inglês Alan Turing teorizou sobre a possibilidade de uma máquina pensar e imitar o comportamento humano inteligente, esboçando uma proposta de pesquisa pioneira para tornar este objetivo viável, uma visão partilhada por pesquisadores contemporâneos como Herbert Simon. Fundada oficialmente como disciplina académica em 1956, a inteligência artificial passou por múltiplos ciclos de otimismo ao longo de sua história, intercalados por períodos de estagnação e perda de financiamento (invernos da IA). O interesse e os recursos aumentaram substancialmente a partir de 2012, quando a aprendizagem profunda superou os modelos tecnológicos anteriores. Este crescimento acelerou após 2017 e, no início da década de 2020, o setor recebeu investimentos de milhares de milhões de dólares, consolidando um rápido progresso conhecido como o boom da IA. Contudo, o surgimento da IA generativa avançada trouxe consigo debates sobre consequências não intencionais no presente e preocupações quanto aos riscos da IA no futuro, impulsionando discussões globais acerca de políticas regulatórias voltadas para a segurança e os benefícios da tecnologia.\nAs aplicações de IA modernas incluem mecanismos avançados de busca na web (como o Google Search); sistemas de recomendação (utilizados por plataformas como YouTube, Amazon e Netflix); assistentes virtuais (como Google Assistant, Siri e Alexa); veículos autónomos (como os da Waymo); ferramentas generativas e criativas (como ChatGPT, DeepSeek e AI art); além de análises e desempenhos sobre-humanos em jogos de estratégia como xadrez e Go. No entanto, muitas destas tecnologias deixam de ser percebidas como IA à medida que se tornam comuns no quotidiano. Exemplos disto incluem o reconhecimento ótico de caracteres (OCR) para extração de texto em imagens, a transformação de conteúdos não estruturados em dados legíveis e os sistemas automáticos de tradução de texto e de voz. \nPor ser uma área multidisciplinar, a IA abrange campos como a ciência da computação, estatística, engenharia de hardware e de software, linguística, neurociência e filosofia. Os seus subcampos focam-se em objetivos e ferramentas específicas. As metas tradicionais da investigação em IA englobam o raciocínio, a representação de conhecimento, o planeamento, a aprendizagem, o processamento de linguagem natural, a perceção e o suporte à robótica. A longo prazo, destaca-se o desenvolvimento da inteligência geral — a capacidade de uma máquina realizar qualquer tarefa humana com um nível de eficiência pelo menos equivalente. Para alcançar tais propósitos, os investigadores integram técnicas de otimização matemática, lógica formal, redes neurais artificiais e métodos baseados em estatística, pesquisa operacional, economia e psicologia.",
+    "keywords": [
+      "Inteligência artificial",
+      "inteligência artificial",
+      "Inteligencia artificial",
+      "inteligencia artificial"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "ChatGPT",
+    "titulo": "ChatGPT — Resumo e contexto",
+    "texto": "ChatGPT (do inglês: Chat Generative Pre-trained Transformer) é um chatbot desenvolvido pela OpenAI e lançado em 30 de novembro de 2022. O nome ChatGPT combina Chat, referindo-se à sua funcionalidade de chatbot, e GPT, que significa Generative Pre-trained Transformer (Transformador Pré-treinado Generativo, em tradução livre), um tipo de modelo de linguagem grande (Large Language Model, LLM, na sigla em inglês). Com base em um LLM, ele usa como contexto, prompts e respostas sucessivas para prever as palavras que seriam mais adequadas, de acordo com as ideias da empresa, para compor a nova resposta; o algoritmo para essa previsão resulta do seu treinamento. Assim, o ChatGPT também permite que utilizadores refinem e direcionem uma conversa para a duração, formato, estilo, nível de detalhe e linguagem desejados.\nEm janeiro de 2023, o ChatGPT tinha se tornado a aplicação de software de consumo de crescimento mais rápido da história, conquistando mais de 100 milhões de utilizadores e contribuindo para o crescimento da avaliação da OpenAI para 29 bilhões de dólares. O lançamento do ChatGPT estimulou o desenvolvimento de produtos concorrentes, incluindo Gemini, Ernie Bot, LLaMA, Claude e Grok. A Microsoft lançou o Copilot, baseado no GPT-4 da OpenAI. Alguns observadores manifestaram preocupação sobre o potencial do ChatGPT e de programas semelhantes para substituir ou atrofiar a inteligência humana, permitir o plágio ou alimentar a desinformação.\nO ChatGPT está disponível para uso online em três versões, uma construída em GPT-4, outra em GPT-4o e outra em GPT-o mini, todas membros da série proprietária de modelos transformadores generativos pré-treinados (GPT) da OpenAI, com base na arquitetura de transformador desenvolvida do Google - e é ajustada para aplicações de conversação usando uma combinação de aprendizagem supervisionada e aprendizagem por reforço. O ChatGPT foi lançado como uma pré-visualização de investigação disponível gratuitamente, mas devido à sua popularidade, a OpenAI agora opera o serviço num modelo freemium. Ele permite que os utilizadores no seu nível gratuito acessem a versão baseada em GPT-4o mini, enquanto que as versões mais avançadas baseadas em GPT-4 e GPT-4o e o acesso prioritário aos recursos mais recentes são fornecidos aos assinantes pagos sob o nome comercial ChatGPT Plus.\nO ChatGPT é creditado por iniciar o boom da IA, que levou a um investimento rápido e sem precedentes e à atenção do público no campo da inteligência artificial.",
+    "keywords": [
+      "ChatGPT",
+      "chatgpt"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Aprendizado de máquina",
+    "titulo": "Aprendizado de máquina — Resumo e contexto",
+    "texto": "O aprendizado automático (português brasileiro) ou  a aprendizagem automática (português europeu) ou também aprendizado de máquina (português brasileiro) ou aprendizagem de máquina (português europeu) (em inglês: machine learning) é um subcampo da Engenharia e da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial. Em 1959, Arthur Samuel definiu aprendizado de máquina como o campo de estudo que dá aos computadores a habilidade de aprender sem serem explicitamente programados (livre tradução).  O aprendizado automático explora o estudo e construção de algoritmos que podem aprender de seus erros e fazer previsões sobre dados. Tais algoritmos operam construindo um modelo a partir de inputs amostrais a fim de fazer previsões ou decisões guiadas pelos dados ao invés de simplesmente seguindo inflexíveis e estáticas instruções programadas. Enquanto que na inteligência artificial existem dois tipos de raciocínio (o indutivo, que extrai regras e padrões de grandes conjuntos de dados, e o dedutivo), o aprendizado de máquina só se preocupa com o indutivo.\nAlgumas partes do aprendizado automático estão intimamente ligadas (e muitas vezes sobrepostas) à estatística computacional; uma disciplina que foca em como fazer previsões através do uso de computadores, com pesquisas focando nas propriedades dos métodos estatísticos e sua complexidade computacional. Ela tem fortes laços com a otimização matemática, que produz métodos, teoria e domínios de aplicação para este campo. O aprendizado automático é usado em uma variedade de tarefas computacionais onde criar e programar algoritmos explícitos é impraticável. Exemplos de aplicações incluem filtragem de spam, reconhecimento ótico de caracteres (OCR), processamento de linguagem natural, motores de busca, diagnósticos médicos, bioinformática, reconhecimento de fala, reconhecimento de escrita, visão computacional e locomoção de robôs. O aprendizado de máquinas é às vezes confundido com mineração de dados, que é um sub-campo que foca mais em análise exploratória de dados e é conhecido como aprendizado não supervisionado. No campo da análise de dados, o aprendizado de máquinas é um método usado para planejar modelos complexos e algoritmos que prestam-se para fazer predições- no uso comercial, isso é conhecido como análise preditiva. Esses modelos analíticos permitem que pesquisadores, cientistas de dados, engenheiros, e analistas possam produzir decisões e resultados confiáveis e repetitíveis e descobrir os insights escondidos através do aprendizado das relações e tendências históricas nos dados.\nAs contribuições para a fundação da aprendizagem automática (aprendizado de máquina) feitas pelos cientistas John Hopfield e Geoffrey Hinton foram distinguidas em 2024 com o Prémio Nobel de Física. O Comité Nobel destacou os cientistas por descobertas fundamentais e invenções que permitem aprendizagem automática com redes neuronais artificiais.",
+    "keywords": [
+      "Aprendizado de máquina",
+      "aprendizado de máquina",
+      "Aprendizado de maquina",
+      "aprendizado de maquina"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Aprendizagem profunda",
+    "titulo": "Aprendizagem profunda — Resumo e contexto",
+    "texto": "No aprendizado de máquina, a aprendizagem profunda se concentra na utilização de redes neurais multicamadas para executar tarefas como classificação, regressão e aprendizagem de representação. O campo se inspira na neurociência biológica e é centrado em empilhar neurônios artificiais em camadas e treiná-los para processar dados. O adjetivo profunda se refere ao uso de múltiplas camadas (variando de três a várias centenas ou milhares) na rede. Os métodos usados podem ser supervisionados, semissupervisionados ou não serem supervisionados.\nAlgumas arquiteturas comuns de redes de aprendizagem profunds incluem redes totalmente conectadas, redes de crenças profundas, redes neurais recorrentes, redes neurais convolucionais, redes adversárias generativas, transformadoras e campos de radiância neural. Essas arquiteturas foram aplicadas a campos como visão computacional, reconhecimento de fala, processamento de linguagem natural, tradução automática, bioinformática, design de medicamentos, análise de imagens médicas, ciência do clima, inspeção de materiais e programas de jogos de tabuleiro, onde produziram resultados comparáveis e, em alguns casos, superando o desempenho de especialistas humanos.\nAs primeiras formas de redes neurais foram inspiradas pelo processamento de informações e nós de comunicação distribuídos em sistemas biológicos, particularmente o cérebro humano. No entanto, as redes neurais atuais não pretendem modelar a função cerebral dos organismos e são geralmente vistas como modelos de baixa qualidade para esse propósito.",
+    "keywords": [
+      "Aprendizagem profunda",
+      "aprendizagem profunda"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Rede neural artificial",
+    "titulo": "Rede neural artificial — Resumo e contexto",
+    "texto": "Em ciência da computação e campos relacionados, redes neurais artificiais (português brasileiro) ou redes neuronais artificiais (português europeu) (RNAs) são modelos computacionais inspirados pelo sistema nervoso central de um animal (em particular o cérebro) que são capazes de realizar o aprendizado de máquina bem como o reconhecimento de padrões. Redes neurais artificiais geralmente são apresentadas como sistemas de neurônios interconectados, que podem computar valores de entradas, simulando o comportamento de redes neurais biológicas.\nPor exemplo, uma rede neural para o reconhecimento de escrita manual é definida por um conjunto de neurônios de entrada que podem ser ativados pelos pixels de uma imagem de entrada. Os dados adquiridos por essa ativação dos neurônios são então repassados​​, ponderados e transformados por uma função determinada pelo designer da rede, a outros neurônios. Este processo é repetido até que, finalmente, um neurônio de saída é ativado. Isso determina que caractere foi lido.\nAssim como outros métodos de aprendizado de máquina, sistemas que aprendem a partir dos dados, redes neurais têm sido usadas para resolver uma grande variedade de tarefas que são difíceis de resolver utilizando programação baseada em regras comuns, incluindo visão computacional e reconhecimento de voz.",
+    "keywords": [
+      "Rede neural artificial",
+      "rede neural artificial"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Processamento de linguagem natural",
+    "titulo": "Processamento de linguagem natural — Resumo e contexto",
+    "texto": "Processamento de língua natural (PLN) é uma subárea da ciência da computação, inteligência artificial e da linguística que estuda os problemas da geração e compreensão automática de línguas humanas naturais. Sistemas de geração de língua natural convertem informação de bancos de dados de computadores em linguagem compreensível ao ser humano e sistemas de compreensão de língua natural convertem ocorrências de linguagem humana em representações mais formais, mais facilmente manipuláveis por programas de computador. Alguns desafios do PLN são compreensão de língua natural, fazer com que computadores extraiam sentido de linguagem humana ou natural e geração de língua natural.",
+    "keywords": [
+      "Processamento de linguagem natural",
+      "processamento de linguagem natural"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Modelos de linguagem em grande escala",
+    "titulo": "Modelos de linguagem em grande escala — Resumo e contexto",
+    "texto": "Um grande modelo de linguagem (do inglês large language model - LLM) é um modelo computacional projetado para realizar tarefas de processamento de linguagem natural, especialmente a geração de linguagem, usando relações contextuais derivadas de um grande conjunto de dados de treinamento. Os LLMs podem gerar, resumir, traduzir e analisar texto em uma variedade de contextos, e são a base tecnológica dos chatbots modernos. Os LLMs podem imitar com precisão os padrões da linguagem natural porque são treinados em coleções de texto escrito por humanos. Pelo mesmo motivo, dados de treinamento enviesados ou imprecisos podem tornar a saída de um LLM menos confiável.\nAtualmente, os LLMs maiores e mais capazes baseiam-se em arquiteturas transformer, que podem ser mais eficientes e paralelizáveis do que os modelos estatísticos e de redes neurais recorrentes anteriores. A pesquisa em outras arquiteturas, como modelos de espaço de estados, está em andamento.\nModelos como GPT, BERT e seus sucessores usaram esses avanços para demonstrar comportamentos emergentes em escala, como encontrar dados específicos de um grande conjunto de dados e raciocínio composicional.\nAvaliações de benchmark para LLMs testam a capacidade de um modelo de realizar uma ou mais tarefas de linguagem. Os LLMs modernos podem enfrentar avaliações abrangentes de múltiplas tarefas (multi-task) medindo raciocínio, precisão factual, alinhamento e segurança. A otimização de sessões de treinamento para passar em benchmarks pode resultar em um modelo que adere demasiadamente às saídas do benchmark (sobreajuste) sem apresentar generalização genuína ou melhorias robustas de capacidade.",
+    "keywords": [
+      "Modelos de linguagem em grande escala",
+      "modelos de linguagem em grande escala"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "OpenAI",
+    "titulo": "OpenAI — Resumo e contexto",
+    "texto": "OpenAI é uma empresa e laboratório de pesquisa de inteligência artificial (IA) estadunidense. A OpenAI conduz pesquisas de IA com a intenção declarada de promover e desenvolver uma IA amigável. Os sistemas OpenAI são executados no quinto supercomputador mais poderoso do mundo. A organização foi fundada em São Francisco, Califórnia, em 2015 por Sam Altman, Reid Hoffman, Jessica Livingston, Elon Musk, Ilya Sutskever, Peter Thiel, entre outros, que coletivamente prometeram injetar US$ 1 bilhão no laboratório. Musk renunciou ao conselho em 2018, mas permaneceu como investidor. A Microsoft forneceu à OpenAI um investimento de US$ 1 bilhão em 2019 e um segundo investimento plurianual em janeiro de 2023, estimado em US$ 10 bilhões.\nA OpenAI Foundation é uma fundação sem fins lucrativos que tem controle sobre a OpenAI Group, empresa de benefício que desenvolve e opera os produtos conhecidos da empresa. Essa estrutura foi formalizada em outubro de 2025",
+    "keywords": [
+      "OpenAI",
+      "openai"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Elon Musk",
+    "titulo": "Elon Musk — Resumo e contexto",
+    "texto": "Elon Reeve Musk FRS Pretória, 28 de junho de 1971 é um empresário, empreendedor, inventor e filantropo sul-africano, naturalizado canadense e estadunidense. É o fundador, diretor executivo e diretor técnico da SpaceX; CEO da Tesla, Inc.; um dos cofundadores da OpenAI, fundador e CEO da Neuralink; cofundador, presidente da SolarCity, proprietário do X (antigo Twitter) e ex-comissário do Departamento de Eficiência Governamental dos Estados Unidos durante o segundo governo Trump em 2025. Desde 2021, Musk se posiciona como a pessoa mais rica do mundo, até então com um patrimônio líquido estimado em 200 bilhões de dólares, de acordo com o Bloomberg Billionaires Index. Já a revista Forbes estimou sua fortuna em 221,3 bilhões de dólares, principalmente de suas participações acionárias nas empresas Tesla e na SpaceX. Em junho de 2026, a Forbes estimou que seu patrimônio líquido seja de US$ 1.4 trilhão, sendo o primeiro trilionário em termos nominais absolutos, além de ser o único registrado oficialmente na história moderna.\nMusk demonstrou publicamente preocupações com a extinção humana e também propôs soluções, das quais algumas são o objetivo principal de suas empresas e já estão sendo feitas na prática. Entre elas, a redução do aquecimento global, através do uso de energias renováveis, um projeto multiplanetário, mais especificamente a colonização de Marte, e o desenvolvimento seguro da inteligência artificial.\nEm janeiro de 2011, uma de suas empresas, a SpaceX, tornou-se a primeira empresa no mundo a vender um voo comercial à Lua. A missão, marcada para 2013, foi contratada pela empresa Astrobotic Technology, tendo como objetivo colocar um pequeno jipe na superfície lunar, o que não aconteceu. Em 2012, encerrou o projeto do Tesla Roadster, o primeiro modelo da sua autoria, um carro totalmente elétrico que custava cerca de 92 mil dólares. A Tesla já lançou quatro modelos: S, Y, X e o Modelo 3, este último com a responsabilidade de trazer os carros elétricos para as massas, partindo de um custo inicial de 35 mil dólares. Em 25 de abril de 2022, ele também concordou em comprar o Twitter por 44 bilhões de dólares.\nMusk expressou opiniões que o tornaram uma figura polarizadora e controversa. Ele foi criticado por fazer declarações não científicas, enganosas, ou endossar teorias da conspiração, incluindo sobre a pandemia de COVID-19 e a eleição presidencial nos Estados Unidos em 2020, além de endossar postagens antissemitas, sendo que por este último ele se desculpou. Em 2024, Musk foi o maior doador na eleição presidencial daquele ano e desde então tem se destacado como um apoiador de personalidades, causas e partidos políticos de extrema-direita no mundo todo.",
+    "keywords": [
+      "Elon Musk",
+      "elon musk"
+    ],
+    "fonte": "Wikipedia"
+  },
+{
+    "assunto": "Python",
+    "titulo": "Python — Resumo e contexto",
+    "texto": "Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991. Atualmente, possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem, como um todo, não é formalmente especificada. O padrão na pratica é a implementação CPython.\nA linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional. Prioriza a legibilidade do código sobre a velocidade ou expressividade. Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.\nPython é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens. Devido às suas características, ela é utilizada, principalmente, para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web. Foi considerada pelo público a 3ª linguagem mais amada, de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018 e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.\nO nome Python teve a sua origem no grupo humorístico britânico Monty Python, criador do programa Monty Python's Flying Circus, embora muitas pessoas façam associação com o réptil do mesmo nome (em português, píton ou pitão).",
+    "keywords": [
+      "Python",
+      "python"
+    ],
+    "fonte": "Wikipedia"
+  },
+  {
+"assunto": "JavaScript",
+"titulo": "JavaScript — Resumo e contexto",
+"texto": "JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada, estruturada, de script, de alto nível, com tipagem dinâmica fraca e multiparadigma (baseada em protótipos, orientada a objetos, imperativa e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite criar páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da Web. A grande maioria dos sites usa JavaScript, e todos os principais navegadores têm um mecanismo JavaScript dedicado para executá-lo. É atualmente a principal linguagem para programação do lado do cliente em navegadores Web. Também é bastante utilizada do lado do servidor por meio de ambientes como o Node.js.\nComo uma linguagem multiparadigma, o JavaScript suporta estilos de programação orientados a eventos, funcionais e imperativos, incluindo programação orientada a objetos e baseada em protótipos. A linguagem apresenta recursos como closures e funções de alta ordem. Possui APIs para trabalhar com texto, matrizes, datas, expressões regulares e o DOM, mas a linguagem em si não inclui recursos de entrada e saída, como rede, armazenamento ou gráficos, dependendo do ambiente hospedeiro em que está incorporada.\nFoi originalmente implementada como parte dos navegadores Web para que scripts pudessem ser executados do lado do cliente e interagissem com o usuário sem a necessidade de passar pelo servidor. Dessa forma, podia controlar o navegador, realizar comunicação assíncrona e alterar o conteúdo do documento exibido. Atualmente, os mecanismos JavaScript também estão incorporados em muitos outros tipos de software, incluindo servidores, bancos de dados da Web e programas que não são da Web, como processadores de texto e leitores de PDF, além de ambientes de execução utilizados para desenvolver aplicativos móveis e de desktop.\nOs termos Vanilla JavaScript e Vanilla JS referem-se ao JavaScript utilizado sem qualquer estrutura ou biblioteca adicional. Scripts escritos em Vanilla JS são códigos JavaScript simples.\nEmbora existam semelhanças entre JavaScript e Java, incluindo o nome da linguagem, a sintaxe e algumas características das respectivas bibliotecas padrão, as duas linguagens são distintas e diferem significativamente em seu design. O JavaScript foi influenciado por linguagens de programação como Self e Scheme.\nJavaScript é baseado no padrão ECMAScript, padronizado pela Ecma International nas especificações ECMA-262 e ISO/IEC 16262.",
+"keywords": [
+"JavaScript",
+"javascript"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Inteligência artificial generativa",
+"titulo": "Inteligência artificial generativa — Resumo e contexto",
+"texto": "Inteligência artificial generativa, ou IA generativa, é um ramo da inteligência artificial focado na criação de conteúdo novo com base em padrões identificados nos conjuntos de dados utilizados durante o treinamento. É possível criar conteúdos como texto, imagens, áudio, vídeo e código de software. Esses conteúdos podem ser gerados a partir de pedidos, ou prompts, em linguagem natural, além de outros tipos de entrada. Os modelos podem ser classificados de acordo com os formatos de entrada e saída, como texto para texto (text-to-text) e texto para imagem (text-to-image), entre vários outros.\nSistemas de IA generativa incluem modelos de geração de imagens, como Stable Diffusion e DALL-E, e modelos de linguagem, como o ChatGPT. Também existem diversos outros sistemas desenvolvidos por empresas como Google, Microsoft e outras organizações.\nA IA generativa possui aplicações potenciais em uma ampla gama de setores, incluindo desenvolvimento de software, marketing, educação, pesquisa, saúde e criação de conteúdo. O investimento em IA generativa aumentou significativamente durante o início da década de 2020, com grandes empresas e organizações de diferentes setores desenvolvendo e incorporando modelos generativos em seus produtos e serviços.\nNa saúde, a IA generativa tem sido estudada para aplicações relacionadas ao cuidado de pacientes, educação em saúde, pesquisa científica e apoio à análise de informações. Essas aplicações apresentam oportunidades, mas também envolvem desafios relacionados à precisão, privacidade, segurança, propriedade intelectual, vieses e uso responsável da tecnologia.\nA IA generativa também tem mostrado potencial na descoberta científica, em pesquisas observacionais, desenvolvimento de medicamentos e educação médica. Esses avanços são resultado do aprimoramento dos modelos de inteligência artificial, que atualmente são capazes de gerar textos, imagens e outros conteúdos com elevado grau de realismo.",
+"keywords": [
+"Inteligência artificial generativa",
+"inteligência artificial generativa",
+"Inteligencia artificial generativa",
+"inteligencia artificial generativa"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Engenharia de prompts",
+"titulo": "Engenharia de prompts — Resumo e contexto",
+"texto": "Engenharia de prompts é o processo de estruturar entradas em linguagem natural, conhecidas como prompts, para produzir saídas especificadas ou desejadas de um modelo de inteligência artificial generativa. Engenharia de contexto é uma área relacionada da engenharia de software que se concentra no gerenciamento dos contextos fornecidos ao modelo de IA generativa, incluindo instruções de sistema, metadados, ferramentas de API e tokens.\nTambém pode ser definida como a prática de projetar e refinar instruções de entrada fornecidas a um modelo de IA generativa para produzir saídas mais precisas, relevantes ou úteis. Uma engenharia de prompts eficaz envolve compreender como um modelo interpreta a linguagem e pode incluir técnicas como prompting few-shot, atribuição de papéis e exemplos de entrada e saída.\nDurante a expansão da IA na década de 2020, a engenharia de prompts passou a ser considerada uma capacidade relevante em empresas e setores econômicos. Profissionais especializados foram contratados para criar e testar prompts destinados a aumentar a produtividade e a eficácia de sistemas de IA, embora as funções especificamente dedicadas a esse trabalho tenham evoluído à medida que os modelos passaram a auxiliar na criação e otimização de prompts.\nTécnicas de prompting incluem zero-shot, few-shot, multi-shot, cadeia de pensamento e árvore de pensamento, além da atribuição de papéis ao modelo. Métodos de geração automatizada de prompts e técnicas de recuperação de informações, como a geração aumentada por recuperação (RAG), podem ampliar a precisão e o escopo das aplicações de modelos de linguagem. A injeção de prompt é um tipo de ataque de segurança que utiliza instruções maliciosas para tentar manipular o comportamento de modelos de aprendizado de máquina.",
+"keywords": [
+"Engenharia de prompts",
+"engenharia de prompts"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Computação quântica",
+"titulo": "Computação quântica — Resumo e contexto",
+"texto": "Um computador quântico é um computador real ou teórico que explora fenômenos quânticos, como sobreposição e entrelaçamento, de maneira essencial. Acredita-se que um computador quântico possa realizar alguns tipos de cálculos de maneira significativamente mais rápida do que computadores clássicos. Por exemplo, um computador quântico de grande escala poderia afetar alguns sistemas de criptografia amplamente utilizados e ajudar pesquisadores na realização de determinadas simulações físicas. No entanto, as implementações atuais de hardware de computação quântica são em grande parte experimentais e adequadas principalmente para tarefas especializadas.\nA unidade básica de informação na computação quântica é o qubit, ou bit quântico. Ele exerce função semelhante à do bit na computação clássica. Entretanto, enquanto um bit clássico pode assumir um de dois estados, um qubit pode existir em uma combinação linear desses estados, conhecida como superposição quântica. O resultado da medição de um qubit corresponde a um dos estados possíveis de acordo com uma distribuição de probabilidades. Ao manipular qubits de determinadas maneiras, os efeitos de interferência quântica podem aumentar a probabilidade de determinados resultados. O projeto de algoritmos quânticos envolve a criação de procedimentos que utilizam esses efeitos.\nOs computadores quânticos ainda enfrentam desafios para aplicações práticas de uso geral. A produção de qubits de alta qualidade é tecnicamente complexa. Quando um qubit físico não está suficientemente isolado do ambiente, pode ocorrer decoerência quântica, introduzindo ruído nos cálculos. Governos e empresas investem em pesquisa para desenvolver qubits escaláveis, com tempos de coerência maiores e taxas de erro menores.\nExemplos de implementações incluem qubits supercondutores e armadilhas de íons. Pesquisadores já demonstraram dispositivos quânticos capazes de superar computadores clássicos em determinadas tarefas cuidadosamente definidas, um marco frequentemente chamado de vantagem quântica. Essas tarefas, entretanto, nem sempre possuem utilidade prática imediata. Por isso, muitas demonstrações atuais são consideradas marcos científicos e tecnológicos, e não evidências de implantação generalizada da computação quântica.",
+"keywords": [
+"Computação quântica",
+"computação quântica",
+"Computacao quantica",
+"computacao quantica"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Blockchain",
+"titulo": "Blockchain — Resumo e contexto",
+"texto": "Blockchain, também conhecida como cadeia de blocos, é uma tecnologia de registro distribuído que permite armazenar informações de maneira compartilhada entre diferentes participantes de uma rede. Os registros são organizados em blocos que, por meio de mecanismos criptográficos, são vinculados uns aos outros, formando uma cadeia.\nA blockchain pode funcionar como um livro-razão distribuído, permitindo o registro e a verificação de transações sem depender necessariamente de uma autoridade central. Os blocos são adicionados à cadeia de acordo com regras de consenso definidas pelo protocolo utilizado. Os participantes da rede podem manter cópias do registro e verificar as informações de acordo com essas regras.\nA tecnologia blockchain ganhou destaque com o Bitcoin, cuja rede utiliza uma blockchain para registrar transações. O conceito também inspirou o desenvolvimento de diversas outras criptomoedas, plataformas e sistemas de registro distribuído.",
+"keywords": [
+"Blockchain",
+"blockchain"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Criptomoeda",
+"titulo": "Criptomoeda — Resumo e contexto",
+"texto": "Uma criptomoeda, ou cibermoeda, é um tipo de ativo ou meio de troca digital que utiliza técnicas de criptografia para proteger transações e, em muitos casos, tecnologias de registro distribuído, como blockchain, para registrar operações. Algumas criptomoedas funcionam de forma descentralizada, sem uma autoridade central responsável pela emissão ou pelo controle da rede.\nO Bitcoin, lançado em 2009 sob o pseudônimo Satoshi Nakamoto, foi a primeira criptomoeda descentralizada amplamente conhecida. Desde então, diversas outras criptomoedas e tokens foram criados. Algumas plataformas, como Ethereum, permitem a criação de tokens e aplicações descentralizadas.\nAo contrário de sistemas bancários centralizados, muitas criptomoedas utilizam redes ponto a ponto nas quais diferentes participantes mantêm e verificam registros das transações de acordo com regras definidas pelo protocolo. As características, mecanismos de consenso, níveis de descentralização e formas de emissão variam de uma criptomoeda para outra.",
+"keywords": [
+"Criptomoeda",
+"criptomoeda"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Bitcoin",
+"titulo": "Bitcoin — Resumo e contexto",
+"texto": "Bitcoin (símbolo: ₿; abreviado como BTC) é uma criptomoeda descentralizada e de código aberto, projetada para permitir transações financeiras ponto a ponto sem a necessidade de um intermediário central.\nAs transações da rede são verificadas pelos participantes, ou nós, e registradas em uma estrutura de dados distribuída conhecida como blockchain. O protocolo possui regras específicas para validação de transações e emissão de novas unidades. Não existe uma autoridade central responsável por alterar unilateralmente o registro da rede.\nO preço do Bitcoin é determinado pelo mercado e pode apresentar grande variação em função de fatores como oferta, demanda, liquidez, expectativas dos participantes e condições gerais do mercado. O ativo é utilizado tanto como meio de troca quanto como instrumento de investimento e especulação.",
+"keywords": [
+"Bitcoin",
+"bitcoin"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Internet das coisas",
+"titulo": "Internet das coisas — Resumo e contexto",
+"texto": "Internet das coisas, em inglês Internet of Things (IoT), é o conceito que descreve a interconexão de objetos físicos, dispositivos, sistemas e outros recursos por meio de redes de comunicação, permitindo que coletem, transmitam e processem dados.\nEm outras palavras, a Internet das coisas é uma rede de objetos físicos, como veículos, prédios, máquinas, eletrodomésticos e sensores, equipados com tecnologia capaz de permitir comunicação e processamento de informações. Essa conexão possibilita monitoramento, automação e controle remoto de dispositivos.\nEssas capacidades podem ser utilizadas em ambientes domésticos, acadêmicos, comerciais e industriais. Entre as aplicações estão automação residencial, monitoramento industrial, agricultura, transporte, logística, saúde e gerenciamento de infraestrutura. Ao mesmo tempo, a IoT apresenta desafios relacionados à segurança, privacidade, interoperabilidade, consumo de energia e gerenciamento de grandes volumes de dados.\nO termo Internet das coisas é frequentemente associado a Kevin Ashton, que utilizou a expressão em 1999 no contexto de pesquisas envolvendo identificação por radiofrequência (RFID) e tecnologias de sensores. Posteriormente, o conceito passou a abranger uma ampla variedade de dispositivos, protocolos, redes e aplicações.\nOs dispositivos IoT podem ser conectados por redes com fio ou sem fio. Entre as tecnologias utilizadas estão Wi-Fi, Bluetooth, Zigbee, redes celulares, NB-IoT, LTE-M, LoRaWAN e outras tecnologias de comunicação.",
+"keywords": [
+"Internet das coisas",
+"internet das coisas"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Realidade virtual",
+"titulo": "Realidade virtual — Resumo e contexto",
+"texto": "A realidade virtual, em inglês virtual reality (VR), é uma tecnologia que utiliza recursos computacionais para criar ambientes digitais tridimensionais ou experiências imersivas nas quais o usuário pode interagir em tempo real. O objetivo é produzir uma sensação de presença em um ambiente virtual.\nA realidade virtual pode utilizar dispositivos como óculos ou headsets de realidade virtual, controladores de movimento, sensores e sistemas de áudio. Esses equipamentos substituem ou complementam estímulos visuais e sonoros do ambiente real por conteúdos gerados por computador.\nA tecnologia possui aplicações em entretenimento, educação, treinamento, medicina, engenharia, arquitetura, simulação e outras áreas. O grau de imersão depende dos equipamentos, do software e das características da experiência desenvolvida.",
+"keywords": [
+"Realidade virtual",
+"realidade virtual"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Ansiedade",
+"titulo": "Ansiedade — Resumo e contexto",
+"texto": "A ansiedade é uma emoção caracterizada por apreensão, preocupação ou medo diante de uma ameaça real, percebida ou futura. Pode ser acompanhada por sintomas físicos e comportamentais, como tensão muscular, inquietação, fadiga, dificuldade de concentração, alterações do sono e aumento da frequência cardíaca.\nA ansiedade pode ser uma resposta normal diante de situações de incerteza ou perigo. Entretanto, quando é excessiva, persistente ou interfere significativamente na vida cotidiana, pode estar associada a transtornos de ansiedade. Existem diferentes tipos de transtornos de ansiedade, que podem apresentar características e formas de tratamento distintas.",
+"keywords": [
+"Ansiedade",
+"ansiedade"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Depressão (sintoma)",
+"titulo": "Depressão (sintoma) — Resumo e contexto",
+"texto": "Depressão pode se referir a um estado caracterizado por tristeza persistente, perda de interesse ou prazer em atividades e alterações emocionais, cognitivas, comportamentais e físicas. Entre os possíveis sintomas estão sentimentos de tristeza, desesperança, culpa ou inutilidade, alterações do apetite e do sono, fadiga, dificuldade de concentração e redução da capacidade de tomar decisões.\nEm quadros mais graves, podem surgir pensamentos relacionados à morte ou ao suicídio. A depressão pode afetar pessoas de diferentes idades e apresentar causas e fatores associados variados. Quando os sintomas são persistentes ou interferem significativamente na vida cotidiana, é importante buscar avaliação de um profissional de saúde.",
+"keywords": [
+"Depressão (sintoma)",
+"depressão (sintoma)",
+"Depressao (sintoma)",
+"depressao (sintoma)"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Saúde mental",
+"titulo": "Saúde mental — Resumo e contexto",
+"texto": "A saúde mental abrange o bem-estar emocional, psicológico e social, influenciando a cognição, a percepção e o comportamento. Ela desempenha um papel importante na vida diária, incluindo a maneira como uma pessoa lida com o estresse, estabelece relacionamentos e toma decisões.\nSegundo a Organização Mundial da Saúde (OMS), a saúde mental está relacionada a um estado de bem-estar que permite ao indivíduo lidar com as tensões normais da vida, trabalhar de forma produtiva e contribuir para sua comunidade. A saúde mental não se limita à ausência de transtornos mentais e pode envolver aspectos como bem-estar subjetivo, autonomia, competência, relacionamentos e capacidade de desenvolver o próprio potencial.\nDiversos fatores podem influenciar a saúde mental, incluindo condições sociais, econômicas, ambientais, psicológicas e biológicas. Sinais de dificuldades podem incluir alterações persistentes do humor, do sono, do apetite, da energia, da concentração ou do comportamento social.",
+"keywords": [
+"Saúde mental",
+"saúde mental",
+"Saude mental",
+"saude mental"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Insônia",
+"titulo": "Insônia — Resumo e contexto",
+"texto": "Insônia é uma perturbação do sono caracterizada por dificuldade para adormecer, permanecer dormindo ou obter um sono considerado restaurador, apesar de haver oportunidade adequada para dormir. No dia seguinte, a pessoa pode apresentar sonolência, falta de energia, irritabilidade, dificuldade de concentração e alterações no desempenho.\nA insônia pode ser de curta duração ou persistente e pode ocorrer de forma independente ou estar associada a outros problemas. Entre os fatores relacionados estão estresse psicológico, dor crônica, determinadas condições médicas, medicamentos, consumo de cafeína, nicotina e álcool, trabalho por turnos e outros distúrbios do sono.\nO tratamento depende da causa e pode incluir mudanças nos hábitos de sono, alterações no estilo de vida e, em alguns casos, terapia cognitivo-comportamental para insônia. Medicamentos podem ser utilizados em situações específicas e sob orientação profissional.",
+"keywords": [
+"Insônia",
+"insônia",
+"Insonia",
+"insonia"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Estresse",
+"titulo": "Estresse — Resumo e contexto",
+"texto": "Estresse, também chamado de stresse em português europeu, é uma resposta física e psicológica diante de situações percebidas como desafiadoras, ameaçadoras ou que exigem adaptação. Pode envolver alterações emocionais, cognitivas, comportamentais e fisiológicas.\nO estresse pode ocorrer como resposta a situações pontuais e não é necessariamente prejudicial. Entretanto, quando é intenso ou persistente, pode estar associado a impactos negativos sobre o bem-estar e a saúde. A experiência do estresse varia de acordo com a pessoa, o contexto e os recursos disponíveis para lidar com a situação.\nO termo estresse foi tomado emprestado da física, onde se refere à tensão e ao desgaste a que materiais podem estar sujeitos. O fisiologista Hans Selye contribuiu para a popularização do conceito de estresse no campo da medicina e da fisiologia durante o século XX.",
+"keywords": [
+"Estresse",
+"estresse"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Meditação",
+"titulo": "Meditação — Resumo e contexto",
+"texto": "A meditação pode ser definida como uma prática na qual o indivíduo utiliza técnicas para direcionar e regular a atenção, frequentemente com o objetivo de desenvolver concentração, consciência, tranquilidade ou clareza mental. Existem diferentes formas de meditação, com origens e objetivos variados.\nA prática possui uma longa história em tradições religiosas e filosóficas, especialmente em tradições asiáticas como o budismo e o hinduísmo, mas também existem práticas meditativas em outras tradições. Atualmente, técnicas de meditação também são utilizadas fora de contextos religiosos, inclusive em programas voltados ao bem-estar e à saúde.",
+"keywords": [
+"Meditação",
+"meditação",
+"Meditacao",
+"meditacao"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Atenção plena",
+"titulo": "Atenção plena — Resumo e contexto",
+"texto": "O termo atenção plena, ou mindfulness em inglês, designa uma prática ou estado mental relacionado à capacidade de direcionar a atenção para a experiência presente, com uma atitude de abertura e sem julgamentos imediatos. Pensamentos, sensações, emoções e percepções podem ser observados à medida que surgem.\nO treinamento de atenção plena geralmente envolve técnicas de meditação e outros exercícios destinados a desenvolver consciência dos processos mentais e das experiências presentes. O conceito contemporâneo utilizado em psicologia e saúde possui relações históricas com práticas contemplativas budistas, embora os significados e contextos de uso sejam diferentes.",
+"keywords": [
+"Atenção plena",
+"atenção plena",
+"Atencao plena",
+"atencao plena"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Exercício físico",
+"titulo": "Exercício físico — Resumo e contexto",
+"texto": "Exercício físico é uma forma de atividade física planejada, estruturada e repetitiva, realizada com o objetivo de manter ou melhorar componentes da aptidão física e da saúde. Entre seus objetivos podem estar o desenvolvimento da força muscular, resistência cardiovascular, flexibilidade, equilíbrio e controle do peso corporal.\nA prática regular de atividade física e exercício está associada a diversos benefícios para a saúde, incluindo redução do risco de algumas doenças cardiovasculares, diabetes tipo 2 e outros problemas de saúde. Também pode contribuir para o bem-estar psicológico. O tipo, a intensidade e a frequência adequados dependem das características e condições de cada pessoa.",
+"keywords": [
+"Exercício físico",
+"exercício físico",
+"Exercicio fisico",
+"exercicio fisico"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Nutrição",
+"titulo": "Nutrição — Resumo e contexto",
+"texto": "Nutrição é o conjunto de processos pelos quais os organismos obtêm, utilizam e metabolizam nutrientes necessários para suas funções vitais. Os nutrientes são obtidos principalmente por meio dos alimentos e desempenham funções relacionadas à produção de energia, crescimento, manutenção dos tecidos e funcionamento do organismo.\nNo campo da saúde, a nutrição estuda a relação entre alimentação, nutrientes e saúde. Uma alimentação adequada depende da quantidade e da variedade de nutrientes necessários para o funcionamento do organismo.\nA nutrição pode ocorrer pela alimentação oral ou, em situações específicas, por métodos como nutrição enteral e nutrição parenteral. A nutrição enteral utiliza o trato gastrointestinal por meio de alimentação administrada por sondas ou dispositivos apropriados. A nutrição parenteral fornece nutrientes diretamente pela corrente sanguínea quando o trato gastrointestinal não pode ser utilizado adequadamente.\nOs hábitos alimentares são influenciados por fatores biológicos, culturais, sociais, econômicos e ambientais. Ao longo da história humana, mudanças na agricultura, pecuária, conservação e preparação dos alimentos contribuíram para transformar a alimentação das populações.",
+"keywords": [
+"Nutrição",
+"nutrição",
+"Nutricao",
+"nutricao"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Dieta",
+"titulo": "Dieta — Resumo e contexto",
+"texto": "Dieta refere-se ao conjunto de hábitos e padrões alimentares de uma pessoa ou grupo. Diferentes indivíduos e culturas possuem dietas variadas, influenciadas por fatores biológicos, culturais, econômicos, sociais e ambientais. No uso cotidiano, a palavra dieta também é frequentemente associada a regimes alimentares destinados ao controle do peso ou à manutenção da saúde.",
+"keywords": [
+"Dieta",
+"dieta"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Obesidade",
+"titulo": "Obesidade — Resumo e contexto",
+"texto": "Obesidade é uma condição caracterizada pelo excesso de tecido adiposo que pode afetar negativamente a saúde. Em adultos, o índice de massa corporal (IMC) é uma das medidas utilizadas para classificar excesso de peso e obesidade, embora não represente diretamente a composição corporal de cada indivíduo.\nA obesidade está associada a maior risco de diversas condições de saúde, incluindo doenças cardiovasculares, diabetes tipo 2, apneia obstrutiva do sono e alguns tipos de câncer. Suas causas são multifatoriais e podem envolver fatores genéticos, ambientais, comportamentais, sociais e metabólicos.\nA prevenção e o tratamento podem envolver mudanças na alimentação, atividade física, intervenções comportamentais, medicamentos e, em determinados casos, cirurgia bariátrica. A abordagem adequada depende das características e necessidades de cada pessoa.",
+"keywords": [
+"Obesidade",
+"obesidade"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Hipertensão arterial",
+"titulo": "Hipertensão arterial — Resumo e contexto",
+"texto": "Hipertensão arterial é uma condição crônica caracterizada por níveis persistentemente elevados de pressão arterial. Muitas pessoas com hipertensão não apresentam sintomas, mas a condição pode aumentar o risco de doenças cardiovasculares, acidente vascular cerebral, insuficiência cardíaca, doença renal e outros problemas de saúde.\nA hipertensão pode ser classificada como primária ou secundária. A forma primária é a mais comum e resulta da interação de diversos fatores genéticos e ambientais. Entre os fatores associados ao aumento do risco estão excesso de peso, consumo elevado de sódio, sedentarismo, consumo excessivo de álcool e outros fatores.\nA pressão arterial é expressa por dois valores: pressão sistólica e pressão diastólica. Os critérios utilizados para definir hipertensão podem variar de acordo com a diretriz, a população e o contexto clínico. A avaliação deve considerar medições realizadas de maneira adequada e, quando necessário, monitoramento fora do consultório.\nMudanças no estilo de vida e medicamentos anti-hipertensivos podem ser utilizados para controlar a pressão arterial e reduzir o risco de complicações. O tratamento deve ser individualizado por profissionais de saúde.",
+"keywords": [
+"Hipertensão arterial",
+"hipertensão arterial",
+"Hipertensao arterial",
+"hipertensao arterial"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Câncer",
+"titulo": "Câncer — Resumo e contexto",
+"texto": "Câncer, também chamado de cancro em português europeu, é um grupo de doenças caracterizadas pelo crescimento e pela multiplicação anormal de células, podendo ocorrer invasão de tecidos próximos e disseminação para outras partes do organismo. Existem muitos tipos de câncer, com características, causas, evolução e tratamentos diferentes.\nOs sinais e sintomas dependem do tipo e da localização da doença. Podem incluir aparecimento de massas, sangramentos anormais, tosse persistente, alterações intestinais e perda de peso inexplicada. Esses sinais também podem ocorrer em outras condições e, portanto, não são suficientes para estabelecer um diagnóstico.\nEntre os fatores de risco estão tabagismo, consumo excessivo de álcool, obesidade, alimentação inadequada, sedentarismo, determinadas infecções, exposição à radiação e alguns fatores genéticos e ambientais. Uma parcela dos cânceres está relacionada a alterações genéticas hereditárias.\nO diagnóstico pode envolver avaliação clínica, exames de imagem, exames laboratoriais e biópsia. O tratamento varia de acordo com o tipo e o estágio da doença e pode incluir cirurgia, radioterapia, quimioterapia, imunoterapia, terapia-alvo e outras modalidades. Cuidados paliativos podem ser utilizados para controle de sintomas e melhoria da qualidade de vida em diferentes fases da doença.",
+"keywords": [
+"Câncer",
+"câncer",
+"Cancer",
+"cancer"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "COVID-19",
+"titulo": "COVID-19 — Resumo e contexto",
+"texto": "COVID-19, do inglês coronavirus disease 2019, é uma doença infecciosa causada pelo coronavírus SARS-CoV-2. Os sintomas podem incluir febre, tosse, cansaço, dor de garganta, dor de cabeça, dores musculares, congestão nasal e alterações do olfato ou do paladar. A intensidade dos sintomas varia entre as pessoas, e algumas podem não apresentar sintomas.\nEm casos mais graves, a doença pode causar pneumonia, dificuldade respiratória, insuficiência respiratória e outras complicações. O risco de doença grave pode ser maior em pessoas com determinadas condições de saúde e em grupos etários específicos.\nA transmissão ocorre principalmente por meio de partículas respiratórias liberadas por pessoas infectadas, especialmente durante contato próximo e em ambientes com pouca ventilação. Medidas de prevenção podem incluir vacinação, ventilação adequada dos ambientes, higiene das mãos e outras medidas de acordo com a situação epidemiológica e as orientações das autoridades de saúde.\nO SARS-CoV-2 foi identificado pela primeira vez no final de 2019, e o surto inicial posteriormente evoluiu para uma pandemia global. O vírus continua circulando e apresentando evolução genética, com diferentes variantes surgindo ao longo do tempo.",
+"keywords": [
+"COVID-19",
+"covid-19"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Vacina",
+"titulo": "Vacina — Resumo e contexto",
+"texto": "Vacina é uma preparação biológica desenvolvida para estimular uma resposta do sistema imunológico contra um determinado agente infeccioso ou doença. As vacinas podem utilizar diferentes tecnologias, incluindo microrganismos enfraquecidos ou inativados, partes de microrganismos, proteínas, material genético ou outras plataformas.\nA vacinação estimula o sistema imunológico a reconhecer componentes específicos e desenvolver memória imunológica. Dessa forma, quando a pessoa entra em contato posteriormente com o agente correspondente, o organismo pode responder de maneira mais rápida e eficaz.\nExistem vacinas destinadas principalmente à prevenção de infecções e doenças. A eficácia e a duração da proteção variam conforme a vacina, a doença, a população e outros fatores. A vacinação é uma das principais ferramentas utilizadas na prevenção de doenças infecciosas e contribuiu para a redução ou eliminação de diversas doenças em diferentes regiões do mundo.\nOs termos vacina e vacinação têm origem histórica relacionada à varíola bovina. Edward Jenner utilizou o termo Variolae vaccinae, e posteriormente Louis Pasteur propôs a ampliação do uso do termo para outras formas de imunização.",
+"keywords": [
+"Vacina",
+"vacina"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Terapia cognitivo-comportamental",
+"titulo": "Terapia cognitivo-comportamental — Resumo e contexto",
+"texto": "Terapia cognitivo-comportamental (TCC) é uma forma de psicoterapia baseada em princípios e técnicas da psicologia. A TCC trabalha com a relação entre pensamentos, emoções e comportamentos e pode ser utilizada no tratamento de diferentes condições psicológicas e psiquiátricas.\nAs técnicas utilizadas dependem do problema apresentado e dos objetivos terapêuticos. Entre as abordagens utilizadas estão identificação e avaliação de pensamentos, modificação de padrões comportamentais, exposição gradual a situações específicas, treinamento de habilidades e desenvolvimento de estratégias para lidar com dificuldades.\nA terapia cognitivo-comportamental possui diferentes modalidades e está em constante desenvolvimento. Sua aplicação deve considerar as características individuais da pessoa, o problema apresentado e as evidências disponíveis para cada condição.",
+"keywords": [
+"Terapia cognitivo-comportamental",
+"terapia cognitivo-comportamental"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Síndrome de burnout",
+"titulo": "Síndrome de burnout — Resumo e contexto",
+"texto": "A síndrome de burnout, também conhecida como síndrome do esgotamento profissional, é um fenômeno relacionado ao trabalho caracterizado por esgotamento, distanciamento mental ou cinismo em relação ao trabalho e redução da eficácia profissional. O termo burnout vem do inglês e está associado à ideia de esgotamento.\nA Organização Mundial da Saúde incluiu o burnout na Classificação Internacional de Doenças (CID-11) como um fenômeno ocupacional, e não como uma condição médica. Segundo a OMS, o burnout resulta de estresse crônico no local de trabalho que não foi gerenciado com sucesso.\nO burnout pode estar associado a consequências para o bem-estar e para a vida profissional. A avaliação de sintomas persistentes deve considerar o contexto de trabalho e outras possíveis condições de saúde, incluindo ansiedade, depressão e distúrbios do sono.",
+"keywords": [
+"Síndrome de burnout",
+"síndrome de burnout",
+"Sindrome de burnout",
+"sindrome de burnout"
+],
+"fonte": "Wikipedia"
+},
+{
+"assunto": "Sono",
+"titulo": "Sono — Resumo e contexto",
+"texto": "Sono é um estado fisiológico caracterizado por alterações na consciência, redução da atividade motora e mudanças na resposta aos estímulos do ambiente. Ele se diferencia da vigília e de estados de alteração grave da consciência por apresentar padrões específicos e reversíveis de atividade cerebral e fisiológica.\nO sono ocorre em ciclos que incluem diferentes fases, entre elas o sono de movimentos rápidos dos olhos (REM) e o sono não REM. Durante o sono ocorrem processos importantes relacionados à memória, à regulação emocional, ao metabolismo e à recuperação de diferentes sistemas do organismo. O ritmo circadiano interno participa da regulação do ciclo sono-vigília.\nOs seres humanos podem apresentar diversos distúrbios do sono, incluindo insônia, hipersonia, narcolepsia, apneia do sono, parassonias e distúrbios do ritmo circadiano. Fatores ambientais e comportamentais, incluindo exposição à luz artificial durante a noite, podem influenciar os padrões de sono.",
+"keywords": [
+"Sono",
+"sono"
+],
+"fonte": "Wikipedia"
+},
+  {
+    "assunto": "como resetar meu PC?",
+    "titulo": "como resetar meu PC?",
+    "texto": "Respostas por Marca:Dell: Inicialize em Safe Mode (F8 ao ligar) → Sistema Recuperação → Redefinir PC | Positivo: Configurações → Sistema → Recuperação → Redefinir este PC | Samsung (Desktop): Painel de Controle → Sistema → Recuperação → Reset | Mac: Apple Menu → Preferências do Sistema → Recuperação → Apagar Mac | Notebook LG: Configurações → Recuperação → Redefinição de Fábrica | ASUS: F9 ao iniciar → Opções Avançadas → Recuperação do Sistema | HP/Pavilion: F11 ao ligar → Restaurar Sistema → Reset completo",
+   "keywords": [ "pc como resetar", "como reseto meu pc", "como resetar meu pc", "resetar pc"],
+   "fonte": "AVG",
+  },
  {
     "assunto": "Geografia humana",
     "titulo": "Geografia humana — Resumo e contexto",
