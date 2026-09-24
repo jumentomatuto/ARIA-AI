@@ -1,0 +1,105 @@
+function removerAcentos(str) {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
+function gerarKeywords(nome) {
+    const limpo = nome.trim();
+    const semAcento = removerAcentos(limpo);
+    return Array.from(new Set([
+        limpo,
+        limpo.toLowerCase(),
+        semAcento,
+        semAcento.toLowerCase()
+    ]));
+}
+
+function extrairSlugDoUrl(urlStr) {
+    try {
+        const url = new URL(urlStr);
+        const parts = url.pathname.split('/').filter(Boolean);
+        const lastPart = decodeURIComponent(parts[parts.length - 1] || '');
+        return lastPart.split('#')[0].split('?')[0].replace(/_/g, ' ').trim();
+    } catch {
+        return '';
+    }
+}
+
+function atualizarContador() {
+    const raw = document.getElementById('inputUrls').value;
+    const lines = raw.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+    const counterEl = document.getElementById('counter');
+    counterEl.textContent = `${lines.length} / 25 links`;
+    counterEl.style.color = lines.length > 25 ? '#dc2626' : '#64748b';
+}
+
+async function processarLink(urlStr) {
+    urlStr = urlStr.trim();
+    if (!urlStr) return null;
+
+    let assunto = extrairSlugDoUrl(urlStr) || 'Tópico';
+    let texto = `Informações gerais extraídas de ${urlStr}`;
+    let fonte = 'Web';
+
+    if (urlStr.includes('wikipedia.org')) {
+        fonte = 'Wikipedia';
+        try {
+            const lang = urlStr.includes('en.wikipedia.org') ? 'en' : 'pt';
+            const endpoint = `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&origin=*&titles=${encodeURIComponent(assunto)}&prop=extracts&exintro=true&explaintext=true`;
+            
+            const res = await fetch(endpoint);
+            if (res.ok) {
+                const data = await res.json();
+                const pages = data.query?.pages;
+                if (pages) {
+                    const page = Object.values(pages)[0];
+                    if (page && !page.missing) {
+                        if (page.title) assunto = page.title;
+                        if (page.extract && page.extract.trim().length > 0) {
+                            texto = page.extract.trim();
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+            console.warn('Falha na API da Wikipedia, usando fallback:', e);
+        }
+    }
+
+    return {
+        assunto: assunto,
+        titulo: `${assunto} — Resumo e contexto`,
+        texto: texto,
+        keywords: gerarKeywords(assunto),
+        fonte: fonte
+    };
+}
+
+async function executarExtracao() {
+    const raw = document.getElementById('inputUrls').value;
+    const lines = raw.split('\n').map(l => l.trim()).filter(l => l.length > 0).slice(0, 25);
+    const outEl = document.getElementById('output');
+    const btnCopiar = document.getElementById('btnCopiar');
+
+    if (lines.length === 0) {
+        alert('Cole pelo menos um link.');
+        return;
+    }
+
+    outEl.textContent = `Processando ${lines.length} link(s)...`;
+    btnCopiar.classList.add('hidden');
+
+    try {
+        const resultados = await Promise.all(lines.map(line => processarLink(line)));
+        outEl.textContent = JSON.stringify(resultados.filter(Boolean), null, 2);
+        btnCopiar.classList.remove('hidden');
+    } catch (err) {
+        outEl.textContent = `Erro: ${err.message}`;
+    }
+}
+
+function copiarJson() {
+    const text = document.getElementById('output').textContent;
+    navigator.clipboard.writeText(text).then(() => {
+        alert('Copiado!');
+    });
+}
